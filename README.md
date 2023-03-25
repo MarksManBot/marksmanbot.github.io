@@ -5,7 +5,7 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 # Daily Newsletter
 *Last Updated: 2023-03-25 15:29:12.740466*
 ---
-# BULLISH STOCKS
+# Bullish Stocks
 ---
 **Multiple Bottoms**
 
@@ -141,7 +141,7 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ---
 
-# BEARISH STOCKS 
+# Bearish Stocks 
 ---
 
 ---
