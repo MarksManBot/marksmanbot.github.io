@@ -13,17 +13,17 @@ This is your daily newsletter where I have scanned S&P500 and Nasdaq Stocks over
 (1) UDR
 
 <div style="width:60px ; height:60px">
- ![UDR](/images/UDR.jpg)
+ ![UDR](images/UDR.jpg)
  <div>
 (2) MDT
 
 <div style="width:60px ; height:60px">
- ![MDT](/images/MDT.jpg)
+ ![MDT](images/MDT.jpg)
  <div>
 (3) SWK
 
 <div style="width:60px ; height:60px">
- ![SWK](/images/SWK.jpg)
+ ![SWK](images/SWK.jpg)
  <div>
 
 =====================================
@@ -31,22 +31,22 @@ This is your daily newsletter where I have scanned S&P500 and Nasdaq Stocks over
 (1) INTC
 
 <div style="width:60px ; height:60px">
- ![INTC](/images/INTC.jpg)
+ ![INTC](images/INTC.jpg)
  <div>
 (2) SBAC
 
 <div style="width:60px ; height:60px">
- ![SBAC](/images/SBAC.jpg)
+ ![SBAC](images/SBAC.jpg)
  <div>
 (3) MKC
 
 <div style="width:60px ; height:60px">
- ![MKC](/images/MKC.jpg)
+ ![MKC](images/MKC.jpg)
  <div>
 (4) CHRW
 
 <div style="width:60px ; height:60px">
- ![CHRW](/images/CHRW.jpg)
+ ![CHRW](images/CHRW.jpg)
  <div>
 
 =====================================
@@ -54,45 +54,27 @@ This is your daily newsletter where I have scanned S&P500 and Nasdaq Stocks over
 (1) SO
 
 <div style="width:60px ; height:60px">
- ![SO](/images/SO.jpg)
+ ![SO](images/SO.jpg)
  <div>
 (2) COST
 
 <div style="width:60px ; height:60px">
- ![COST](/images/COST.jpg)
+ ![COST](images/COST.jpg)
  <div>
 (3) ACN
 
 <div style="width:60px ; height:60px">
- ![ACN](/images/ACN.jpg)
+ ![ACN](images/ACN.jpg)
  <div>
 (4) JKHY
 
 <div style="width:60px ; height:60px">
- ![JKHY](/images/JKHY.jpg)
+ ![JKHY](images/JKHY.jpg)
  <div>
 (5) MCD
 
 <div style="width:60px ; height:60px">
- ![MCD](/images/MCD.jpg)
- <div>
-
-=====================================
-**Oversold Stock**
-(1) FRC
-
-<div style="width:60px ; height:60px">
- ![FRC](/images/FRC.jpg)
- <div>
-(2) AAP
-
-<div style="width:60px ; height:60px">
- ![AAP](/images/AAP.jpg)
- <div>
-(3) LUMN
-
-<div style="width:60px ; height:60px">
- ![LUMN](/images/LUMN.jpg)
+ ![MCD](images/MCD.jpg)
  <div>
 
 =====================================
@@ -105,22 +87,45 @@ This is your daily newsletter where I have scanned S&P500 and Nasdaq Stocks over
 (1) ILMN
 
 <div style="width:60px ; height:60px">
- ![ILMN](/images/ILMN.jpg)
+ ![ILMN](images/ILMN.jpg)
  <div>
 (2) BIIB
 
 <div style="width:60px ; height:60px">
- ![BIIB](/images/BIIB.jpg)
+ ![BIIB](images/BIIB.jpg)
  <div>
 (3) ALB
 
 <div style="width:60px ; height:60px">
- ![ALB](/images/ALB.jpg)
+ ![ALB](images/ALB.jpg)
  <div>
 (4) ABBV
 
 <div style="width:60px ; height:60px">
- ![ABBV](/images/ABBV.jpg)
+ ![ABBV](images/ABBV.jpg)
+ <div>
+
+=====================================
+**Multiple Top**
+(1) DXCM
+
+<div style="width:60px ; height:60px">
+ ![DXCM](images/DXCM.jpg)
+ <div>
+(2) ROST
+
+<div style="width:60px ; height:60px">
+ ![ROST](images/ROST.jpg)
+ <div>
+(3) MNST
+
+<div style="width:60px ; height:60px">
+ ![MNST](images/MNST.jpg)
+ <div>
+(4) HBAN
+
+<div style="width:60px ; height:60px">
+ ![HBAN](images/HBAN.jpg)
  <div>
 
 =====================================
@@ -128,27 +133,27 @@ This is your daily newsletter where I have scanned S&P500 and Nasdaq Stocks over
 (1) NUE
 
 <div style="width:60px ; height:60px">
- ![NUE](/images/NUE.jpg)
+ ![NUE](images/NUE.jpg)
  <div>
 (2) AZO
 
 <div style="width:60px ; height:60px">
- ![AZO](/images/AZO.jpg)
+ ![AZO](images/AZO.jpg)
  <div>
 (3) VRTX
 
 <div style="width:60px ; height:60px">
- ![VRTX](/images/VRTX.jpg)
+ ![VRTX](images/VRTX.jpg)
  <div>
 (4) ORLY
 
 <div style="width:60px ; height:60px">
- ![ORLY](/images/ORLY.jpg)
+ ![ORLY](images/ORLY.jpg)
  <div>
 (5) PSX
 
 <div style="width:60px ; height:60px">
- ![PSX](/images/PSX.jpg)
+ ![PSX](images/PSX.jpg)
  <div>
 
 =====================================
@@ -156,27 +161,27 @@ This is your daily newsletter where I have scanned S&P500 and Nasdaq Stocks over
 (1) VRSK
 
 <div style="width:60px ; height:60px">
- ![VRSK](/images/VRSK.jpg)
+ ![VRSK](images/VRSK.jpg)
  <div>
 (2) PWR
 
 <div style="width:60px ; height:60px">
- ![PWR](/images/PWR.jpg)
+ ![PWR](images/PWR.jpg)
  <div>
 (3) TDY
 
 <div style="width:60px ; height:60px">
- ![TDY](/images/TDY.jpg)
+ ![TDY](images/TDY.jpg)
  <div>
 (4) APH
 
 <div style="width:60px ; height:60px">
- ![APH](/images/APH.jpg)
+ ![APH](images/APH.jpg)
  <div>
 (5) NVR
 
 <div style="width:60px ; height:60px">
- ![NVR](/images/NVR.jpg)
+ ![NVR](images/NVR.jpg)
  <div>
 
 =====================================
@@ -184,45 +189,22 @@ This is your daily newsletter where I have scanned S&P500 and Nasdaq Stocks over
 (1) LIN
 
 <div style="width:60px ; height:60px">
- ![LIN](/images/LIN.jpg)
+ ![LIN](images/LIN.jpg)
  <div>
 (2) AMAT
 
 <div style="width:60px ; height:60px">
- ![AMAT](/images/AMAT.jpg)
+ ![AMAT](images/AMAT.jpg)
  <div>
 (3) TTWO
 
 <div style="width:60px ; height:60px">
- ![TTWO](/images/TTWO.jpg)
+ ![TTWO](images/TTWO.jpg)
  <div>
 (4) BIO
 
 <div style="width:60px ; height:60px">
- ![BIO](/images/BIO.jpg)
- <div>
-
-=====================================
-**Horizontal S/R**. It can be played as bearish if stock loses the support
-(1) NOW
-
-<div style="width:60px ; height:60px">
- ![NOW](/images/NOW.jpg)
- <div>
-(2) NWS
-
-<div style="width:60px ; height:60px">
- ![NWS](/images/NWS.jpg)
- <div>
-(3) MU
-
-<div style="width:60px ; height:60px">
- ![MU](/images/MU.jpg)
- <div>
-(4) PEG
-
-<div style="width:60px ; height:60px">
- ![PEG](/images/PEG.jpg)
+ ![BIO](images/BIO.jpg)
  <div>
 
 =====================================
