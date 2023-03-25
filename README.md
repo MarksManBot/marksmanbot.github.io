@@ -18,7 +18,7 @@ This is your daily newsletter where I have scanned S&P500 and Nasdaq Stocks over
 (2) MDT
 
 <div style="width:60px ; height:60px">
- ![MDT](images/MDT.jpg)
+ ![MDT](https://github.com/MarksManBot/marksmanbot.github.io/blob/main/images/MDT.jpg)
  <div>
 (3) SWK
 
