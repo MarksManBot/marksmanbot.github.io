@@ -3,42 +3,46 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: 2023-03-26 13:57:41.112463*
+*Last Updated: 2023-03-27 13:57:41.130617*
 ---
 # BULLISH STOCKS
 ---
 **Multiple Bottoms**
 
-(1) UDR - UDR, Inc.
+(1) CCI - Crown Castle Inc.
+
+![CCI](images/CCI.jpg)
+
+(2) UDR - UDR, Inc.
 
 ![UDR](images/UDR.jpg)
 
-(2) MDT - Medtronic plc
+(3) MDT - Medtronic plc
 
 ![MDT](images/MDT.jpg)
 
-(3) SWK - Stanley Black & Decker, Inc.
+(4) SWK - Stanley Black & Decker, Inc.
 
 ![SWK](images/SWK.jpg)
 
 ---
 **Double Bottom Pattern**
 
-(1) INTC - Intel Corporation
+(1) DTE - DTE Energy Company
+
+![DTE](images/DTE.jpg)
+
+(2) MU - Micron Technology, Inc.
+
+![MU](images/MU.jpg)
+
+(3) INTC - Intel Corporation
 
 ![INTC](images/INTC.jpg)
 
-(2) SBAC - SBA Communications Corporation
+(4) SBAC - SBA Communications Corporation
 
 ![SBAC](images/SBAC.jpg)
-
-(3) MKC - McCormick & Company, Incorporated
-
-![MKC](images/MKC.jpg)
-
-(4) CHRW - C.H. Robinson Worldwide, Inc.
-
-![CHRW](images/CHRW.jpg)
 
 ---
 **Falling Wedge Pattern**
@@ -47,17 +51,17 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![SO](images/SO.jpg)
 
-(2) COST - Costco Wholesale Corporation
+(2) JKHY - Jack Henry & Associates, Inc.
 
-![COST](images/COST.jpg)
+![JKHY](images/JKHY.jpg)
 
 (3) ACN - Accenture plc
 
 ![ACN](images/ACN.jpg)
 
-(4) JKHY - Jack Henry & Associates, Inc.
+(4) COST - Costco Wholesale Corporation
 
-![JKHY](images/JKHY.jpg)
+![COST](images/COST.jpg)
 
 (5) MCD - McDonald's Corporation
 
@@ -81,29 +85,37 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 ---
 **Trendline Support**
 
-(1) PRU - Prudential Financial, Inc.
-
-![PRU](images/PRU.jpg)
-
-(2) NWS - News Corporation
+(1) NWS - News Corporation
 
 ![NWS](images/NWS.jpg)
 
-(3) LHX - L3Harris Technologies, Inc.
+(2) LHX - L3Harris Technologies, Inc.
 
 ![LHX](images/LHX.jpg)
 
-(4) PEP - PepsiCo, Inc.
+(3) AFL - Aflac Incorporated
 
-![PEP](images/PEP.jpg)
+![AFL](images/AFL.jpg)
+
+(4) HLT - Hilton Worldwide Holdings Inc.
+
+![HLT](images/HLT.jpg)
 
 (5) GS - The Goldman Sachs Group, Inc.
 
 ![GS](images/GS.jpg)
 
-(6) AFL - Aflac Incorporated
+(6) WTW - Willis Towers Watson Public Limited Company
 
-![AFL](images/AFL.jpg)
+![WTW](images/WTW.jpg)
+
+(7) GD - General Dynamics Corporation
+
+![GD](images/GD.jpg)
+
+(8) PRU - Prudential Financial, Inc.
+
+![PRU](images/PRU.jpg)
 
 ---
 **Horizontal S/R**
@@ -116,13 +128,9 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![NWS](images/NWS.jpg)
 
-(3) MU - Micron Technology, Inc.
+(3) FDS - FactSet Research Systems Inc.
 
-![MU](images/MU.jpg)
-
-(4) PEG - Public Service Enterprise Group Incorporated
-
-![PEG](images/PEG.jpg)
+![FDS](images/FDS.jpg)
 
 ---
 **Oversold Stock**
@@ -130,14 +138,6 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 (1) FRC - First Republic Bank
 
 ![FRC](images/FRC.jpg)
-
-(2) AAP - Advance Auto Parts, Inc.
-
-![AAP](images/AAP.jpg)
-
-(3) LUMN - Lumen Technologies, Inc.
-
-![LUMN](images/LUMN.jpg)
 
 ---
 
@@ -158,10 +158,6 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 (3) ALB - Albemarle Corporation
 
 ![ALB](images/ALB.jpg)
-
-(4) ABBV - AbbVie Inc.
-
-![ABBV](images/ABBV.jpg)
 
 ---
 **Multiple Top**
@@ -201,7 +197,11 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![ORLY](images/ORLY.jpg)
 
-(5) PSX - Phillips 66
+(5) CVX - Chevron Corporation
+
+![CVX](images/CVX.jpg)
+
+(6) PSX - Phillips 66
 
 ![PSX](images/PSX.jpg)
 
@@ -212,59 +212,74 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![VRSK](images/VRSK.jpg)
 
-(2) PWR - Quanta Services, Inc.
-
-![PWR](images/PWR.jpg)
-
-(3) TDY - Teledyne Technologies Incorporated
+(2) TDY - Teledyne Technologies Incorporated
 
 ![TDY](images/TDY.jpg)
 
-(4) APH - Amphenol Corporation
+(3) APH - Amphenol Corporation
 
 ![APH](images/APH.jpg)
 
-(5) NVR - NVR, Inc.
+(4) NVR - NVR, Inc.
 
 ![NVR](images/NVR.jpg)
 
 ---
 **Rising Wedge Pattern**
 
-(1) LIN - Linde plc
+(1) PWR - Quanta Services, Inc.
+
+![PWR](images/PWR.jpg)
+
+(2) LIN - Linde plc
 
 ![LIN](images/LIN.jpg)
 
-(2) AMAT - Applied Materials, Inc.
+(3) AMAT - Applied Materials, Inc.
 
 ![AMAT](images/AMAT.jpg)
 
-(3) TTWO - Take-Two Interactive Software, Inc.
+(4) TTWO - Take-Two Interactive Software, Inc.
 
 ![TTWO](images/TTWO.jpg)
 
-(4) BIO - Bio-Rad Laboratories, Inc.
+(5) BIO - Bio-Rad Laboratories, Inc.
 
 ![BIO](images/BIO.jpg)
 
 ---
+**Ascending Triangle**
+
+(1) DRI - Darden Restaurants, Inc.
+
+![DRI](images/DRI.jpg)
+
+---
 **Trendline Resistance**
 
-(1) ED - Consolidated Edison, Inc.
-
-![ED](images/ED.jpg)
-
-(2) PWR - Quanta Services, Inc.
+(1) PWR - Quanta Services, Inc.
 
 ![PWR](images/PWR.jpg)
 
-(3) AEE - Ameren Corporation
+(2) TDY - Teledyne Technologies Incorporated
 
-![AEE](images/AEE.jpg)
+![TDY](images/TDY.jpg)
 
-(4) CBOE - Cboe Global Markets, Inc.
+(3) ED - Consolidated Edison, Inc.
+
+![ED](images/ED.jpg)
+
+(4) CME - CME Group Inc.
+
+![CME](images/CME.jpg)
+
+(5) CBOE - Cboe Global Markets, Inc.
 
 ![CBOE](images/CBOE.jpg)
+
+(6) AEE - Ameren Corporation
+
+![AEE](images/AEE.jpg)
 
 ---
 **Horizontal S/R**. It can be played as bearish if stock loses the support
@@ -277,12 +292,8 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![NWS](images/NWS.jpg)
 
-(3) MU - Micron Technology, Inc.
+(3) FDS - FactSet Research Systems Inc.
 
-![MU](images/MU.jpg)
-
-(4) PEG - Public Service Enterprise Group Incorporated
-
-![PEG](images/PEG.jpg)
+![FDS](images/FDS.jpg)
 
 ---
