@@ -3,15 +3,15 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: 2023-03-27 13:57:41.130617*
+*Last Updated: 2023-03-28 14:16:05.224970*
 ---
 # BULLISH STOCKS
 ---
 **Multiple Bottoms**
 
-(1) CCI - Crown Castle Inc.
+(1) INTC - Intel Corporation
 
-![CCI](images/CCI.jpg)
+![INTC](images/INTC.jpg)
 
 (2) UDR - UDR, Inc.
 
@@ -28,19 +28,15 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 ---
 **Double Bottom Pattern**
 
-(1) DTE - DTE Energy Company
+(1) IFF - International Flavors & Fragrances Inc.
 
-![DTE](images/DTE.jpg)
+![IFF](images/IFF.jpg)
 
-(2) MU - Micron Technology, Inc.
+(2) DXC - DXC Technology Company
 
-![MU](images/MU.jpg)
+![DXC](images/DXC.jpg)
 
-(3) INTC - Intel Corporation
-
-![INTC](images/INTC.jpg)
-
-(4) SBAC - SBA Communications Corporation
+(3) SBAC - SBA Communications Corporation
 
 ![SBAC](images/SBAC.jpg)
 
@@ -78,10 +74,6 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![HUM](images/HUM.jpg)
 
-(3) PSX - Phillips 66
-
-![PSX](images/PSX.jpg)
-
 ---
 **Trendline Support**
 
@@ -93,44 +85,24 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![LHX](images/LHX.jpg)
 
-(3) AFL - Aflac Incorporated
-
-![AFL](images/AFL.jpg)
-
-(4) HLT - Hilton Worldwide Holdings Inc.
+(3) HLT - Hilton Worldwide Holdings Inc.
 
 ![HLT](images/HLT.jpg)
 
-(5) GS - The Goldman Sachs Group, Inc.
-
-![GS](images/GS.jpg)
-
-(6) WTW - Willis Towers Watson Public Limited Company
+(4) WTW - Willis Towers Watson Public Limited Company
 
 ![WTW](images/WTW.jpg)
-
-(7) GD - General Dynamics Corporation
-
-![GD](images/GD.jpg)
-
-(8) PRU - Prudential Financial, Inc.
-
-![PRU](images/PRU.jpg)
 
 ---
 **Horizontal S/R**
 
-(1) NOW - ServiceNow, Inc.
+(1) FDS - FactSet Research Systems Inc.
 
-![NOW](images/NOW.jpg)
+![FDS](images/FDS.jpg)
 
 (2) NWS - News Corporation
 
 ![NWS](images/NWS.jpg)
-
-(3) FDS - FactSet Research Systems Inc.
-
-![FDS](images/FDS.jpg)
 
 ---
 **Oversold Stock**
@@ -147,36 +119,40 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 ---
 **Head and Shoulders Pattern**
 
-(1) ILMN - Illumina, Inc.
+(1) HAL - Halliburton Company
+
+![HAL](images/HAL.jpg)
+
+(2) ILMN - Illumina, Inc.
 
 ![ILMN](images/ILMN.jpg)
 
-(2) BIIB - Biogen Inc.
+(3) BIIB - Biogen Inc.
 
 ![BIIB](images/BIIB.jpg)
 
-(3) ALB - Albemarle Corporation
+(4) ALB - Albemarle Corporation
 
 ![ALB](images/ALB.jpg)
+
+(5) ABBV - AbbVie Inc.
+
+![ABBV](images/ABBV.jpg)
 
 ---
 **Multiple Top**
 
-(1) DXCM - DexCom, Inc.
+(1) HBAN - Huntington Bancshares Incorporated
+
+![HBAN](images/HBAN.jpg)
+
+(2) DXCM - DexCom, Inc.
 
 ![DXCM](images/DXCM.jpg)
 
-(2) ROST - Ross Stores, Inc.
+(3) ROST - Ross Stores, Inc.
 
 ![ROST](images/ROST.jpg)
-
-(3) MNST - Monster Beverage Corporation
-
-![MNST](images/MNST.jpg)
-
-(4) HBAN - Huntington Bancshares Incorporated
-
-![HBAN](images/HBAN.jpg)
 
 ---
 **Double Top Pattern**
@@ -220,7 +196,11 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![APH](images/APH.jpg)
 
-(4) NVR - NVR, Inc.
+(4) ANET - Arista Networks, Inc.
+
+![ANET](images/ANET.jpg)
+
+(5) NVR - NVR, Inc.
 
 ![NVR](images/NVR.jpg)
 
@@ -235,13 +215,13 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![LIN](images/LIN.jpg)
 
-(3) AMAT - Applied Materials, Inc.
-
-![AMAT](images/AMAT.jpg)
-
-(4) TTWO - Take-Two Interactive Software, Inc.
+(3) TTWO - Take-Two Interactive Software, Inc.
 
 ![TTWO](images/TTWO.jpg)
+
+(4) AMAT - Applied Materials, Inc.
+
+![AMAT](images/AMAT.jpg)
 
 (5) BIO - Bio-Rad Laboratories, Inc.
 
@@ -284,16 +264,12 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 ---
 **Horizontal S/R**. It can be played as bearish if stock loses the support
 
-(1) NOW - ServiceNow, Inc.
+(1) FDS - FactSet Research Systems Inc.
 
-![NOW](images/NOW.jpg)
+![FDS](images/FDS.jpg)
 
 (2) NWS - News Corporation
 
 ![NWS](images/NWS.jpg)
-
-(3) FDS - FactSet Research Systems Inc.
-
-![FDS](images/FDS.jpg)
 
 ---
