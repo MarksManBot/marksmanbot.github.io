@@ -3,27 +3,38 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: 2023-03-28 14:33:19.790810*
+*Last Updated: 2023-03-29 15:14:27.856011*
 ---
 # BULLISH STOCKS
 ---
+Inverse Head and Shoulders
+
+(1) AAPL - Apple Inc.
+
+![AAPL](images/AAPL.jpg)
+
+---
 **Multiple Bottoms**
 
-(1) INTC - Intel Corporation
+(1) SWK - Stanley Black & Decker, Inc.
+
+![SWK](images/SWK.jpg)
+
+(2) CCI - Crown Castle Inc.
+
+![CCI](images/CCI.jpg)
+
+(3) INTC - Intel Corporation
 
 ![INTC](images/INTC.jpg)
 
-(2) UDR - UDR, Inc.
+(4) UDR - UDR, Inc.
 
 ![UDR](images/UDR.jpg)
 
-(3) MDT - Medtronic plc
+(5) MDT - Medtronic plc
 
 ![MDT](images/MDT.jpg)
-
-(4) SWK - Stanley Black & Decker, Inc.
-
-![SWK](images/SWK.jpg)
 
 ---
 **Double Bottom Pattern**
@@ -36,26 +47,38 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![DXC](images/DXC.jpg)
 
-(3) SBAC - SBA Communications Corporation
+(3) DTE - DTE Energy Company
+
+![DTE](images/DTE.jpg)
+
+(4) SBAC - SBA Communications Corporation
 
 ![SBAC](images/SBAC.jpg)
 
 ---
 **Falling Wedge Pattern**
 
-(1) SO - The Southern Company
-
-![SO](images/SO.jpg)
-
-(2) JKHY - Jack Henry & Associates, Inc.
+(1) JKHY - Jack Henry & Associates, Inc.
 
 ![JKHY](images/JKHY.jpg)
 
-(3) ACN - Accenture plc
+(2) ACN - Accenture plc
 
 ![ACN](images/ACN.jpg)
 
-(4) MCD - McDonald's Corporation
+(3) COST - Costco Wholesale Corporation
+
+![COST](images/COST.jpg)
+
+(4) SO - The Southern Company
+
+![SO](images/SO.jpg)
+
+(5) CNP - CenterPoint Energy, Inc.
+
+![CNP](images/CNP.jpg)
+
+(6) MCD - McDonald's Corporation
 
 ![MCD](images/MCD.jpg)
 
@@ -66,39 +89,31 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![FDS](images/FDS.jpg)
 
-(2) HUM - Humana Inc.
-
-![HUM](images/HUM.jpg)
-
 ---
 **Trendline Support**
 
-(1) NWS - News Corporation
+(1) MPC - Marathon Petroleum Corporation
 
-![NWS](images/NWS.jpg)
+![MPC](images/MPC.jpg)
 
-(2) LHX - L3Harris Technologies, Inc.
-
-![LHX](images/LHX.jpg)
-
-(3) HLT - Hilton Worldwide Holdings Inc.
-
-![HLT](images/HLT.jpg)
-
-(4) WTW - Willis Towers Watson Public Limited Company
+(2) WTW - Willis Towers Watson Public Limited Company
 
 ![WTW](images/WTW.jpg)
 
 ---
 **Horizontal S/R**
 
-(1) FDS - FactSet Research Systems Inc.
+(1) CLX - The Clorox Company
+
+![CLX](images/CLX.jpg)
+
+(2) CCL - Carnival Corporation & plc
+
+![CCL](images/CCL.jpg)
+
+(3) FDS - FactSet Research Systems Inc.
 
 ![FDS](images/FDS.jpg)
-
-(2) NWS - News Corporation
-
-![NWS](images/NWS.jpg)
 
 ---
 **Oversold Stock**
@@ -130,10 +145,6 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 (4) ALB - Albemarle Corporation
 
 ![ALB](images/ALB.jpg)
-
-(5) ABBV - AbbVie Inc.
-
-![ABBV](images/ABBV.jpg)
 
 ---
 **Multiple Top**
@@ -169,59 +180,59 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![ORLY](images/ORLY.jpg)
 
-(5) CVX - Chevron Corporation
+(5) RTX - Raytheon Technologies Corporation
+
+![RTX](images/RTX.jpg)
+
+(6) CVX - Chevron Corporation
 
 ![CVX](images/CVX.jpg)
 
-(6) PSX - Phillips 66
+(7) WFC - Wells Fargo & Company
 
-![PSX](images/PSX.jpg)
+![WFC](images/WFC.jpg)
 
 ---
 **Ascending Channel Pattern**
 
-(1) VRSK - Verisk Analytics, Inc.
-
-![VRSK](images/VRSK.jpg)
-
-(2) TDY - Teledyne Technologies Incorporated
+(1) TDY - Teledyne Technologies Incorporated
 
 ![TDY](images/TDY.jpg)
+
+(2) VRSK - Verisk Analytics, Inc.
+
+![VRSK](images/VRSK.jpg)
 
 (3) APH - Amphenol Corporation
 
 ![APH](images/APH.jpg)
 
-(4) ANET - Arista Networks, Inc.
-
-![ANET](images/ANET.jpg)
-
-(5) NVR - NVR, Inc.
+(4) NVR - NVR, Inc.
 
 ![NVR](images/NVR.jpg)
+
+(5) NXPI - NXP Semiconductors N.V.
+
+![NXPI](images/NXPI.jpg)
 
 ---
 **Rising Wedge Pattern**
 
-(1) PWR - Quanta Services, Inc.
-
-![PWR](images/PWR.jpg)
-
-(2) LIN - Linde plc
+(1) LIN - Linde plc
 
 ![LIN](images/LIN.jpg)
 
-(3) TTWO - Take-Two Interactive Software, Inc.
+(2) PWR - Quanta Services, Inc.
 
-![TTWO](images/TTWO.jpg)
+![PWR](images/PWR.jpg)
 
-(4) AMAT - Applied Materials, Inc.
+(3) AMAT - Applied Materials, Inc.
 
 ![AMAT](images/AMAT.jpg)
 
-(5) BIO - Bio-Rad Laboratories, Inc.
+(4) TTWO - Take-Two Interactive Software, Inc.
 
-![BIO](images/BIO.jpg)
+![TTWO](images/TTWO.jpg)
 
 ---
 **Ascending Triangle**
@@ -241,31 +252,43 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![TDY](images/TDY.jpg)
 
-(3) ED - Consolidated Edison, Inc.
-
-![ED](images/ED.jpg)
-
-(4) CME - CME Group Inc.
-
-![CME](images/CME.jpg)
-
-(5) AEE - Ameren Corporation
+(3) AEE - Ameren Corporation
 
 ![AEE](images/AEE.jpg)
 
-(6) CBOE - Cboe Global Markets, Inc.
+(4) CBOE - Cboe Global Markets, Inc.
 
 ![CBOE](images/CBOE.jpg)
+
+(5) ED - Consolidated Edison, Inc.
+
+![ED](images/ED.jpg)
+
+(6) PEG - Public Service Enterprise Group Incorporated
+
+![PEG](images/PEG.jpg)
+
+(7) CME - CME Group Inc.
+
+![CME](images/CME.jpg)
+
+(8) MU - Micron Technology, Inc.
+
+![MU](images/MU.jpg)
 
 ---
 **Horizontal S/R**. It can be played as bearish if stock loses the support
 
-(1) FDS - FactSet Research Systems Inc.
+(1) CLX - The Clorox Company
+
+![CLX](images/CLX.jpg)
+
+(2) CCL - Carnival Corporation & plc
+
+![CCL](images/CCL.jpg)
+
+(3) FDS - FactSet Research Systems Inc.
 
 ![FDS](images/FDS.jpg)
-
-(2) NWS - News Corporation
-
-![NWS](images/NWS.jpg)
 
 ---
