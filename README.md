@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: 2023-03-29 15:14:27.856011*
+*Last Updated: 2023-03-30 08:30:00.446661*
 ---
 # BULLISH STOCKS
 ---
@@ -16,42 +16,42 @@ Inverse Head and Shoulders
 ---
 **Multiple Bottoms**
 
-(1) SWK - Stanley Black & Decker, Inc.
-
-![SWK](images/SWK.jpg)
-
-(2) CCI - Crown Castle Inc.
-
-![CCI](images/CCI.jpg)
-
-(3) INTC - Intel Corporation
+(1) INTC - Intel Corporation
 
 ![INTC](images/INTC.jpg)
 
-(4) UDR - UDR, Inc.
+(2) UDR - UDR, Inc.
 
 ![UDR](images/UDR.jpg)
 
-(5) MDT - Medtronic plc
+(3) MDT - Medtronic plc
 
 ![MDT](images/MDT.jpg)
 
 ---
 **Double Bottom Pattern**
 
-(1) IFF - International Flavors & Fragrances Inc.
+(1) CCI - Crown Castle Inc.
+
+![CCI](images/CCI.jpg)
+
+(2) IFF - International Flavors & Fragrances Inc.
 
 ![IFF](images/IFF.jpg)
 
-(2) DXC - DXC Technology Company
+(3) SEE - Sealed Air Corporation
+
+![SEE](images/SEE.jpg)
+
+(4) DXC - DXC Technology Company
 
 ![DXC](images/DXC.jpg)
 
-(3) DTE - DTE Energy Company
+(5) DTE - DTE Energy Company
 
 ![DTE](images/DTE.jpg)
 
-(4) SBAC - SBA Communications Corporation
+(6) SBAC - SBA Communications Corporation
 
 ![SBAC](images/SBAC.jpg)
 
@@ -234,6 +234,10 @@ Inverse Head and Shoulders
 
 ![TTWO](images/TTWO.jpg)
 
+(5) BIO - Bio-Rad Laboratories, Inc.
+
+![BIO](images/BIO.jpg)
+
 ---
 **Ascending Triangle**
 
@@ -252,29 +256,29 @@ Inverse Head and Shoulders
 
 ![TDY](images/TDY.jpg)
 
-(3) AEE - Ameren Corporation
-
-![AEE](images/AEE.jpg)
-
-(4) CBOE - Cboe Global Markets, Inc.
+(3) CBOE - Cboe Global Markets, Inc.
 
 ![CBOE](images/CBOE.jpg)
+
+(4) AEE - Ameren Corporation
+
+![AEE](images/AEE.jpg)
 
 (5) ED - Consolidated Edison, Inc.
 
 ![ED](images/ED.jpg)
 
-(6) PEG - Public Service Enterprise Group Incorporated
+(6) MU - Micron Technology, Inc.
 
-![PEG](images/PEG.jpg)
+![MU](images/MU.jpg)
 
 (7) CME - CME Group Inc.
 
 ![CME](images/CME.jpg)
 
-(8) MU - Micron Technology, Inc.
+(8) CNP - CenterPoint Energy, Inc.
 
-![MU](images/MU.jpg)
+![CNP](images/CNP.jpg)
 
 ---
 **Horizontal S/R**. It can be played as bearish if stock loses the support
