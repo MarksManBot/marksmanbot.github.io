@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: 2023-03-31 08:30:00.455208*
+*Last Updated: 2023-04-01 08:30:00.447944*
 ---
 # BULLISH STOCKS
 ---
@@ -19,10 +19,6 @@ Inverse Head and Shoulders
 (1) UDR - UDR, Inc.
 
 ![UDR](images/UDR.jpg)
-
-(2) MDT - Medtronic plc
-
-![MDT](images/MDT.jpg)
 
 ---
 **Double Bottom Pattern**
@@ -51,10 +47,6 @@ Inverse Head and Shoulders
 
 ![INTC](images/INTC.jpg)
 
-(7) IFF - International Flavors & Fragrances Inc.
-
-![IFF](images/IFF.jpg)
-
 ---
 **Falling Wedge Pattern**
 
@@ -70,17 +62,6 @@ Inverse Head and Shoulders
 
 ![COST](images/COST.jpg)
 
-(4) MCD - McDonald's Corporation
-
-![MCD](images/MCD.jpg)
-
----
-**Descending Triangle Pattern**
-
-(1) FDS - FactSet Research Systems Inc.
-
-![FDS](images/FDS.jpg)
-
 ---
 **Trendline Support**
 
@@ -88,36 +69,24 @@ Inverse Head and Shoulders
 
 ![MPC](images/MPC.jpg)
 
-(2) HLT - Hilton Worldwide Holdings Inc.
-
-![HLT](images/HLT.jpg)
-
-(3) NCLH - Norwegian Cruise Line Holdings Ltd.
+(2) NCLH - Norwegian Cruise Line Holdings Ltd.
 
 ![NCLH](images/NCLH.jpg)
 
-(4) WTW - Willis Towers Watson Public Limited Company
+(3) WTW - Willis Towers Watson Public Limited Company
 
 ![WTW](images/WTW.jpg)
 
-(5) EQR - Equity Residential
+(4) EQR - Equity Residential
 
 ![EQR](images/EQR.jpg)
 
 ---
 **Horizontal S/R**
 
-(1) CLX - The Clorox Company
-
-![CLX](images/CLX.jpg)
-
-(2) CCL - Carnival Corporation & plc
+(1) CCL - Carnival Corporation & plc
 
 ![CCL](images/CCL.jpg)
-
-(3) FDS - FactSet Research Systems Inc.
-
-![FDS](images/FDS.jpg)
 
 ---
 **Oversold Stock**
@@ -138,21 +107,13 @@ Inverse Head and Shoulders
 
 ![HAL](images/HAL.jpg)
 
-(2) ILMN - Illumina, Inc.
-
-![ILMN](images/ILMN.jpg)
-
-(3) BIIB - Biogen Inc.
+(2) BIIB - Biogen Inc.
 
 ![BIIB](images/BIIB.jpg)
 
-(4) ALB - Albemarle Corporation
+(3) ALB - Albemarle Corporation
 
 ![ALB](images/ALB.jpg)
-
-(5) ABBV - AbbVie Inc.
-
-![ABBV](images/ABBV.jpg)
 
 ---
 **Multiple Top**
@@ -172,37 +133,33 @@ Inverse Head and Shoulders
 ---
 **Double Top Pattern**
 
-(1) NCLH - Norwegian Cruise Line Holdings Ltd.
+(1) CVX - Chevron Corporation
+
+![CVX](images/CVX.jpg)
+
+(2) NCLH - Norwegian Cruise Line Holdings Ltd.
 
 ![NCLH](images/NCLH.jpg)
 
-(2) NUE - Nucor Corporation
+(3) NUE - Nucor Corporation
 
 ![NUE](images/NUE.jpg)
 
-(3) AZO - AutoZone, Inc.
+(4) AZO - AutoZone, Inc.
 
 ![AZO](images/AZO.jpg)
 
-(4) VRTX - Vertex Pharmaceuticals Incorporated
+(5) VRTX - Vertex Pharmaceuticals Incorporated
 
 ![VRTX](images/VRTX.jpg)
 
-(5) ORLY - O'Reilly Automotive, Inc.
+(6) ORLY - O'Reilly Automotive, Inc.
 
 ![ORLY](images/ORLY.jpg)
-
-(6) RTX - Raytheon Technologies Corporation
-
-![RTX](images/RTX.jpg)
 
 (7) WFC - Wells Fargo & Company
 
 ![WFC](images/WFC.jpg)
-
-(8) PSX - Phillips 66
-
-![PSX](images/PSX.jpg)
 
 ---
 **Ascending Channel Pattern**
@@ -238,11 +195,15 @@ Inverse Head and Shoulders
 
 ![PWR](images/PWR.jpg)
 
-(3) AMAT - Applied Materials, Inc.
+(3) CSCO - Cisco Systems, Inc.
+
+![CSCO](images/CSCO.jpg)
+
+(4) AMAT - Applied Materials, Inc.
 
 ![AMAT](images/AMAT.jpg)
 
-(4) TTWO - Take-Two Interactive Software, Inc.
+(5) TTWO - Take-Two Interactive Software, Inc.
 
 ![TTWO](images/TTWO.jpg)
 
@@ -256,47 +217,31 @@ Inverse Head and Shoulders
 ---
 **Trendline Resistance**
 
-(1) PWR - Quanta Services, Inc.
+(1) ED - Consolidated Edison, Inc.
+
+![ED](images/ED.jpg)
+
+(2) PWR - Quanta Services, Inc.
 
 ![PWR](images/PWR.jpg)
 
-(2) TDY - Teledyne Technologies Incorporated
+(3) TDY - Teledyne Technologies Incorporated
 
 ![TDY](images/TDY.jpg)
-
-(3) CBOE - Cboe Global Markets, Inc.
-
-![CBOE](images/CBOE.jpg)
 
 (4) AEE - Ameren Corporation
 
 ![AEE](images/AEE.jpg)
 
-(5) ED - Consolidated Edison, Inc.
+(5) CBOE - Cboe Global Markets, Inc.
 
-![ED](images/ED.jpg)
-
-(6) MU - Micron Technology, Inc.
-
-![MU](images/MU.jpg)
-
-(7) CNP - CenterPoint Energy, Inc.
-
-![CNP](images/CNP.jpg)
+![CBOE](images/CBOE.jpg)
 
 ---
 **Horizontal S/R**. It can be played as bearish if stock loses the support
 
-(1) CLX - The Clorox Company
-
-![CLX](images/CLX.jpg)
-
-(2) CCL - Carnival Corporation & plc
+(1) CCL - Carnival Corporation & plc
 
 ![CCL](images/CCL.jpg)
-
-(3) FDS - FactSet Research Systems Inc.
-
-![FDS](images/FDS.jpg)
 
 ---
