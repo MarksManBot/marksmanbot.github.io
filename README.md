@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: 2023-04-02 08:30:00.338546*
+*Last Updated: 2023-04-03 08:30:00.344959*
 ---
 # BULLISH STOCKS
 ---
@@ -217,17 +217,17 @@ Inverse Head and Shoulders
 ---
 **Trendline Resistance**
 
-(1) ED - Consolidated Edison, Inc.
+(1) TDY - Teledyne Technologies Incorporated
+
+![TDY](images/TDY.jpg)
+
+(2) ED - Consolidated Edison, Inc.
 
 ![ED](images/ED.jpg)
 
-(2) PWR - Quanta Services, Inc.
+(3) PWR - Quanta Services, Inc.
 
 ![PWR](images/PWR.jpg)
-
-(3) TDY - Teledyne Technologies Incorporated
-
-![TDY](images/TDY.jpg)
 
 (4) AEE - Ameren Corporation
 
