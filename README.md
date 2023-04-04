@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: 2023-04-03 08:30:00.344959*
+*Last Updated: 2023-04-04 08:30:00.562735*
 ---
 # BULLISH STOCKS
 ---
@@ -14,36 +14,21 @@ Inverse Head and Shoulders
 ![AAPL](images/AAPL.jpg)
 
 ---
-**Multiple Bottoms**
-
-(1) UDR - UDR, Inc.
-
-![UDR](images/UDR.jpg)
-
----
 **Double Bottom Pattern**
 
-(1) CHRW - C.H. Robinson Worldwide, Inc.
-
-![CHRW](images/CHRW.jpg)
-
-(2) CCI - Crown Castle Inc.
-
-![CCI](images/CCI.jpg)
-
-(3) LYV - Live Nation Entertainment, Inc.
-
-![LYV](images/LYV.jpg)
-
-(4) DXC - DXC Technology Company
-
-![DXC](images/DXC.jpg)
-
-(5) SEE - Sealed Air Corporation
+(1) SEE - Sealed Air Corporation
 
 ![SEE](images/SEE.jpg)
 
-(6) INTC - Intel Corporation
+(2) CHRW - C.H. Robinson Worldwide, Inc.
+
+![CHRW](images/CHRW.jpg)
+
+(3) CCI - Crown Castle Inc.
+
+![CCI](images/CCI.jpg)
+
+(4) INTC - Intel Corporation
 
 ![INTC](images/INTC.jpg)
 
@@ -69,17 +54,21 @@ Inverse Head and Shoulders
 
 ![MPC](images/MPC.jpg)
 
-(2) NCLH - Norwegian Cruise Line Holdings Ltd.
+(2) HLT - Hilton Worldwide Holdings Inc.
+
+![HLT](images/HLT.jpg)
+
+(3) NCLH - Norwegian Cruise Line Holdings Ltd.
 
 ![NCLH](images/NCLH.jpg)
-
-(3) WTW - Willis Towers Watson Public Limited Company
-
-![WTW](images/WTW.jpg)
 
 (4) EQR - Equity Residential
 
 ![EQR](images/EQR.jpg)
+
+(5) WTW - Willis Towers Watson Public Limited Company
+
+![WTW](images/WTW.jpg)
 
 ---
 **Horizontal S/R**
@@ -87,6 +76,10 @@ Inverse Head and Shoulders
 (1) CCL - Carnival Corporation & plc
 
 ![CCL](images/CCL.jpg)
+
+(2) HUM - Humana Inc.
+
+![HUM](images/HUM.jpg)
 
 ---
 **Oversold Stock**
@@ -157,10 +150,6 @@ Inverse Head and Shoulders
 
 ![ORLY](images/ORLY.jpg)
 
-(7) WFC - Wells Fargo & Company
-
-![WFC](images/WFC.jpg)
-
 ---
 **Ascending Channel Pattern**
 
@@ -168,13 +157,13 @@ Inverse Head and Shoulders
 
 ![TDY](images/TDY.jpg)
 
-(2) VRSK - Verisk Analytics, Inc.
-
-![VRSK](images/VRSK.jpg)
-
-(3) APH - Amphenol Corporation
+(2) APH - Amphenol Corporation
 
 ![APH](images/APH.jpg)
+
+(3) VRSK - Verisk Analytics, Inc.
+
+![VRSK](images/VRSK.jpg)
 
 (4) NVR - NVR, Inc.
 
@@ -217,25 +206,25 @@ Inverse Head and Shoulders
 ---
 **Trendline Resistance**
 
-(1) TDY - Teledyne Technologies Incorporated
-
-![TDY](images/TDY.jpg)
-
-(2) ED - Consolidated Edison, Inc.
-
-![ED](images/ED.jpg)
-
-(3) PWR - Quanta Services, Inc.
+(1) PWR - Quanta Services, Inc.
 
 ![PWR](images/PWR.jpg)
 
-(4) AEE - Ameren Corporation
+(2) TDY - Teledyne Technologies Incorporated
+
+![TDY](images/TDY.jpg)
+
+(3) AEE - Ameren Corporation
 
 ![AEE](images/AEE.jpg)
 
-(5) CBOE - Cboe Global Markets, Inc.
+(4) ED - Consolidated Edison, Inc.
 
-![CBOE](images/CBOE.jpg)
+![ED](images/ED.jpg)
+
+(5) TSCO - Tractor Supply Company
+
+![TSCO](images/TSCO.jpg)
 
 ---
 **Horizontal S/R**. It can be played as bearish if stock loses the support
@@ -243,5 +232,9 @@ Inverse Head and Shoulders
 (1) CCL - Carnival Corporation & plc
 
 ![CCL](images/CCL.jpg)
+
+(2) HUM - Humana Inc.
+
+![HUM](images/HUM.jpg)
 
 ---
