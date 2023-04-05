@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: 2023-04-04 08:30:00.562735*
+*Last Updated: 2023-04-05 08:30:00.566311*
 ---
 # BULLISH STOCKS
 ---
@@ -16,13 +16,13 @@ Inverse Head and Shoulders
 ---
 **Double Bottom Pattern**
 
-(1) SEE - Sealed Air Corporation
+(1) LYV - Live Nation Entertainment, Inc.
 
-![SEE](images/SEE.jpg)
+![LYV](images/LYV.jpg)
 
-(2) CHRW - C.H. Robinson Worldwide, Inc.
+(2) DXC - DXC Technology Company
 
-![CHRW](images/CHRW.jpg)
+![DXC](images/DXC.jpg)
 
 (3) CCI - Crown Castle Inc.
 
@@ -70,16 +70,24 @@ Inverse Head and Shoulders
 
 ![WTW](images/WTW.jpg)
 
+(6) FISV - Fiserv, Inc.
+
+![FISV](images/FISV.jpg)
+
 ---
 **Horizontal S/R**
 
-(1) CCL - Carnival Corporation & plc
+(1) CLX - The Clorox Company
+
+![CLX](images/CLX.jpg)
+
+(2) CCL - Carnival Corporation & plc
 
 ![CCL](images/CCL.jpg)
 
-(2) HUM - Humana Inc.
+(3) TT - Trane Technologies plc
 
-![HUM](images/HUM.jpg)
+![TT](images/TT.jpg)
 
 ---
 **Oversold Stock**
@@ -111,44 +119,52 @@ Inverse Head and Shoulders
 ---
 **Multiple Top**
 
-(1) HBAN - Huntington Bancshares Incorporated
+(1) BA - The Boeing Company
+
+![BA](images/BA.jpg)
+
+(2) HBAN - Huntington Bancshares Incorporated
 
 ![HBAN](images/HBAN.jpg)
 
-(2) DXCM - DexCom, Inc.
+(3) DXCM - DexCom, Inc.
 
 ![DXCM](images/DXCM.jpg)
 
-(3) ROST - Ross Stores, Inc.
+(4) ROST - Ross Stores, Inc.
 
 ![ROST](images/ROST.jpg)
 
 ---
 **Double Top Pattern**
 
-(1) CVX - Chevron Corporation
+(1) ORLY - O'Reilly Automotive, Inc.
 
-![CVX](images/CVX.jpg)
+![ORLY](images/ORLY.jpg)
 
-(2) NCLH - Norwegian Cruise Line Holdings Ltd.
+(2) PSX - Phillips 66
+
+![PSX](images/PSX.jpg)
+
+(3) NCLH - Norwegian Cruise Line Holdings Ltd.
 
 ![NCLH](images/NCLH.jpg)
 
-(3) NUE - Nucor Corporation
+(4) CVX - Chevron Corporation
+
+![CVX](images/CVX.jpg)
+
+(5) NUE - Nucor Corporation
 
 ![NUE](images/NUE.jpg)
 
-(4) AZO - AutoZone, Inc.
+(6) AZO - AutoZone, Inc.
 
 ![AZO](images/AZO.jpg)
 
-(5) VRTX - Vertex Pharmaceuticals Incorporated
+(7) VRTX - Vertex Pharmaceuticals Incorporated
 
 ![VRTX](images/VRTX.jpg)
-
-(6) ORLY - O'Reilly Automotive, Inc.
-
-![ORLY](images/ORLY.jpg)
 
 ---
 **Ascending Channel Pattern**
@@ -180,35 +196,28 @@ Inverse Head and Shoulders
 
 ![LIN](images/LIN.jpg)
 
-(2) PWR - Quanta Services, Inc.
-
-![PWR](images/PWR.jpg)
-
-(3) CSCO - Cisco Systems, Inc.
+(2) CSCO - Cisco Systems, Inc.
 
 ![CSCO](images/CSCO.jpg)
 
-(4) AMAT - Applied Materials, Inc.
+(3) PWR - Quanta Services, Inc.
 
-![AMAT](images/AMAT.jpg)
+![PWR](images/PWR.jpg)
 
-(5) TTWO - Take-Two Interactive Software, Inc.
+(4) TTWO - Take-Two Interactive Software, Inc.
 
 ![TTWO](images/TTWO.jpg)
 
----
-**Ascending Triangle**
+(5) AMAT - Applied Materials, Inc.
 
-(1) DRI - Darden Restaurants, Inc.
-
-![DRI](images/DRI.jpg)
+![AMAT](images/AMAT.jpg)
 
 ---
 **Trendline Resistance**
 
-(1) PWR - Quanta Services, Inc.
+(1) ED - Consolidated Edison, Inc.
 
-![PWR](images/PWR.jpg)
+![ED](images/ED.jpg)
 
 (2) TDY - Teledyne Technologies Incorporated
 
@@ -218,23 +227,35 @@ Inverse Head and Shoulders
 
 ![AEE](images/AEE.jpg)
 
-(4) ED - Consolidated Edison, Inc.
+(4) PWR - Quanta Services, Inc.
 
-![ED](images/ED.jpg)
+![PWR](images/PWR.jpg)
 
 (5) TSCO - Tractor Supply Company
 
 ![TSCO](images/TSCO.jpg)
 
+(6) CSCO - Cisco Systems, Inc.
+
+![CSCO](images/CSCO.jpg)
+
+(7) CBOE - Cboe Global Markets, Inc.
+
+![CBOE](images/CBOE.jpg)
+
 ---
 **Horizontal S/R**. It can be played as bearish if stock loses the support
 
-(1) CCL - Carnival Corporation & plc
+(1) CLX - The Clorox Company
+
+![CLX](images/CLX.jpg)
+
+(2) CCL - Carnival Corporation & plc
 
 ![CCL](images/CCL.jpg)
 
-(2) HUM - Humana Inc.
+(3) TT - Trane Technologies plc
 
-![HUM](images/HUM.jpg)
+![TT](images/TT.jpg)
 
 ---
