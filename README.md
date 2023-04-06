@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: 2023-04-05 08:30:00.566311*
+*Last Updated: 2023-04-06 08:30:00.167679*
 ---
 # BULLISH STOCKS
 ---
@@ -16,21 +16,32 @@ Inverse Head and Shoulders
 ---
 **Double Bottom Pattern**
 
-(1) LYV - Live Nation Entertainment, Inc.
+(1) SEE - Sealed Air Corporation
+
+![SEE](images/SEE.jpg)
+
+(2) LYV - Live Nation Entertainment, Inc.
 
 ![LYV](images/LYV.jpg)
 
-(2) DXC - DXC Technology Company
+(3) DXC - DXC Technology Company
 
 ![DXC](images/DXC.jpg)
 
-(3) CCI - Crown Castle Inc.
+(4) CCI - Crown Castle Inc.
 
 ![CCI](images/CCI.jpg)
 
-(4) INTC - Intel Corporation
+(5) INTC - Intel Corporation
 
 ![INTC](images/INTC.jpg)
+
+---
+**Descending Channel Pattern**
+
+(1) IEX - IDEX Corporation
+
+![IEX](images/IEX.jpg)
 
 ---
 **Falling Wedge Pattern**
@@ -50,44 +61,44 @@ Inverse Head and Shoulders
 ---
 **Trendline Support**
 
-(1) MPC - Marathon Petroleum Corporation
-
-![MPC](images/MPC.jpg)
-
-(2) HLT - Hilton Worldwide Holdings Inc.
+(1) HLT - Hilton Worldwide Holdings Inc.
 
 ![HLT](images/HLT.jpg)
 
-(3) NCLH - Norwegian Cruise Line Holdings Ltd.
+(2) MPC - Marathon Petroleum Corporation
+
+![MPC](images/MPC.jpg)
+
+(3) PAYC - Paycom Software, Inc.
+
+![PAYC](images/PAYC.jpg)
+
+(4) NCLH - Norwegian Cruise Line Holdings Ltd.
 
 ![NCLH](images/NCLH.jpg)
 
-(4) EQR - Equity Residential
+(5) EQR - Equity Residential
 
 ![EQR](images/EQR.jpg)
-
-(5) WTW - Willis Towers Watson Public Limited Company
-
-![WTW](images/WTW.jpg)
-
-(6) FISV - Fiserv, Inc.
-
-![FISV](images/FISV.jpg)
 
 ---
 **Horizontal S/R**
 
-(1) CLX - The Clorox Company
+(1) UDR - UDR, Inc.
 
-![CLX](images/CLX.jpg)
+![UDR](images/UDR.jpg)
 
-(2) CCL - Carnival Corporation & plc
+(2) KMB - Kimberly-Clark Corporation
 
-![CCL](images/CCL.jpg)
+![KMB](images/KMB.jpg)
 
-(3) TT - Trane Technologies plc
+(3) CAH - Cardinal Health, Inc.
 
-![TT](images/TT.jpg)
+![CAH](images/CAH.jpg)
+
+(4) FDS - FactSet Research Systems Inc.
+
+![FDS](images/FDS.jpg)
 
 ---
 **Oversold Stock**
@@ -104,15 +115,19 @@ Inverse Head and Shoulders
 ---
 **Head and Shoulders Pattern**
 
-(1) HAL - Halliburton Company
+(1) SNA - Snap-on Incorporated
+
+![SNA](images/SNA.jpg)
+
+(2) HAL - Halliburton Company
 
 ![HAL](images/HAL.jpg)
 
-(2) BIIB - Biogen Inc.
+(3) BIIB - Biogen Inc.
 
 ![BIIB](images/BIIB.jpg)
 
-(3) ALB - Albemarle Corporation
+(4) ALB - Albemarle Corporation
 
 ![ALB](images/ALB.jpg)
 
@@ -138,33 +153,37 @@ Inverse Head and Shoulders
 ---
 **Double Top Pattern**
 
-(1) ORLY - O'Reilly Automotive, Inc.
+(1) WYNN - Wynn Resorts, Limited
 
-![ORLY](images/ORLY.jpg)
+![WYNN](images/WYNN.jpg)
 
 (2) PSX - Phillips 66
 
 ![PSX](images/PSX.jpg)
 
-(3) NCLH - Norwegian Cruise Line Holdings Ltd.
+(3) CTAS - Cintas Corporation
+
+![CTAS](images/CTAS.jpg)
+
+(4) NCLH - Norwegian Cruise Line Holdings Ltd.
 
 ![NCLH](images/NCLH.jpg)
 
-(4) CVX - Chevron Corporation
+(5) CVX - Chevron Corporation
 
 ![CVX](images/CVX.jpg)
 
-(5) NUE - Nucor Corporation
+(6) NUE - Nucor Corporation
 
 ![NUE](images/NUE.jpg)
-
-(6) AZO - AutoZone, Inc.
-
-![AZO](images/AZO.jpg)
 
 (7) VRTX - Vertex Pharmaceuticals Incorporated
 
 ![VRTX](images/VRTX.jpg)
+
+(8) AZO - AutoZone, Inc.
+
+![AZO](images/AZO.jpg)
 
 ---
 **Ascending Channel Pattern**
@@ -192,70 +211,65 @@ Inverse Head and Shoulders
 ---
 **Rising Wedge Pattern**
 
-(1) LIN - Linde plc
-
-![LIN](images/LIN.jpg)
-
-(2) CSCO - Cisco Systems, Inc.
+(1) CSCO - Cisco Systems, Inc.
 
 ![CSCO](images/CSCO.jpg)
 
-(3) PWR - Quanta Services, Inc.
+(2) PWR - Quanta Services, Inc.
 
 ![PWR](images/PWR.jpg)
 
-(4) TTWO - Take-Two Interactive Software, Inc.
+(3) TTWO - Take-Two Interactive Software, Inc.
 
 ![TTWO](images/TTWO.jpg)
 
-(5) AMAT - Applied Materials, Inc.
+(4) AMAT - Applied Materials, Inc.
 
 ![AMAT](images/AMAT.jpg)
 
 ---
 **Trendline Resistance**
 
-(1) ED - Consolidated Edison, Inc.
-
-![ED](images/ED.jpg)
-
-(2) TDY - Teledyne Technologies Incorporated
+(1) TDY - Teledyne Technologies Incorporated
 
 ![TDY](images/TDY.jpg)
 
-(3) AEE - Ameren Corporation
+(2) ED - Consolidated Edison, Inc.
 
-![AEE](images/AEE.jpg)
+![ED](images/ED.jpg)
 
-(4) PWR - Quanta Services, Inc.
-
-![PWR](images/PWR.jpg)
-
-(5) TSCO - Tractor Supply Company
-
-![TSCO](images/TSCO.jpg)
-
-(6) CSCO - Cisco Systems, Inc.
+(3) CSCO - Cisco Systems, Inc.
 
 ![CSCO](images/CSCO.jpg)
 
-(7) CBOE - Cboe Global Markets, Inc.
+(4) CBOE - Cboe Global Markets, Inc.
 
 ![CBOE](images/CBOE.jpg)
 
 ---
 **Horizontal S/R**. It can be played as bearish if stock loses the support
 
-(1) CLX - The Clorox Company
+(1) UDR - UDR, Inc.
 
-![CLX](images/CLX.jpg)
+![UDR](images/UDR.jpg)
 
-(2) CCL - Carnival Corporation & plc
+(2) KMB - Kimberly-Clark Corporation
 
-![CCL](images/CCL.jpg)
+![KMB](images/KMB.jpg)
 
-(3) TT - Trane Technologies plc
+(3) CAH - Cardinal Health, Inc.
 
-![TT](images/TT.jpg)
+![CAH](images/CAH.jpg)
+
+(4) FDS - FactSet Research Systems Inc.
+
+![FDS](images/FDS.jpg)
+
+---
+**Overbought Stock**
+
+(1) HSY - The Hershey Company
+
+![HSY](images/HSY.jpg)
 
 ---
