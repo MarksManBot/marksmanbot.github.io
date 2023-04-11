@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: 2023-04-10 08:30:00.798926*
+*Last Updated: 2023-04-11 08:30:00.786607*
 ---
 # BULLISH STOCKS
 ---
@@ -24,9 +24,9 @@ Inverse Head and Shoulders
 
 ![STZ](images/STZ.jpg)
 
-(3) LYV - Live Nation Entertainment, Inc.
+(3) SBAC - SBA Communications Corporation
 
-![LYV](images/LYV.jpg)
+![SBAC](images/SBAC.jpg)
 
 (4) DXC - DXC Technology Company
 
@@ -66,6 +66,17 @@ Inverse Head and Shoulders
 
 ![JKHY](images/JKHY.jpg)
 
+(3) COST - Costco Wholesale Corporation
+
+![COST](images/COST.jpg)
+
+---
+**Descending Triangle Pattern**
+
+(1) FDS - FactSet Research Systems Inc.
+
+![FDS](images/FDS.jpg)
+
 ---
 **Trendline Support**
 
@@ -77,28 +88,32 @@ Inverse Head and Shoulders
 
 ![MPC](images/MPC.jpg)
 
-(3) PAYC - Paycom Software, Inc.
-
-![PAYC](images/PAYC.jpg)
-
-(4) NCLH - Norwegian Cruise Line Holdings Ltd.
+(3) NCLH - Norwegian Cruise Line Holdings Ltd.
 
 ![NCLH](images/NCLH.jpg)
+
+(4) WTW - Willis Towers Watson Public Limited Company
+
+![WTW](images/WTW.jpg)
 
 ---
 **Horizontal S/R**
 
-(1) UDR - UDR, Inc.
+(1) CCL - Carnival Corporation & plc
+
+![CCL](images/CCL.jpg)
+
+(2) UDR - UDR, Inc.
 
 ![UDR](images/UDR.jpg)
-
-(2) KMB - Kimberly-Clark Corporation
-
-![KMB](images/KMB.jpg)
 
 (3) CAH - Cardinal Health, Inc.
 
 ![CAH](images/CAH.jpg)
+
+(4) FDS - FactSet Research Systems Inc.
+
+![FDS](images/FDS.jpg)
 
 ---
 **Oversold Stock**
@@ -115,29 +130,21 @@ Inverse Head and Shoulders
 ---
 **Head and Shoulders Pattern**
 
-(1) KLAC - KLA Corporation
-
-![KLAC](images/KLAC.jpg)
-
-(2) ILMN - Illumina, Inc.
-
-![ILMN](images/ILMN.jpg)
-
-(3) SNA - Snap-on Incorporated
+(1) SNA - Snap-on Incorporated
 
 ![SNA](images/SNA.jpg)
 
-(4) HAL - Halliburton Company
+(2) KLAC - KLA Corporation
+
+![KLAC](images/KLAC.jpg)
+
+(3) HAL - Halliburton Company
 
 ![HAL](images/HAL.jpg)
 
-(5) BIIB - Biogen Inc.
+(4) BIIB - Biogen Inc.
 
 ![BIIB](images/BIIB.jpg)
-
-(6) ALB - Albemarle Corporation
-
-![ALB](images/ALB.jpg)
 
 ---
 **Multiple Top**
@@ -161,43 +168,39 @@ Inverse Head and Shoulders
 ---
 **Double Top Pattern**
 
-(1) FSLR - First Solar, Inc.
-
-![FSLR](images/FSLR.jpg)
-
-(2) ORLY - O'Reilly Automotive, Inc.
+(1) ORLY - O'Reilly Automotive, Inc.
 
 ![ORLY](images/ORLY.jpg)
 
-(3) PSX - Phillips 66
+(2) FSLR - First Solar, Inc.
 
-![PSX](images/PSX.jpg)
+![FSLR](images/FSLR.jpg)
 
-(4) CTAS - Cintas Corporation
+(3) CTAS - Cintas Corporation
 
 ![CTAS](images/CTAS.jpg)
 
-(5) WYNN - Wynn Resorts, Limited
-
-![WYNN](images/WYNN.jpg)
-
-(6) NCLH - Norwegian Cruise Line Holdings Ltd.
+(4) NCLH - Norwegian Cruise Line Holdings Ltd.
 
 ![NCLH](images/NCLH.jpg)
 
-(7) CVX - Chevron Corporation
+(5) CVX - Chevron Corporation
 
 ![CVX](images/CVX.jpg)
 
-(8) NUE - Nucor Corporation
+(6) NUE - Nucor Corporation
 
 ![NUE](images/NUE.jpg)
 
-(9) VRTX - Vertex Pharmaceuticals Incorporated
+(7) WYNN - Wynn Resorts, Limited
 
-![VRTX](images/VRTX.jpg)
+![WYNN](images/WYNN.jpg)
 
-(10) AZO - AutoZone, Inc.
+(8) PSX - Phillips 66
+
+![PSX](images/PSX.jpg)
+
+(9) AZO - AutoZone, Inc.
 
 ![AZO](images/AZO.jpg)
 
@@ -231,23 +234,27 @@ Inverse Head and Shoulders
 
 ![CSCO](images/CSCO.jpg)
 
-(2) PWR - Quanta Services, Inc.
+(2) BSX - Boston Scientific Corporation
+
+![BSX](images/BSX.jpg)
+
+(3) PWR - Quanta Services, Inc.
 
 ![PWR](images/PWR.jpg)
 
-(3) DRI - Darden Restaurants, Inc.
+(4) DRI - Darden Restaurants, Inc.
 
 ![DRI](images/DRI.jpg)
 
-(4) TTWO - Take-Two Interactive Software, Inc.
+(5) TTWO - Take-Two Interactive Software, Inc.
 
 ![TTWO](images/TTWO.jpg)
 
-(5) AMAT - Applied Materials, Inc.
+(6) AMAT - Applied Materials, Inc.
 
 ![AMAT](images/AMAT.jpg)
 
-(6) SNPS - Synopsys, Inc.
+(7) SNPS - Synopsys, Inc.
 
 ![SNPS](images/SNPS.jpg)
 
@@ -262,34 +269,39 @@ Inverse Head and Shoulders
 
 ![ED](images/ED.jpg)
 
-(3) CSCO - Cisco Systems, Inc.
+(3) CBOE - Cboe Global Markets, Inc.
+
+![CBOE](images/CBOE.jpg)
+
+(4) CLX - The Clorox Company
+
+![CLX](images/CLX.jpg)
+
+(5) CSCO - Cisco Systems, Inc.
 
 ![CSCO](images/CSCO.jpg)
 
-(4) CBOE - Cboe Global Markets, Inc.
+(6) AEE - Ameren Corporation
 
-![CBOE](images/CBOE.jpg)
+![AEE](images/AEE.jpg)
 
 ---
 **Horizontal S/R**. It can be played as bearish if stock loses the support
 
-(1) UDR - UDR, Inc.
+(1) CCL - Carnival Corporation & plc
+
+![CCL](images/CCL.jpg)
+
+(2) UDR - UDR, Inc.
 
 ![UDR](images/UDR.jpg)
-
-(2) KMB - Kimberly-Clark Corporation
-
-![KMB](images/KMB.jpg)
 
 (3) CAH - Cardinal Health, Inc.
 
 ![CAH](images/CAH.jpg)
 
----
-**Overbought Stock**
+(4) FDS - FactSet Research Systems Inc.
 
-(1) HSY - The Hershey Company
-
-![HSY](images/HSY.jpg)
+![FDS](images/FDS.jpg)
 
 ---
