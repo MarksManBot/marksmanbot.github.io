@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: 2023-04-11 08:30:00.786607*
+*Last Updated: 2023-04-12 08:30:00.299122*
 ---
 # BULLISH STOCKS
 ---
@@ -14,31 +14,54 @@ Inverse Head and Shoulders
 ![AAPL](images/AAPL.jpg)
 
 ---
+**Multiple Bottoms**
+
+(1) NRG - NRG Energy, Inc.
+
+![NRG](images/NRG.jpg)
+
+(2) RMD - ResMed Inc.
+
+![RMD](images/RMD.jpg)
+
+(3) SWK - Stanley Black & Decker, Inc.
+
+![SWK](images/SWK.jpg)
+
+---
 **Double Bottom Pattern**
 
-(1) SEE - Sealed Air Corporation
+(1) IFF - International Flavors & Fragrances Inc.
+
+![IFF](images/IFF.jpg)
+
+(2) CHRW - C.H. Robinson Worldwide, Inc.
+
+![CHRW](images/CHRW.jpg)
+
+(3) LYV - Live Nation Entertainment, Inc.
+
+![LYV](images/LYV.jpg)
+
+(4) WHR - Whirlpool Corporation
+
+![WHR](images/WHR.jpg)
+
+(5) SEE - Sealed Air Corporation
 
 ![SEE](images/SEE.jpg)
 
-(2) STZ - Constellation Brands, Inc.
+(6) STZ - Constellation Brands, Inc.
 
 ![STZ](images/STZ.jpg)
 
-(3) SBAC - SBA Communications Corporation
+(7) SBAC - SBA Communications Corporation
 
 ![SBAC](images/SBAC.jpg)
 
-(4) DXC - DXC Technology Company
-
-![DXC](images/DXC.jpg)
-
-(5) CCI - Crown Castle Inc.
+(8) CCI - Crown Castle Inc.
 
 ![CCI](images/CCI.jpg)
-
-(6) INTC - Intel Corporation
-
-![INTC](images/INTC.jpg)
 
 ---
 **Descending Channel Pattern**
@@ -47,11 +70,7 @@ Inverse Head and Shoulders
 
 ![IEX](images/IEX.jpg)
 
-(2) HUM - Humana Inc.
-
-![HUM](images/HUM.jpg)
-
-(3) NI - NiSource Inc.
+(2) NI - NiSource Inc.
 
 ![NI](images/NI.jpg)
 
@@ -66,10 +85,6 @@ Inverse Head and Shoulders
 
 ![JKHY](images/JKHY.jpg)
 
-(3) COST - Costco Wholesale Corporation
-
-![COST](images/COST.jpg)
-
 ---
 **Descending Triangle Pattern**
 
@@ -80,21 +95,13 @@ Inverse Head and Shoulders
 ---
 **Trendline Support**
 
-(1) HLT - Hilton Worldwide Holdings Inc.
-
-![HLT](images/HLT.jpg)
-
-(2) MPC - Marathon Petroleum Corporation
+(1) MPC - Marathon Petroleum Corporation
 
 ![MPC](images/MPC.jpg)
 
-(3) NCLH - Norwegian Cruise Line Holdings Ltd.
+(2) NCLH - Norwegian Cruise Line Holdings Ltd.
 
 ![NCLH](images/NCLH.jpg)
-
-(4) WTW - Willis Towers Watson Public Limited Company
-
-![WTW](images/WTW.jpg)
 
 ---
 **Horizontal S/R**
@@ -103,17 +110,13 @@ Inverse Head and Shoulders
 
 ![CCL](images/CCL.jpg)
 
-(2) UDR - UDR, Inc.
-
-![UDR](images/UDR.jpg)
-
-(3) CAH - Cardinal Health, Inc.
+(2) CAH - Cardinal Health, Inc.
 
 ![CAH](images/CAH.jpg)
 
-(4) FDS - FactSet Research Systems Inc.
+(3) MU - Micron Technology, Inc.
 
-![FDS](images/FDS.jpg)
+![MU](images/MU.jpg)
 
 ---
 **Oversold Stock**
@@ -161,48 +164,52 @@ Inverse Head and Shoulders
 
 ![ROST](images/ROST.jpg)
 
-(4) WFC - Wells Fargo & Company
+(4) BA - The Boeing Company
+
+![BA](images/BA.jpg)
+
+(5) GL - Globe Life Inc.
+
+![GL](images/GL.jpg)
+
+(6) WFC - Wells Fargo & Company
 
 ![WFC](images/WFC.jpg)
 
 ---
 **Double Top Pattern**
 
-(1) ORLY - O'Reilly Automotive, Inc.
-
-![ORLY](images/ORLY.jpg)
-
-(2) FSLR - First Solar, Inc.
+(1) FSLR - First Solar, Inc.
 
 ![FSLR](images/FSLR.jpg)
 
-(3) CTAS - Cintas Corporation
+(2) CTAS - Cintas Corporation
 
 ![CTAS](images/CTAS.jpg)
 
-(4) NCLH - Norwegian Cruise Line Holdings Ltd.
-
-![NCLH](images/NCLH.jpg)
-
-(5) CVX - Chevron Corporation
+(3) CVX - Chevron Corporation
 
 ![CVX](images/CVX.jpg)
 
-(6) NUE - Nucor Corporation
+(4) NUE - Nucor Corporation
 
 ![NUE](images/NUE.jpg)
 
-(7) WYNN - Wynn Resorts, Limited
+(5) WYNN - Wynn Resorts, Limited
 
 ![WYNN](images/WYNN.jpg)
 
-(8) PSX - Phillips 66
+(6) PSX - Phillips 66
 
 ![PSX](images/PSX.jpg)
 
-(9) AZO - AutoZone, Inc.
+(7) AZO - AutoZone, Inc.
 
 ![AZO](images/AZO.jpg)
+
+(8) NCLH - Norwegian Cruise Line Holdings Ltd.
+
+![NCLH](images/NCLH.jpg)
 
 ---
 **Ascending Channel Pattern**
@@ -211,50 +218,58 @@ Inverse Head and Shoulders
 
 ![TDY](images/TDY.jpg)
 
-(2) APH - Amphenol Corporation
+(2) CCL - Carnival Corporation & plc
+
+![CCL](images/CCL.jpg)
+
+(3) APH - Amphenol Corporation
 
 ![APH](images/APH.jpg)
 
-(3) VRSK - Verisk Analytics, Inc.
+(4) VRSK - Verisk Analytics, Inc.
 
 ![VRSK](images/VRSK.jpg)
 
-(4) NVR - NVR, Inc.
+(5) NVR - NVR, Inc.
 
 ![NVR](images/NVR.jpg)
 
-(5) NXPI - NXP Semiconductors N.V.
+(6) NXPI - NXP Semiconductors N.V.
 
 ![NXPI](images/NXPI.jpg)
 
 ---
 **Rising Wedge Pattern**
 
-(1) CSCO - Cisco Systems, Inc.
+(1) MPC - Marathon Petroleum Corporation
 
-![CSCO](images/CSCO.jpg)
+![MPC](images/MPC.jpg)
 
 (2) BSX - Boston Scientific Corporation
 
 ![BSX](images/BSX.jpg)
 
-(3) PWR - Quanta Services, Inc.
+(3) CSCO - Cisco Systems, Inc.
+
+![CSCO](images/CSCO.jpg)
+
+(4) PWR - Quanta Services, Inc.
 
 ![PWR](images/PWR.jpg)
 
-(4) DRI - Darden Restaurants, Inc.
+(5) DRI - Darden Restaurants, Inc.
 
 ![DRI](images/DRI.jpg)
 
-(5) TTWO - Take-Two Interactive Software, Inc.
+(6) TTWO - Take-Two Interactive Software, Inc.
 
 ![TTWO](images/TTWO.jpg)
 
-(6) AMAT - Applied Materials, Inc.
+(7) AMAT - Applied Materials, Inc.
 
 ![AMAT](images/AMAT.jpg)
 
-(7) SNPS - Synopsys, Inc.
+(8) SNPS - Synopsys, Inc.
 
 ![SNPS](images/SNPS.jpg)
 
@@ -277,13 +292,17 @@ Inverse Head and Shoulders
 
 ![CLX](images/CLX.jpg)
 
-(5) CSCO - Cisco Systems, Inc.
-
-![CSCO](images/CSCO.jpg)
-
-(6) AEE - Ameren Corporation
+(5) AEE - Ameren Corporation
 
 ![AEE](images/AEE.jpg)
+
+(6) PNW - Pinnacle West Capital Corporation
+
+![PNW](images/PNW.jpg)
+
+(7) PWR - Quanta Services, Inc.
+
+![PWR](images/PWR.jpg)
 
 ---
 **Horizontal S/R**. It can be played as bearish if stock loses the support
@@ -292,16 +311,12 @@ Inverse Head and Shoulders
 
 ![CCL](images/CCL.jpg)
 
-(2) UDR - UDR, Inc.
-
-![UDR](images/UDR.jpg)
-
-(3) CAH - Cardinal Health, Inc.
+(2) CAH - Cardinal Health, Inc.
 
 ![CAH](images/CAH.jpg)
 
-(4) FDS - FactSet Research Systems Inc.
+(3) MU - Micron Technology, Inc.
 
-![FDS](images/FDS.jpg)
+![MU](images/MU.jpg)
 
 ---
