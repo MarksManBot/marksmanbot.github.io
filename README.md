@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: 2023-04-12 08:30:00.299122*
+*Last Updated: 2023-04-13 08:30:00.651199*
 ---
 # BULLISH STOCKS
 ---
@@ -16,52 +16,60 @@ Inverse Head and Shoulders
 ---
 **Multiple Bottoms**
 
-(1) NRG - NRG Energy, Inc.
+(1) SWK - Stanley Black & Decker, Inc.
 
-![NRG](images/NRG.jpg)
+![SWK](images/SWK.jpg)
 
 (2) RMD - ResMed Inc.
 
 ![RMD](images/RMD.jpg)
 
-(3) SWK - Stanley Black & Decker, Inc.
+(3) NRG - NRG Energy, Inc.
 
-![SWK](images/SWK.jpg)
+![NRG](images/NRG.jpg)
 
 ---
 **Double Bottom Pattern**
 
-(1) IFF - International Flavors & Fragrances Inc.
+(1) MKC - McCormick & Company, Incorporated
+
+![MKC](images/MKC.jpg)
+
+(2) CCI - Crown Castle Inc.
+
+![CCI](images/CCI.jpg)
+
+(3) CMA - Comerica Incorporated
+
+![CMA](images/CMA.jpg)
+
+(4) DTE - DTE Energy Company
+
+![DTE](images/DTE.jpg)
+
+(5) IFF - International Flavors & Fragrances Inc.
 
 ![IFF](images/IFF.jpg)
 
-(2) CHRW - C.H. Robinson Worldwide, Inc.
-
-![CHRW](images/CHRW.jpg)
-
-(3) LYV - Live Nation Entertainment, Inc.
+(6) LYV - Live Nation Entertainment, Inc.
 
 ![LYV](images/LYV.jpg)
 
-(4) WHR - Whirlpool Corporation
-
-![WHR](images/WHR.jpg)
-
-(5) SEE - Sealed Air Corporation
+(7) SEE - Sealed Air Corporation
 
 ![SEE](images/SEE.jpg)
 
-(6) STZ - Constellation Brands, Inc.
+(8) WHR - Whirlpool Corporation
+
+![WHR](images/WHR.jpg)
+
+(9) STZ - Constellation Brands, Inc.
 
 ![STZ](images/STZ.jpg)
 
-(7) SBAC - SBA Communications Corporation
+(10) SBAC - SBA Communications Corporation
 
 ![SBAC](images/SBAC.jpg)
-
-(8) CCI - Crown Castle Inc.
-
-![CCI](images/CCI.jpg)
 
 ---
 **Descending Channel Pattern**
@@ -85,6 +93,10 @@ Inverse Head and Shoulders
 
 ![JKHY](images/JKHY.jpg)
 
+(3) COST - Costco Wholesale Corporation
+
+![COST](images/COST.jpg)
+
 ---
 **Descending Triangle Pattern**
 
@@ -99,24 +111,28 @@ Inverse Head and Shoulders
 
 ![MPC](images/MPC.jpg)
 
-(2) NCLH - Norwegian Cruise Line Holdings Ltd.
+(2) HLT - Hilton Worldwide Holdings Inc.
+
+![HLT](images/HLT.jpg)
+
+(3) NCLH - Norwegian Cruise Line Holdings Ltd.
 
 ![NCLH](images/NCLH.jpg)
+
+(4) UDR - UDR, Inc.
+
+![UDR](images/UDR.jpg)
 
 ---
 **Horizontal S/R**
 
-(1) CCL - Carnival Corporation & plc
+(1) UDR - UDR, Inc.
 
-![CCL](images/CCL.jpg)
+![UDR](images/UDR.jpg)
 
 (2) CAH - Cardinal Health, Inc.
 
 ![CAH](images/CAH.jpg)
-
-(3) MU - Micron Technology, Inc.
-
-![MU](images/MU.jpg)
 
 ---
 **Oversold Stock**
@@ -152,27 +168,31 @@ Inverse Head and Shoulders
 ---
 **Multiple Top**
 
-(1) HBAN - Huntington Bancshares Incorporated
+(1) LMT - Lockheed Martin Corporation
+
+![LMT](images/LMT.jpg)
+
+(2) HBAN - Huntington Bancshares Incorporated
 
 ![HBAN](images/HBAN.jpg)
 
-(2) DXCM - DexCom, Inc.
+(3) DXCM - DexCom, Inc.
 
 ![DXCM](images/DXCM.jpg)
 
-(3) ROST - Ross Stores, Inc.
+(4) ROST - Ross Stores, Inc.
 
 ![ROST](images/ROST.jpg)
 
-(4) BA - The Boeing Company
+(5) BA - The Boeing Company
 
 ![BA](images/BA.jpg)
 
-(5) GL - Globe Life Inc.
+(6) GL - Globe Life Inc.
 
 ![GL](images/GL.jpg)
 
-(6) WFC - Wells Fargo & Company
+(7) WFC - Wells Fargo & Company
 
 ![WFC](images/WFC.jpg)
 
@@ -206,10 +226,6 @@ Inverse Head and Shoulders
 (7) AZO - AutoZone, Inc.
 
 ![AZO](images/AZO.jpg)
-
-(8) NCLH - Norwegian Cruise Line Holdings Ltd.
-
-![NCLH](images/NCLH.jpg)
 
 ---
 **Ascending Channel Pattern**
@@ -249,13 +265,13 @@ Inverse Head and Shoulders
 
 ![BSX](images/BSX.jpg)
 
-(3) CSCO - Cisco Systems, Inc.
-
-![CSCO](images/CSCO.jpg)
-
-(4) PWR - Quanta Services, Inc.
+(3) PWR - Quanta Services, Inc.
 
 ![PWR](images/PWR.jpg)
+
+(4) CSCO - Cisco Systems, Inc.
+
+![CSCO](images/CSCO.jpg)
 
 (5) DRI - Darden Restaurants, Inc.
 
@@ -265,11 +281,7 @@ Inverse Head and Shoulders
 
 ![TTWO](images/TTWO.jpg)
 
-(7) AMAT - Applied Materials, Inc.
-
-![AMAT](images/AMAT.jpg)
-
-(8) SNPS - Synopsys, Inc.
+(7) SNPS - Synopsys, Inc.
 
 ![SNPS](images/SNPS.jpg)
 
@@ -284,17 +296,17 @@ Inverse Head and Shoulders
 
 ![ED](images/ED.jpg)
 
-(3) CBOE - Cboe Global Markets, Inc.
+(3) AEE - Ameren Corporation
 
-![CBOE](images/CBOE.jpg)
+![AEE](images/AEE.jpg)
 
 (4) CLX - The Clorox Company
 
 ![CLX](images/CLX.jpg)
 
-(5) AEE - Ameren Corporation
+(5) CBOE - Cboe Global Markets, Inc.
 
-![AEE](images/AEE.jpg)
+![CBOE](images/CBOE.jpg)
 
 (6) PNW - Pinnacle West Capital Corporation
 
@@ -307,16 +319,12 @@ Inverse Head and Shoulders
 ---
 **Horizontal S/R**. It can be played as bearish if stock loses the support
 
-(1) CCL - Carnival Corporation & plc
+(1) UDR - UDR, Inc.
 
-![CCL](images/CCL.jpg)
+![UDR](images/UDR.jpg)
 
 (2) CAH - Cardinal Health, Inc.
 
 ![CAH](images/CAH.jpg)
-
-(3) MU - Micron Technology, Inc.
-
-![MU](images/MU.jpg)
 
 ---
