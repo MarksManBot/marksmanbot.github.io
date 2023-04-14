@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: 2023-04-13 08:30:00.651199*
+*Last Updated: 2023-04-14 08:30:00.627205*
 ---
 # BULLISH STOCKS
 ---
@@ -16,60 +16,64 @@ Inverse Head and Shoulders
 ---
 **Multiple Bottoms**
 
-(1) SWK - Stanley Black & Decker, Inc.
+(1) INTC - Intel Corporation
+
+![INTC](images/INTC.jpg)
+
+(2) SWK - Stanley Black & Decker, Inc.
 
 ![SWK](images/SWK.jpg)
 
-(2) RMD - ResMed Inc.
+(3) RMD - ResMed Inc.
 
 ![RMD](images/RMD.jpg)
 
-(3) NRG - NRG Energy, Inc.
+(4) NRG - NRG Energy, Inc.
 
 ![NRG](images/NRG.jpg)
+
+(5) MDT - Medtronic plc
+
+![MDT](images/MDT.jpg)
 
 ---
 **Double Bottom Pattern**
 
-(1) MKC - McCormick & Company, Incorporated
-
-![MKC](images/MKC.jpg)
-
-(2) CCI - Crown Castle Inc.
-
-![CCI](images/CCI.jpg)
-
-(3) CMA - Comerica Incorporated
-
-![CMA](images/CMA.jpg)
-
-(4) DTE - DTE Energy Company
+(1) DTE - DTE Energy Company
 
 ![DTE](images/DTE.jpg)
 
-(5) IFF - International Flavors & Fragrances Inc.
+(2) CMA - Comerica Incorporated
 
-![IFF](images/IFF.jpg)
+![CMA](images/CMA.jpg)
 
-(6) LYV - Live Nation Entertainment, Inc.
+(3) CCI - Crown Castle Inc.
+
+![CCI](images/CCI.jpg)
+
+(4) LYV - Live Nation Entertainment, Inc.
 
 ![LYV](images/LYV.jpg)
 
-(7) SEE - Sealed Air Corporation
+(5) SEE - Sealed Air Corporation
 
 ![SEE](images/SEE.jpg)
 
-(8) WHR - Whirlpool Corporation
+(6) WHR - Whirlpool Corporation
 
 ![WHR](images/WHR.jpg)
 
-(9) STZ - Constellation Brands, Inc.
+(7) STZ - Constellation Brands, Inc.
 
 ![STZ](images/STZ.jpg)
 
-(10) SBAC - SBA Communications Corporation
+(8) SBAC - SBA Communications Corporation
 
 ![SBAC](images/SBAC.jpg)
+
+(9) CHRW - C.H. Robinson Worldwide, Inc.
+
+![CHRW](images/CHRW.jpg)
 
 ---
 **Descending Channel Pattern**
@@ -93,10 +97,6 @@ Inverse Head and Shoulders
 
 ![JKHY](images/JKHY.jpg)
 
-(3) COST - Costco Wholesale Corporation
-
-![COST](images/COST.jpg)
-
 ---
 **Descending Triangle Pattern**
 
@@ -111,17 +111,17 @@ Inverse Head and Shoulders
 
 ![MPC](images/MPC.jpg)
 
-(2) HLT - Hilton Worldwide Holdings Inc.
-
-![HLT](images/HLT.jpg)
-
-(3) NCLH - Norwegian Cruise Line Holdings Ltd.
+(2) NCLH - Norwegian Cruise Line Holdings Ltd.
 
 ![NCLH](images/NCLH.jpg)
 
-(4) UDR - UDR, Inc.
+(3) UDR - UDR, Inc.
 
 ![UDR](images/UDR.jpg)
+
+(4) AAP - Advance Auto Parts, Inc.
+
+![AAP](images/AAP.jpg)
 
 ---
 **Horizontal S/R**
@@ -223,10 +223,6 @@ Inverse Head and Shoulders
 
 ![PSX](images/PSX.jpg)
 
-(7) AZO - AutoZone, Inc.
-
-![AZO](images/AZO.jpg)
-
 ---
 **Ascending Channel Pattern**
 
@@ -285,6 +281,10 @@ Inverse Head and Shoulders
 
 ![SNPS](images/SNPS.jpg)
 
+(8) AMAT - Applied Materials, Inc.
+
+![AMAT](images/AMAT.jpg)
+
 ---
 **Trendline Resistance**
 
@@ -296,25 +296,17 @@ Inverse Head and Shoulders
 
 ![ED](images/ED.jpg)
 
-(3) AEE - Ameren Corporation
-
-![AEE](images/AEE.jpg)
-
-(4) CLX - The Clorox Company
+(3) CLX - The Clorox Company
 
 ![CLX](images/CLX.jpg)
 
-(5) CBOE - Cboe Global Markets, Inc.
-
-![CBOE](images/CBOE.jpg)
-
-(6) PNW - Pinnacle West Capital Corporation
+(4) PNW - Pinnacle West Capital Corporation
 
 ![PNW](images/PNW.jpg)
 
-(7) PWR - Quanta Services, Inc.
+(5) TRGP - Targa Resources Corp.
 
-![PWR](images/PWR.jpg)
+![TRGP](images/TRGP.jpg)
 
 ---
 **Horizontal S/R**. It can be played as bearish if stock loses the support
