@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: 2023-04-14 08:30:00.627205*
+*Last Updated: 2023-04-15 08:30:00.311226*
 ---
 # BULLISH STOCKS
 ---
@@ -16,21 +16,21 @@ Inverse Head and Shoulders
 ---
 **Multiple Bottoms**
 
-(1) INTC - Intel Corporation
+(1) NRG - NRG Energy, Inc.
+
+![NRG](images/NRG.jpg)
+
+(2) INTC - Intel Corporation
 
 ![INTC](images/INTC.jpg)
 
-(2) SWK - Stanley Black & Decker, Inc.
+(3) SWK - Stanley Black & Decker, Inc.
 
 ![SWK](images/SWK.jpg)
 
-(3) RMD - ResMed Inc.
+(4) RMD - ResMed Inc.
 
 ![RMD](images/RMD.jpg)
-
-(4) NRG - NRG Energy, Inc.
-
-![NRG](images/NRG.jpg)
 
 (5) MDT - Medtronic plc
 
@@ -39,52 +39,52 @@ Inverse Head and Shoulders
 ---
 **Double Bottom Pattern**
 
-(1) DTE - DTE Energy Company
+(1) IFF - International Flavors & Fragrances Inc.
 
-![DTE](images/DTE.jpg)
+![IFF](images/IFF.jpg)
 
-(2) CMA - Comerica Incorporated
-
-![CMA](images/CMA.jpg)
-
-(3) CCI - Crown Castle Inc.
+(2) CCI - Crown Castle Inc.
 
 ![CCI](images/CCI.jpg)
 
-(4) LYV - Live Nation Entertainment, Inc.
+(3) LYV - Live Nation Entertainment, Inc.
 
 ![LYV](images/LYV.jpg)
 
-(5) SEE - Sealed Air Corporation
-
-![SEE](images/SEE.jpg)
-
-(6) WHR - Whirlpool Corporation
-
-![WHR](images/WHR.jpg)
-
-(7) STZ - Constellation Brands, Inc.
+(4) STZ - Constellation Brands, Inc.
 
 ![STZ](images/STZ.jpg)
 
-(8) SBAC - SBA Communications Corporation
+(5) CMA - Comerica Incorporated
 
-![SBAC](images/SBAC.jpg)
+![CMA](images/CMA.jpg)
 
-(9) CHRW - C.H. Robinson Worldwide, Inc.
+(6) SEE - Sealed Air Corporation
+
+![SEE](images/SEE.jpg)
+
+(7) DTE - DTE Energy Company
+
+![DTE](images/DTE.jpg)
+
+(8) CHRW - C.H. Robinson Worldwide, Inc.
 
 ![CHRW](images/CHRW.jpg)
 
 ---
 **Descending Channel Pattern**
 
-(1) IEX - IDEX Corporation
+(1) DISH - DISH Network Corporation
+
+![DISH](images/DISH.jpg)
+
+(2) IEX - IDEX Corporation
 
 ![IEX](images/IEX.jpg)
 
-(2) NI - NiSource Inc.
+(3) HUM - Humana Inc.
 
-![NI](images/NI.jpg)
+![HUM](images/HUM.jpg)
 
 ---
 **Falling Wedge Pattern**
@@ -111,17 +111,9 @@ Inverse Head and Shoulders
 
 ![MPC](images/MPC.jpg)
 
-(2) NCLH - Norwegian Cruise Line Holdings Ltd.
-
-![NCLH](images/NCLH.jpg)
-
-(3) UDR - UDR, Inc.
+(2) UDR - UDR, Inc.
 
 ![UDR](images/UDR.jpg)
-
-(4) AAP - Advance Auto Parts, Inc.
-
-![AAP](images/AAP.jpg)
 
 ---
 **Horizontal S/R**
@@ -188,13 +180,13 @@ Inverse Head and Shoulders
 
 ![BA](images/BA.jpg)
 
-(6) GL - Globe Life Inc.
-
-![GL](images/GL.jpg)
-
-(7) WFC - Wells Fargo & Company
+(6) WFC - Wells Fargo & Company
 
 ![WFC](images/WFC.jpg)
+
+(7) GL - Globe Life Inc.
+
+![GL](images/GL.jpg)
 
 ---
 **Double Top Pattern**
@@ -246,10 +238,6 @@ Inverse Head and Shoulders
 
 ![NVR](images/NVR.jpg)
 
-(6) NXPI - NXP Semiconductors N.V.
-
-![NXPI](images/NXPI.jpg)
-
 ---
 **Rising Wedge Pattern**
 
@@ -257,13 +245,13 @@ Inverse Head and Shoulders
 
 ![MPC](images/MPC.jpg)
 
-(2) BSX - Boston Scientific Corporation
-
-![BSX](images/BSX.jpg)
-
-(3) PWR - Quanta Services, Inc.
+(2) PWR - Quanta Services, Inc.
 
 ![PWR](images/PWR.jpg)
+
+(3) BSX - Boston Scientific Corporation
+
+![BSX](images/BSX.jpg)
 
 (4) CSCO - Cisco Systems, Inc.
 
@@ -281,10 +269,6 @@ Inverse Head and Shoulders
 
 ![SNPS](images/SNPS.jpg)
 
-(8) AMAT - Applied Materials, Inc.
-
-![AMAT](images/AMAT.jpg)
-
 ---
 **Trendline Resistance**
 
@@ -292,19 +276,15 @@ Inverse Head and Shoulders
 
 ![TDY](images/TDY.jpg)
 
-(2) ED - Consolidated Edison, Inc.
-
-![ED](images/ED.jpg)
-
-(3) CLX - The Clorox Company
+(2) CLX - The Clorox Company
 
 ![CLX](images/CLX.jpg)
 
-(4) PNW - Pinnacle West Capital Corporation
+(3) AEE - Ameren Corporation
 
-![PNW](images/PNW.jpg)
+![AEE](images/AEE.jpg)
 
-(5) TRGP - Targa Resources Corp.
+(4) TRGP - Targa Resources Corp.
 
 ![TRGP](images/TRGP.jpg)
 
