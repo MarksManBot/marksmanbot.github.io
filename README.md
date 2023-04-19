@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: 2023-04-18 08:30:00.654536*
+*Last Updated: 2023-04-19 08:30:00.819734*
 ---
 # BULLISH STOCKS
 ---
@@ -20,50 +20,62 @@ Inverse Head and Shoulders
 
 ![NRG](images/NRG.jpg)
 
-(2) FTNT - Fortinet, Inc.
+(2) CTLT - Catalent, Inc.
+
+![CTLT](images/CTLT.jpg)
+
+(3) FTNT - Fortinet, Inc.
 
 ![FTNT](images/FTNT.jpg)
 
-(3) INTC - Intel Corporation
+(4) INTC - Intel Corporation
 
 ![INTC](images/INTC.jpg)
 
-(4) SWK - Stanley Black & Decker, Inc.
+(5) SWK - Stanley Black & Decker, Inc.
 
 ![SWK](images/SWK.jpg)
 
-(5) RMD - ResMed Inc.
+(6) RMD - ResMed Inc.
 
 ![RMD](images/RMD.jpg)
 
-(6) MDT - Medtronic plc
+(7) MDT - Medtronic plc
 
 ![MDT](images/MDT.jpg)
 
 ---
 **Double Bottom Pattern**
 
-(1) CCI - Crown Castle Inc.
+(1) DLR - Digital Realty Trust, Inc.
+
+![DLR](images/DLR.jpg)
+
+(2) IFF - International Flavors & Fragrances Inc.
+
+![IFF](images/IFF.jpg)
+
+(3) CCI - Crown Castle Inc.
 
 ![CCI](images/CCI.jpg)
 
-(2) CMA - Comerica Incorporated
+(4) CMA - Comerica Incorporated
 
 ![CMA](images/CMA.jpg)
 
-(3) SEE - Sealed Air Corporation
+(5) SEE - Sealed Air Corporation
 
 ![SEE](images/SEE.jpg)
 
-(4) LYV - Live Nation Entertainment, Inc.
+(6) LYV - Live Nation Entertainment, Inc.
 
 ![LYV](images/LYV.jpg)
 
-(5) DTE - DTE Energy Company
+(7) DTE - DTE Energy Company
 
 ![DTE](images/DTE.jpg)
 
-(6) CHRW - C.H. Robinson Worldwide, Inc.
+(8) CHRW - C.H. Robinson Worldwide, Inc.
 
 ![CHRW](images/CHRW.jpg)
 
@@ -106,7 +118,11 @@ Inverse Head and Shoulders
 ---
 **Horizontal S/R**
 
-(1) CAH - Cardinal Health, Inc.
+(1) CCL - Carnival Corporation & plc
+
+![CCL](images/CCL.jpg)
+
+(2) CAH - Cardinal Health, Inc.
 
 ![CAH](images/CAH.jpg)
 
@@ -125,32 +141,36 @@ Inverse Head and Shoulders
 ---
 **Head and Shoulders Pattern**
 
-(1) SNA - Snap-on Incorporated
+(1) NFLX - Netflix, Inc.
+
+![NFLX](images/NFLX.jpg)
+
+(2) SNA - Snap-on Incorporated
 
 ![SNA](images/SNA.jpg)
 
-(2) STT - State Street Corporation
+(3) STT - State Street Corporation
 
 ![STT](images/STT.jpg)
 
-(3) HAL - Halliburton Company
+(4) HAL - Halliburton Company
 
 ![HAL](images/HAL.jpg)
 
-(4) KLAC - KLA Corporation
+(5) KLAC - KLA Corporation
 
 ![KLAC](images/KLAC.jpg)
 
-(5) BIIB - Biogen Inc.
+(6) BIIB - Biogen Inc.
 
 ![BIIB](images/BIIB.jpg)
 
 ---
 **Multiple Top**
 
-(1) LMT - Lockheed Martin Corporation
+(1) FICO - Fair Isaac Corporation
 
-![LMT](images/LMT.jpg)
+![FICO](images/FICO.jpg)
 
 (2) DXCM - DexCom, Inc.
 
@@ -226,24 +246,20 @@ Inverse Head and Shoulders
 
 ![NVR](images/NVR.jpg)
 
-(6) NXPI - NXP Semiconductors N.V.
-
-![NXPI](images/NXPI.jpg)
-
 ---
 **Rising Wedge Pattern**
 
-(1) BSX - Boston Scientific Corporation
+(1) MPC - Marathon Petroleum Corporation
+
+![MPC](images/MPC.jpg)
+
+(2) BSX - Boston Scientific Corporation
 
 ![BSX](images/BSX.jpg)
 
-(2) PWR - Quanta Services, Inc.
+(3) PWR - Quanta Services, Inc.
 
 ![PWR](images/PWR.jpg)
-
-(3) MPC - Marathon Petroleum Corporation
-
-![MPC](images/MPC.jpg)
 
 (4) ULTA - Ulta Beauty, Inc.
 
@@ -262,25 +278,43 @@ Inverse Head and Shoulders
 ![SNPS](images/SNPS.jpg)
 
 ---
+**Ascending Triangle**
+
+(1) BG - Bunge Limited
+
+![BG](images/BG.jpg)
+
+---
 **Trendline Resistance**
 
 (1) TDY - Teledyne Technologies Incorporated
 
 ![TDY](images/TDY.jpg)
 
-(2) CLX - The Clorox Company
-
-![CLX](images/CLX.jpg)
-
-(3) AEE - Ameren Corporation
+(2) AEE - Ameren Corporation
 
 ![AEE](images/AEE.jpg)
+
+(3) CLX - The Clorox Company
+
+![CLX](images/CLX.jpg)
 
 ---
 **Horizontal S/R**. It can be played as bearish if stock loses the support
 
-(1) CAH - Cardinal Health, Inc.
+(1) CCL - Carnival Corporation & plc
+
+![CCL](images/CCL.jpg)
+
+(2) CAH - Cardinal Health, Inc.
 
 ![CAH](images/CAH.jpg)
+
+---
+**Overbought Stock**
+
+(1) MCD - McDonald's Corporation
+
+![MCD](images/MCD.jpg)
 
 ---
