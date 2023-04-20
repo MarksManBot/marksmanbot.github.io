@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: 2023-04-19 08:30:00.819734*
+*Last Updated: 2023-04-20 08:30:00.825459*
 ---
 # BULLISH STOCKS
 ---
@@ -47,37 +47,33 @@ Inverse Head and Shoulders
 ---
 **Double Bottom Pattern**
 
-(1) DLR - Digital Realty Trust, Inc.
-
-![DLR](images/DLR.jpg)
-
-(2) IFF - International Flavors & Fragrances Inc.
+(1) IFF - International Flavors & Fragrances Inc.
 
 ![IFF](images/IFF.jpg)
 
-(3) CCI - Crown Castle Inc.
+(2) STZ - Constellation Brands, Inc.
+
+![STZ](images/STZ.jpg)
+
+(3) DLR - Digital Realty Trust, Inc.
+
+![DLR](images/DLR.jpg)
+
+(4) CCI - Crown Castle Inc.
 
 ![CCI](images/CCI.jpg)
 
-(4) CMA - Comerica Incorporated
+(5) CMA - Comerica Incorporated
 
 ![CMA](images/CMA.jpg)
 
-(5) SEE - Sealed Air Corporation
+(6) SEE - Sealed Air Corporation
 
 ![SEE](images/SEE.jpg)
-
-(6) LYV - Live Nation Entertainment, Inc.
-
-![LYV](images/LYV.jpg)
 
 (7) DTE - DTE Energy Company
 
 ![DTE](images/DTE.jpg)
-
-(8) CHRW - C.H. Robinson Worldwide, Inc.
-
-![CHRW](images/CHRW.jpg)
 
 ---
 **Descending Channel Pattern**
@@ -114,24 +110,6 @@ Inverse Head and Shoulders
 (1) MPC - Marathon Petroleum Corporation
 
 ![MPC](images/MPC.jpg)
-
----
-**Horizontal S/R**
-
-(1) CCL - Carnival Corporation & plc
-
-![CCL](images/CCL.jpg)
-
-(2) CAH - Cardinal Health, Inc.
-
-![CAH](images/CAH.jpg)
-
----
-**Oversold Stock**
-
-(1) FRC - First Republic Bank
-
-![FRC](images/FRC.jpg)
 
 ---
 
@@ -172,54 +150,46 @@ Inverse Head and Shoulders
 
 ![FICO](images/FICO.jpg)
 
-(2) DXCM - DexCom, Inc.
-
-![DXCM](images/DXCM.jpg)
-
-(3) HBAN - Huntington Bancshares Incorporated
+(2) HBAN - Huntington Bancshares Incorporated
 
 ![HBAN](images/HBAN.jpg)
 
-(4) ROST - Ross Stores, Inc.
+(3) ROST - Ross Stores, Inc.
 
 ![ROST](images/ROST.jpg)
 
-(5) BA - The Boeing Company
+(4) BA - The Boeing Company
 
 ![BA](images/BA.jpg)
 
-(6) GL - Globe Life Inc.
+(5) GL - Globe Life Inc.
 
 ![GL](images/GL.jpg)
 
-(7) WFC - Wells Fargo & Company
+(6) WFC - Wells Fargo & Company
 
 ![WFC](images/WFC.jpg)
 
 ---
 **Double Top Pattern**
 
-(1) NCLH - Norwegian Cruise Line Holdings Ltd.
-
-![NCLH](images/NCLH.jpg)
-
-(2) CTAS - Cintas Corporation
+(1) CTAS - Cintas Corporation
 
 ![CTAS](images/CTAS.jpg)
 
-(3) CVX - Chevron Corporation
+(2) CVX - Chevron Corporation
 
 ![CVX](images/CVX.jpg)
 
-(4) NUE - Nucor Corporation
+(3) NUE - Nucor Corporation
 
 ![NUE](images/NUE.jpg)
 
-(5) WYNN - Wynn Resorts, Limited
+(4) WYNN - Wynn Resorts, Limited
 
 ![WYNN](images/WYNN.jpg)
 
-(6) PSX - Phillips 66
+(5) PSX - Phillips 66
 
 ![PSX](images/PSX.jpg)
 
@@ -230,17 +200,17 @@ Inverse Head and Shoulders
 
 ![TDY](images/TDY.jpg)
 
-(2) CCL - Carnival Corporation & plc
+(2) APH - Amphenol Corporation
+
+![APH](images/APH.jpg)
+
+(3) CCL - Carnival Corporation & plc
 
 ![CCL](images/CCL.jpg)
 
-(3) VRSK - Verisk Analytics, Inc.
+(4) VRSK - Verisk Analytics, Inc.
 
 ![VRSK](images/VRSK.jpg)
-
-(4) APH - Amphenol Corporation
-
-![APH](images/APH.jpg)
 
 (5) NVR - NVR, Inc.
 
@@ -300,20 +270,13 @@ Inverse Head and Shoulders
 ![CLX](images/CLX.jpg)
 
 ---
-**Horizontal S/R**. It can be played as bearish if stock loses the support
-
-(1) CCL - Carnival Corporation & plc
-
-![CCL](images/CCL.jpg)
-
-(2) CAH - Cardinal Health, Inc.
-
-![CAH](images/CAH.jpg)
-
----
 **Overbought Stock**
 
-(1) MCD - McDonald's Corporation
+(1) ISRG - Intuitive Surgical, Inc.
+
+![ISRG](images/ISRG.jpg)
+
+(2) MCD - McDonald's Corporation
 
 ![MCD](images/MCD.jpg)
 
