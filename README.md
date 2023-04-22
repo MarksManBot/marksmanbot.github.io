@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: 2023-04-21 08:30:00.570114*
+*Last Updated: 2023-04-22 08:30:00.558162*
 ---
 # BULLISH STOCKS
 ---
@@ -16,9 +16,9 @@ Inverse Head and Shoulders
 ---
 **Multiple Bottoms**
 
-(1) CTLT - Catalent, Inc.
+(1) NRG - NRG Energy, Inc.
 
-![CTLT](images/CTLT.jpg)
+![NRG](images/NRG.jpg)
 
 (2) INTC - Intel Corporation
 
@@ -32,13 +32,17 @@ Inverse Head and Shoulders
 
 ![SWK](images/SWK.jpg)
 
-(5) RMD - ResMed Inc.
+(5) MDT - Medtronic plc
+
+![MDT](images/MDT.jpg)
+
+(6) RMD - ResMed Inc.
 
 ![RMD](images/RMD.jpg)
 
-(6) MDT - Medtronic plc
+(7) UDR - UDR, Inc.
 
-![MDT](images/MDT.jpg)
+![UDR](images/UDR.jpg)
 
 ---
 **Double Bottom Pattern**
@@ -47,33 +51,33 @@ Inverse Head and Shoulders
 
 ![WHR](images/WHR.jpg)
 
-(2) LYV - Live Nation Entertainment, Inc.
+(2) CMA - Comerica Incorporated
+
+![CMA](images/CMA.jpg)
+
+(3) LYV - Live Nation Entertainment, Inc.
 
 ![LYV](images/LYV.jpg)
 
-(3) STZ - Constellation Brands, Inc.
+(4) STZ - Constellation Brands, Inc.
 
 ![STZ](images/STZ.jpg)
 
-(4) DLR - Digital Realty Trust, Inc.
+(5) DLR - Digital Realty Trust, Inc.
 
 ![DLR](images/DLR.jpg)
-
-(5) CCI - Crown Castle Inc.
-
-![CCI](images/CCI.jpg)
 
 (6) IFF - International Flavors & Fragrances Inc.
 
 ![IFF](images/IFF.jpg)
 
-(7) CMA - Comerica Incorporated
-
-![CMA](images/CMA.jpg)
-
-(8) SEE - Sealed Air Corporation
+(7) SEE - Sealed Air Corporation
 
 ![SEE](images/SEE.jpg)
+
+(8) CCI - Crown Castle Inc.
+
+![CCI](images/CCI.jpg)
 
 (9) DTE - DTE Energy Company
 
@@ -130,61 +134,69 @@ Inverse Head and Shoulders
 ---
 **Head and Shoulders Pattern**
 
-(1) NFLX - Netflix, Inc.
-
-![NFLX](images/NFLX.jpg)
-
-(2) STT - State Street Corporation
+(1) STT - State Street Corporation
 
 ![STT](images/STT.jpg)
 
-(3) HAL - Halliburton Company
+(2) HAL - Halliburton Company
 
 ![HAL](images/HAL.jpg)
 
-(4) KLAC - KLA Corporation
+(3) KLAC - KLA Corporation
 
 ![KLAC](images/KLAC.jpg)
+
+(4) NFLX - Netflix, Inc.
+
+![NFLX](images/NFLX.jpg)
 
 ---
 **Multiple Top**
 
-(1) HBAN - Huntington Bancshares Incorporated
+(1) LMT - Lockheed Martin Corporation
+
+![LMT](images/LMT.jpg)
+
+(2) HBAN - Huntington Bancshares Incorporated
 
 ![HBAN](images/HBAN.jpg)
 
-(2) ROST - Ross Stores, Inc.
+(3) ROST - Ross Stores, Inc.
 
 ![ROST](images/ROST.jpg)
 
-(3) BA - The Boeing Company
+(4) BA - The Boeing Company
 
 ![BA](images/BA.jpg)
-
-(4) GL - Globe Life Inc.
-
-![GL](images/GL.jpg)
 
 (5) WFC - Wells Fargo & Company
 
 ![WFC](images/WFC.jpg)
 
+(6) GL - Globe Life Inc.
+
+![GL](images/GL.jpg)
+
 ---
 **Double Top Pattern**
 
-(1) CTAS - Cintas Corporation
+(1) NCLH - Norwegian Cruise Line Holdings Ltd.
+
+![NCLH](images/NCLH.jpg)
+
+(2) CTAS - Cintas Corporation
 
 ![CTAS](images/CTAS.jpg)
 
-(2) WYNN - Wynn Resorts, Limited
+(3) WYNN - Wynn Resorts, Limited
 
 ![WYNN](images/WYNN.jpg)
 
-(3) CVX - Chevron Corporation
+(4) CVX - Chevron Corporation
 
 ![CVX](images/CVX.jpg)
 
-(4) NUE - Nucor Corporation
+(5) NUE - Nucor Corporation
 
 ![NUE](images/NUE.jpg)
 
@@ -210,13 +222,13 @@ Inverse Head and Shoulders
 ---
 **Rising Wedge Pattern**
 
-(1) MPC - Marathon Petroleum Corporation
-
-![MPC](images/MPC.jpg)
-
-(2) APH - Amphenol Corporation
+(1) APH - Amphenol Corporation
 
 ![APH](images/APH.jpg)
+
+(2) MPC - Marathon Petroleum Corporation
+
+![MPC](images/MPC.jpg)
 
 (3) BSX - Boston Scientific Corporation
 
@@ -256,11 +268,7 @@ Inverse Head and Shoulders
 
 ![TDY](images/TDY.jpg)
 
-(2) AEE - Ameren Corporation
-
-![AEE](images/AEE.jpg)
-
-(3) CLX - The Clorox Company
+(2) CLX - The Clorox Company
 
 ![CLX](images/CLX.jpg)
 
@@ -277,5 +285,9 @@ Inverse Head and Shoulders
 (1) ISRG - Intuitive Surgical, Inc.
 
 ![ISRG](images/ISRG.jpg)
+
+(2) MCD - McDonald's Corporation
+
+![MCD](images/MCD.jpg)
 
 ---
