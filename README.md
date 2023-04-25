@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: 2023-04-24 08:30:00.558571*
+*Last Updated: 2023-04-25 08:30:00.571254*
 ---
 # BULLISH STOCKS
 ---
@@ -36,50 +36,34 @@ Inverse Head and Shoulders
 
 ![MDT](images/MDT.jpg)
 
-(6) RMD - ResMed Inc.
-
-![RMD](images/RMD.jpg)
-
-(7) UDR - UDR, Inc.
-
-![UDR](images/UDR.jpg)
-
 ---
 **Double Bottom Pattern**
 
-(1) WHR - Whirlpool Corporation
-
-![WHR](images/WHR.jpg)
-
-(2) CMA - Comerica Incorporated
+(1) CMA - Comerica Incorporated
 
 ![CMA](images/CMA.jpg)
 
-(3) LYV - Live Nation Entertainment, Inc.
+(2) LYV - Live Nation Entertainment, Inc.
 
 ![LYV](images/LYV.jpg)
 
-(4) STZ - Constellation Brands, Inc.
+(3) STZ - Constellation Brands, Inc.
 
 ![STZ](images/STZ.jpg)
 
-(5) DLR - Digital Realty Trust, Inc.
+(4) DLR - Digital Realty Trust, Inc.
 
 ![DLR](images/DLR.jpg)
 
-(6) IFF - International Flavors & Fragrances Inc.
+(5) WHR - Whirlpool Corporation
 
-![IFF](images/IFF.jpg)
+![WHR](images/WHR.jpg)
 
-(7) SEE - Sealed Air Corporation
+(6) SEE - Sealed Air Corporation
 
 ![SEE](images/SEE.jpg)
 
-(8) CCI - Crown Castle Inc.
-
-![CCI](images/CCI.jpg)
-
-(9) DTE - DTE Energy Company
+(7) DTE - DTE Energy Company
 
 ![DTE](images/DTE.jpg)
 
@@ -100,10 +84,6 @@ Inverse Head and Shoulders
 (1) ACN - Accenture plc
 
 ![ACN](images/ACN.jpg)
-
-(2) JKHY - Jack Henry & Associates, Inc.
-
-![JKHY](images/JKHY.jpg)
 
 ---
 **Descending Triangle Pattern**
@@ -184,21 +164,21 @@ Inverse Head and Shoulders
 
 ![NCLH](images/NCLH.jpg)
 
-(2) CTAS - Cintas Corporation
-
-![CTAS](images/CTAS.jpg)
-
-(3) WYNN - Wynn Resorts, Limited
+(2) WYNN - Wynn Resorts, Limited
 
 ![WYNN](images/WYNN.jpg)
 
-(4) CVX - Chevron Corporation
+(3) CVX - Chevron Corporation
 
 ![CVX](images/CVX.jpg)
 
-(5) NUE - Nucor Corporation
+(4) NUE - Nucor Corporation
 
 ![NUE](images/NUE.jpg)
+
+(5) CTAS - Cintas Corporation
+
+![CTAS](images/CTAS.jpg)
 
 ---
 **Ascending Channel Pattern**
@@ -222,35 +202,31 @@ Inverse Head and Shoulders
 ---
 **Rising Wedge Pattern**
 
-(1) APH - Amphenol Corporation
-
-![APH](images/APH.jpg)
-
-(2) MPC - Marathon Petroleum Corporation
+(1) MPC - Marathon Petroleum Corporation
 
 ![MPC](images/MPC.jpg)
 
-(3) BSX - Boston Scientific Corporation
+(2) APH - Amphenol Corporation
 
-![BSX](images/BSX.jpg)
+![APH](images/APH.jpg)
 
-(4) PWR - Quanta Services, Inc.
+(3) PWR - Quanta Services, Inc.
 
 ![PWR](images/PWR.jpg)
 
-(5) ULTA - Ulta Beauty, Inc.
+(4) ULTA - Ulta Beauty, Inc.
 
 ![ULTA](images/ULTA.jpg)
 
-(6) DRI - Darden Restaurants, Inc.
+(5) DRI - Darden Restaurants, Inc.
 
 ![DRI](images/DRI.jpg)
 
-(7) SNPS - Synopsys, Inc.
+(6) SNPS - Synopsys, Inc.
 
 ![SNPS](images/SNPS.jpg)
 
-(8) TTWO - Take-Two Interactive Software, Inc.
+(7) TTWO - Take-Two Interactive Software, Inc.
 
 ![TTWO](images/TTWO.jpg)
 
@@ -272,6 +248,14 @@ Inverse Head and Shoulders
 
 ![CLX](images/CLX.jpg)
 
+(3) ES - Eversource Energy
+
+![ES](images/ES.jpg)
+
+(4) AMT - American Tower Corporation
+
+![AMT](images/AMT.jpg)
+
 ---
 **Horizontal S/R**. It can be played as bearish if stock loses the support
 
@@ -289,5 +273,9 @@ Inverse Head and Shoulders
 (2) MCD - McDonald's Corporation
 
 ![MCD](images/MCD.jpg)
+
+(3) KMB - Kimberly-Clark Corporation
+
+![KMB](images/KMB.jpg)
 
 ---
