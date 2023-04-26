@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: 2023-04-25 08:30:00.571254*
+*Last Updated: 2023-04-26 08:30:00.557887*
 ---
 # BULLISH STOCKS
 ---
@@ -28,53 +28,49 @@ Inverse Head and Shoulders
 
 ![FTNT](images/FTNT.jpg)
 
-(4) SWK - Stanley Black & Decker, Inc.
+(4) CTLT - Catalent, Inc.
+
+![CTLT](images/CTLT.jpg)
+
+(5) SWK - Stanley Black & Decker, Inc.
 
 ![SWK](images/SWK.jpg)
 
-(5) MDT - Medtronic plc
+(6) MDT - Medtronic plc
 
 ![MDT](images/MDT.jpg)
 
 ---
 **Double Bottom Pattern**
 
-(1) CMA - Comerica Incorporated
+(1) CCI - Crown Castle Inc.
 
-![CMA](images/CMA.jpg)
+![CCI](images/CCI.jpg)
 
-(2) LYV - Live Nation Entertainment, Inc.
+(2) DLR - Digital Realty Trust, Inc.
 
-![LYV](images/LYV.jpg)
+![DLR](images/DLR.jpg)
 
 (3) STZ - Constellation Brands, Inc.
 
 ![STZ](images/STZ.jpg)
 
-(4) DLR - Digital Realty Trust, Inc.
+(4) CMA - Comerica Incorporated
 
-![DLR](images/DLR.jpg)
+![CMA](images/CMA.jpg)
 
 (5) WHR - Whirlpool Corporation
 
 ![WHR](images/WHR.jpg)
 
-(6) SEE - Sealed Air Corporation
-
-![SEE](images/SEE.jpg)
-
-(7) DTE - DTE Energy Company
+(6) DTE - DTE Energy Company
 
 ![DTE](images/DTE.jpg)
 
 ---
 **Descending Channel Pattern**
 
-(1) DISH - DISH Network Corporation
-
-![DISH](images/DISH.jpg)
-
-(2) IEX - IDEX Corporation
+(1) IEX - IDEX Corporation
 
 ![IEX](images/IEX.jpg)
 
@@ -85,6 +81,10 @@ Inverse Head and Shoulders
 
 ![ACN](images/ACN.jpg)
 
+(2) JKHY - Jack Henry & Associates, Inc.
+
+![JKHY](images/JKHY.jpg)
+
 ---
 **Descending Triangle Pattern**
 
@@ -93,16 +93,17 @@ Inverse Head and Shoulders
 ![FDS](images/FDS.jpg)
 
 ---
-**Trendline Support**
-
-(1) MPC - Marathon Petroleum Corporation
-
-![MPC](images/MPC.jpg)
-
----
 **Horizontal S/R**
 
-(1) CAH - Cardinal Health, Inc.
+(1) AWK - American Water Works Company, Inc.
+
+![AWK](images/AWK.jpg)
+
+(2) ODFL - Old Dominion Freight Line, Inc.
+
+![ODFL](images/ODFL.jpg)
+
+(3) CAH - Cardinal Health, Inc.
 
 ![CAH](images/CAH.jpg)
 
@@ -114,71 +115,75 @@ Inverse Head and Shoulders
 ---
 **Head and Shoulders Pattern**
 
-(1) STT - State Street Corporation
+(1) UAL - United Airlines Holdings, Inc.
+
+![UAL](images/UAL.jpg)
+
+(2) STT - State Street Corporation
 
 ![STT](images/STT.jpg)
 
-(2) HAL - Halliburton Company
+(3) HAL - Halliburton Company
 
 ![HAL](images/HAL.jpg)
 
-(3) KLAC - KLA Corporation
+(4) KLAC - KLA Corporation
 
 ![KLAC](images/KLAC.jpg)
 
-(4) NFLX - Netflix, Inc.
+(5) NFLX - Netflix, Inc.
 
 ![NFLX](images/NFLX.jpg)
 
 ---
 **Multiple Top**
 
-(1) LMT - Lockheed Martin Corporation
+(1) CTAS - Cintas Corporation
+
+![CTAS](images/CTAS.jpg)
+
+(2) LMT - Lockheed Martin Corporation
 
 ![LMT](images/LMT.jpg)
 
-(2) HBAN - Huntington Bancshares Incorporated
+(3) HBAN - Huntington Bancshares Incorporated
 
 ![HBAN](images/HBAN.jpg)
 
-(3) ROST - Ross Stores, Inc.
+(4) ROST - Ross Stores, Inc.
 
 ![ROST](images/ROST.jpg)
 
-(4) BA - The Boeing Company
+(5) BA - The Boeing Company
 
 ![BA](images/BA.jpg)
 
-(5) WFC - Wells Fargo & Company
+(6) WFC - Wells Fargo & Company
 
 ![WFC](images/WFC.jpg)
 
-(6) GL - Globe Life Inc.
+(7) GL - Globe Life Inc.
 
 ![GL](images/GL.jpg)
 
 ---
 **Double Top Pattern**
 
-(1) NCLH - Norwegian Cruise Line Holdings Ltd.
-
-![NCLH](images/NCLH.jpg)
-
-(2) WYNN - Wynn Resorts, Limited
+(1) WYNN - Wynn Resorts, Limited
 
 ![WYNN](images/WYNN.jpg)
 
-(3) CVX - Chevron Corporation
+(2) NCLH - Norwegian Cruise Line Holdings Ltd.
 
-![CVX](images/CVX.jpg)
+![NCLH](images/NCLH.jpg)
 
-(4) NUE - Nucor Corporation
+(3) NUE - Nucor Corporation
 
 ![NUE](images/NUE.jpg)
 
-(5) CTAS - Cintas Corporation
+(4) CVX - Chevron Corporation
 
-![CTAS](images/CTAS.jpg)
+![CVX](images/CVX.jpg)
 
 ---
 **Ascending Channel Pattern**
@@ -191,36 +196,36 @@ Inverse Head and Shoulders
 
 ![CCL](images/CCL.jpg)
 
-(3) NVR - NVR, Inc.
-
-![NVR](images/NVR.jpg)
-
-(4) VRSK - Verisk Analytics, Inc.
+(3) VRSK - Verisk Analytics, Inc.
 
 ![VRSK](images/VRSK.jpg)
+
+(4) NVR - NVR, Inc.
+
+![NVR](images/NVR.jpg)
 
 ---
 **Rising Wedge Pattern**
 
-(1) MPC - Marathon Petroleum Corporation
-
-![MPC](images/MPC.jpg)
-
-(2) APH - Amphenol Corporation
+(1) APH - Amphenol Corporation
 
 ![APH](images/APH.jpg)
 
-(3) PWR - Quanta Services, Inc.
+(2) PWR - Quanta Services, Inc.
 
 ![PWR](images/PWR.jpg)
 
-(4) ULTA - Ulta Beauty, Inc.
+(3) ULTA - Ulta Beauty, Inc.
 
 ![ULTA](images/ULTA.jpg)
 
-(5) DRI - Darden Restaurants, Inc.
+(4) DRI - Darden Restaurants, Inc.
 
 ![DRI](images/DRI.jpg)
+
+(5) GEHC - GE HealthCare Technologies Inc.
+
+![GEHC](images/GEHC.jpg)
 
 (6) SNPS - Synopsys, Inc.
 
@@ -240,42 +245,42 @@ Inverse Head and Shoulders
 ---
 **Trendline Resistance**
 
-(1) TDY - Teledyne Technologies Incorporated
-
-![TDY](images/TDY.jpg)
-
-(2) CLX - The Clorox Company
+(1) CLX - The Clorox Company
 
 ![CLX](images/CLX.jpg)
 
-(3) ES - Eversource Energy
+(2) ES - Eversource Energy
 
 ![ES](images/ES.jpg)
 
-(4) AMT - American Tower Corporation
+(3) AMT - American Tower Corporation
 
 ![AMT](images/AMT.jpg)
 
 ---
 **Horizontal S/R**. It can be played as bearish if stock loses the support
 
-(1) CAH - Cardinal Health, Inc.
+(1) AWK - American Water Works Company, Inc.
+
+![AWK](images/AWK.jpg)
+
+(2) ODFL - Old Dominion Freight Line, Inc.
+
+![ODFL](images/ODFL.jpg)
+
+(3) CAH - Cardinal Health, Inc.
 
 ![CAH](images/CAH.jpg)
 
 ---
 **Overbought Stock**
 
-(1) ISRG - Intuitive Surgical, Inc.
-
-![ISRG](images/ISRG.jpg)
-
-(2) MCD - McDonald's Corporation
-
-![MCD](images/MCD.jpg)
-
-(3) KMB - Kimberly-Clark Corporation
+(1) KMB - Kimberly-Clark Corporation
 
 ![KMB](images/KMB.jpg)
+
+(2) PHM - PulteGroup, Inc.
+
+![PHM](images/PHM.jpg)
 
 ---
