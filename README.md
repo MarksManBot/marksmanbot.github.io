@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: 2023-04-26 08:30:00.557887*
+*Last Updated: 2023-04-27 08:30:00.571558*
 ---
 # BULLISH STOCKS
 ---
@@ -16,94 +16,90 @@ Inverse Head and Shoulders
 ---
 **Multiple Bottoms**
 
-(1) NRG - NRG Energy, Inc.
-
-![NRG](images/NRG.jpg)
-
-(2) INTC - Intel Corporation
-
-![INTC](images/INTC.jpg)
-
-(3) FTNT - Fortinet, Inc.
-
-![FTNT](images/FTNT.jpg)
-
-(4) CTLT - Catalent, Inc.
+(1) CTLT - Catalent, Inc.
 
 ![CTLT](images/CTLT.jpg)
 
-(5) SWK - Stanley Black & Decker, Inc.
-
-![SWK](images/SWK.jpg)
-
-(6) MDT - Medtronic plc
+(2) MDT - Medtronic plc
 
 ![MDT](images/MDT.jpg)
 
 ---
 **Double Bottom Pattern**
 
-(1) CCI - Crown Castle Inc.
-
-![CCI](images/CCI.jpg)
-
-(2) DLR - Digital Realty Trust, Inc.
-
-![DLR](images/DLR.jpg)
-
-(3) STZ - Constellation Brands, Inc.
-
-![STZ](images/STZ.jpg)
-
-(4) CMA - Comerica Incorporated
+(1) CMA - Comerica Incorporated
 
 ![CMA](images/CMA.jpg)
 
-(5) WHR - Whirlpool Corporation
+(2) STZ - Constellation Brands, Inc.
+
+![STZ](images/STZ.jpg)
+
+(3) WHR - Whirlpool Corporation
 
 ![WHR](images/WHR.jpg)
 
-(6) DTE - DTE Energy Company
+(4) SEE - Sealed Air Corporation
 
-![DTE](images/DTE.jpg)
+![SEE](images/SEE.jpg)
 
 ---
 **Descending Channel Pattern**
 
-(1) IEX - IDEX Corporation
+(1) DHR - Danaher Corporation
+
+![DHR](images/DHR.jpg)
+
+(2) TSN - Tyson Foods, Inc.
+
+![TSN](images/TSN.jpg)
+
+(3) IEX - IDEX Corporation
 
 ![IEX](images/IEX.jpg)
 
 ---
 **Falling Wedge Pattern**
 
-(1) ACN - Accenture plc
+(1) AAP - Advance Auto Parts, Inc.
+
+![AAP](images/AAP.jpg)
+
+(2) ACN - Accenture plc
 
 ![ACN](images/ACN.jpg)
 
-(2) JKHY - Jack Henry & Associates, Inc.
+(3) JKHY - Jack Henry & Associates, Inc.
 
 ![JKHY](images/JKHY.jpg)
 
 ---
-**Descending Triangle Pattern**
+**Trendline Support**
 
-(1) FDS - FactSet Research Systems Inc.
+(1) PAYC - Paycom Software, Inc.
 
-![FDS](images/FDS.jpg)
+![PAYC](images/PAYC.jpg)
+
+(2) HLT - Hilton Worldwide Holdings Inc.
+
+![HLT](images/HLT.jpg)
 
 ---
 **Horizontal S/R**
 
-(1) AWK - American Water Works Company, Inc.
+(1) UDR - UDR, Inc.
 
-![AWK](images/AWK.jpg)
+![UDR](images/UDR.jpg)
 
-(2) ODFL - Old Dominion Freight Line, Inc.
+(2) FDS - FactSet Research Systems Inc.
 
-![ODFL](images/ODFL.jpg)
+![FDS](images/FDS.jpg)
 
-(3) CAH - Cardinal Health, Inc.
+(3) GRMN - Garmin Ltd.
+
+![GRMN](images/GRMN.jpg)
+
+(4) CAH - Cardinal Health, Inc.
 
 ![CAH](images/CAH.jpg)
 
@@ -135,6 +131,18 @@ Inverse Head and Shoulders
 
 ![NFLX](images/NFLX.jpg)
 
+(6) TRV - The Travelers Companies, Inc.
+
+![TRV](images/TRV.jpg)
+
+(7) GD - General Dynamics Corporation
+
+![GD](images/GD.jpg)
+
+(8) ALK - Alaska Air Group, Inc.
+
+![ALK](images/ALK.jpg)
+
 ---
 **Multiple Top**
 
@@ -142,27 +150,23 @@ Inverse Head and Shoulders
 
 ![CTAS](images/CTAS.jpg)
 
-(2) LMT - Lockheed Martin Corporation
-
-![LMT](images/LMT.jpg)
-
-(3) HBAN - Huntington Bancshares Incorporated
-
-![HBAN](images/HBAN.jpg)
-
-(4) ROST - Ross Stores, Inc.
-
-![ROST](images/ROST.jpg)
-
-(5) BA - The Boeing Company
+(2) BA - The Boeing Company
 
 ![BA](images/BA.jpg)
 
-(6) WFC - Wells Fargo & Company
+(3) LMT - Lockheed Martin Corporation
 
-![WFC](images/WFC.jpg)
+![LMT](images/LMT.jpg)
 
-(7) GL - Globe Life Inc.
+(4) HBAN - Huntington Bancshares Incorporated
+
+![HBAN](images/HBAN.jpg)
+
+(5) ROST - Ross Stores, Inc.
+
+![ROST](images/ROST.jpg)
+
+(6) GL - Globe Life Inc.
 
 ![GL](images/GL.jpg)
 
@@ -173,17 +177,21 @@ Inverse Head and Shoulders
 
 ![WYNN](images/WYNN.jpg)
 
-(2) NCLH - Norwegian Cruise Line Holdings Ltd.
+(2) MGM - MGM Resorts International
+
+![MGM](images/MGM.jpg)
+
+(3) IDXX - IDEXX Laboratories, Inc.
+
+![IDXX](images/IDXX.jpg)
+
+(4) NCLH - Norwegian Cruise Line Holdings Ltd.
 
 ![NCLH](images/NCLH.jpg)
 
-(3) NUE - Nucor Corporation
+(5) NUE - Nucor Corporation
 
 ![NUE](images/NUE.jpg)
-
-(4) CVX - Chevron Corporation
-
-![CVX](images/CVX.jpg)
 
 ---
 **Ascending Channel Pattern**
@@ -195,14 +203,6 @@ Inverse Head and Shoulders
 (2) CCL - Carnival Corporation & plc
 
 ![CCL](images/CCL.jpg)
-
-(3) VRSK - Verisk Analytics, Inc.
-
-![VRSK](images/VRSK.jpg)
-
-(4) NVR - NVR, Inc.
-
-![NVR](images/NVR.jpg)
 
 ---
 **Rising Wedge Pattern**
@@ -223,17 +223,13 @@ Inverse Head and Shoulders
 
 ![DRI](images/DRI.jpg)
 
-(5) GEHC - GE HealthCare Technologies Inc.
+(5) TTWO - Take-Two Interactive Software, Inc.
 
-![GEHC](images/GEHC.jpg)
+![TTWO](images/TTWO.jpg)
 
 (6) SNPS - Synopsys, Inc.
 
 ![SNPS](images/SNPS.jpg)
-
-(7) TTWO - Take-Two Interactive Software, Inc.
-
-![TTWO](images/TTWO.jpg)
 
 ---
 **Ascending Triangle**
@@ -249,38 +245,42 @@ Inverse Head and Shoulders
 
 ![CLX](images/CLX.jpg)
 
-(2) ES - Eversource Energy
+(2) AEE - Ameren Corporation
 
-![ES](images/ES.jpg)
+![AEE](images/AEE.jpg)
 
-(3) AMT - American Tower Corporation
+(3) CSX - CSX Corporation
 
-![AMT](images/AMT.jpg)
+![CSX](images/CSX.jpg)
 
 ---
 **Horizontal S/R**. It can be played as bearish if stock loses the support
 
-(1) AWK - American Water Works Company, Inc.
+(1) UDR - UDR, Inc.
 
-![AWK](images/AWK.jpg)
+![UDR](images/UDR.jpg)
 
-(2) ODFL - Old Dominion Freight Line, Inc.
+(2) FDS - FactSet Research Systems Inc.
 
-![ODFL](images/ODFL.jpg)
+![FDS](images/FDS.jpg)
 
-(3) CAH - Cardinal Health, Inc.
+(3) GRMN - Garmin Ltd.
+
+![GRMN](images/GRMN.jpg)
+
+(4) CAH - Cardinal Health, Inc.
 
 ![CAH](images/CAH.jpg)
 
 ---
 **Overbought Stock**
 
-(1) KMB - Kimberly-Clark Corporation
+(1) CMG - Chipotle Mexican Grill, Inc.
 
-![KMB](images/KMB.jpg)
+![CMG](images/CMG.jpg)
 
-(2) PHM - PulteGroup, Inc.
+(2) TAP - Molson Coors Beverage Company
 
-![PHM](images/PHM.jpg)
+![TAP](images/TAP.jpg)
 
 ---
