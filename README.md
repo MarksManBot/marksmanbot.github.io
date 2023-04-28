@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: 2023-04-27 08:30:00.571558*
+*Last Updated: 2023-04-28 08:30:00.569341*
 ---
 # BULLISH STOCKS
 ---
@@ -16,45 +16,33 @@ Inverse Head and Shoulders
 ---
 **Multiple Bottoms**
 
-(1) CTLT - Catalent, Inc.
-
-![CTLT](images/CTLT.jpg)
-
-(2) MDT - Medtronic plc
+(1) MDT - Medtronic plc
 
 ![MDT](images/MDT.jpg)
 
 ---
 **Double Bottom Pattern**
 
-(1) CMA - Comerica Incorporated
-
-![CMA](images/CMA.jpg)
-
-(2) STZ - Constellation Brands, Inc.
-
-![STZ](images/STZ.jpg)
-
-(3) WHR - Whirlpool Corporation
+(1) WHR - Whirlpool Corporation
 
 ![WHR](images/WHR.jpg)
-
-(4) SEE - Sealed Air Corporation
-
-![SEE](images/SEE.jpg)
 
 ---
 **Descending Channel Pattern**
 
-(1) DHR - Danaher Corporation
-
-![DHR](images/DHR.jpg)
-
-(2) TSN - Tyson Foods, Inc.
+(1) TSN - Tyson Foods, Inc.
 
 ![TSN](images/TSN.jpg)
 
-(3) IEX - IDEX Corporation
+(2) DHR - Danaher Corporation
+
+![DHR](images/DHR.jpg)
+
+(3) DISH - DISH Network Corporation
+
+![DISH](images/DISH.jpg)
+
+(4) IEX - IDEX Corporation
 
 ![IEX](images/IEX.jpg)
 
@@ -65,43 +53,19 @@ Inverse Head and Shoulders
 
 ![AAP](images/AAP.jpg)
 
-(2) ACN - Accenture plc
-
-![ACN](images/ACN.jpg)
-
-(3) JKHY - Jack Henry & Associates, Inc.
-
-![JKHY](images/JKHY.jpg)
-
 ---
 **Trendline Support**
 
-(1) PAYC - Paycom Software, Inc.
-
-![PAYC](images/PAYC.jpg)
-
-(2) HLT - Hilton Worldwide Holdings Inc.
+(1) HLT - Hilton Worldwide Holdings Inc.
 
 ![HLT](images/HLT.jpg)
 
 ---
 **Horizontal S/R**
 
-(1) UDR - UDR, Inc.
-
-![UDR](images/UDR.jpg)
-
-(2) FDS - FactSet Research Systems Inc.
-
-![FDS](images/FDS.jpg)
-
-(3) GRMN - Garmin Ltd.
+(1) GRMN - Garmin Ltd.
 
 ![GRMN](images/GRMN.jpg)
-
-(4) CAH - Cardinal Health, Inc.
-
-![CAH](images/CAH.jpg)
 
 ---
 
@@ -111,85 +75,89 @@ Inverse Head and Shoulders
 ---
 **Head and Shoulders Pattern**
 
-(1) UAL - United Airlines Holdings, Inc.
+(1) SLB - Schlumberger Limited
 
-![UAL](images/UAL.jpg)
+![SLB](images/SLB.jpg)
 
-(2) STT - State Street Corporation
-
-![STT](images/STT.jpg)
-
-(3) HAL - Halliburton Company
+(2) HAL - Halliburton Company
 
 ![HAL](images/HAL.jpg)
 
-(4) KLAC - KLA Corporation
+(3) UAL - United Airlines Holdings, Inc.
+
+![UAL](images/UAL.jpg)
+
+(4) STT - State Street Corporation
+
+![STT](images/STT.jpg)
+
+(5) HLT - Hilton Worldwide Holdings Inc.
+
+![HLT](images/HLT.jpg)
+
+(6) KLAC - KLA Corporation
 
 ![KLAC](images/KLAC.jpg)
 
-(5) NFLX - Netflix, Inc.
+(7) NFLX - Netflix, Inc.
 
 ![NFLX](images/NFLX.jpg)
-
-(6) TRV - The Travelers Companies, Inc.
-
-![TRV](images/TRV.jpg)
-
-(7) GD - General Dynamics Corporation
-
-![GD](images/GD.jpg)
 
 (8) ALK - Alaska Air Group, Inc.
 
 ![ALK](images/ALK.jpg)
 
+(9) TRV - The Travelers Companies, Inc.
+
+![TRV](images/TRV.jpg)
+
+(10) GD - General Dynamics Corporation
+
+![GD](images/GD.jpg)
+
 ---
 **Multiple Top**
 
-(1) CTAS - Cintas Corporation
+(1) WYNN - Wynn Resorts, Limited
+
+![WYNN](images/WYNN.jpg)
+
+(2) CTAS - Cintas Corporation
 
 ![CTAS](images/CTAS.jpg)
 
-(2) BA - The Boeing Company
+(3) BA - The Boeing Company
 
 ![BA](images/BA.jpg)
 
-(3) LMT - Lockheed Martin Corporation
+(4) LMT - Lockheed Martin Corporation
 
 ![LMT](images/LMT.jpg)
 
-(4) HBAN - Huntington Bancshares Incorporated
+(5) HBAN - Huntington Bancshares Incorporated
 
 ![HBAN](images/HBAN.jpg)
 
-(5) ROST - Ross Stores, Inc.
+(6) ROST - Ross Stores, Inc.
 
 ![ROST](images/ROST.jpg)
 
-(6) GL - Globe Life Inc.
+(7) GL - Globe Life Inc.
 
 ![GL](images/GL.jpg)
 
 ---
 **Double Top Pattern**
 
-(1) WYNN - Wynn Resorts, Limited
-
-![WYNN](images/WYNN.jpg)
-
-(2) MGM - MGM Resorts International
+(1) MGM - MGM Resorts International
 
 ![MGM](images/MGM.jpg)
 
-(3) IDXX - IDEXX Laboratories, Inc.
-
-![IDXX](images/IDXX.jpg)
-
-(4) NCLH - Norwegian Cruise Line Holdings Ltd.
+(2) NCLH - Norwegian Cruise Line Holdings Ltd.
 
 ![NCLH](images/NCLH.jpg)
 
-(5) NUE - Nucor Corporation
+(3) NUE - Nucor Corporation
 
 ![NUE](images/NUE.jpg)
 
@@ -219,17 +187,13 @@ Inverse Head and Shoulders
 
 ![ULTA](images/ULTA.jpg)
 
-(4) DRI - Darden Restaurants, Inc.
-
-![DRI](images/DRI.jpg)
-
-(5) TTWO - Take-Two Interactive Software, Inc.
-
-![TTWO](images/TTWO.jpg)
-
-(6) SNPS - Synopsys, Inc.
+(4) SNPS - Synopsys, Inc.
 
 ![SNPS](images/SNPS.jpg)
+
+(5) META - Meta Platforms, Inc.
+
+![META](images/META.jpg)
 
 ---
 **Ascending Triangle**
@@ -245,9 +209,9 @@ Inverse Head and Shoulders
 
 ![CLX](images/CLX.jpg)
 
-(2) AEE - Ameren Corporation
+(2) AMT - American Tower Corporation
 
-![AEE](images/AEE.jpg)
+![AMT](images/AMT.jpg)
 
 (3) CSX - CSX Corporation
 
@@ -256,21 +220,9 @@ Inverse Head and Shoulders
 ---
 **Horizontal S/R**. It can be played as bearish if stock loses the support
 
-(1) UDR - UDR, Inc.
-
-![UDR](images/UDR.jpg)
-
-(2) FDS - FactSet Research Systems Inc.
-
-![FDS](images/FDS.jpg)
-
-(3) GRMN - Garmin Ltd.
+(1) GRMN - Garmin Ltd.
 
 ![GRMN](images/GRMN.jpg)
-
-(4) CAH - Cardinal Health, Inc.
-
-![CAH](images/CAH.jpg)
 
 ---
 **Overbought Stock**
@@ -279,8 +231,20 @@ Inverse Head and Shoulders
 
 ![CMG](images/CMG.jpg)
 
-(2) TAP - Molson Coors Beverage Company
+(2) CHD - Church & Dwight Co., Inc.
 
-![TAP](images/TAP.jpg)
+![CHD](images/CHD.jpg)
+
+(3) PHM - PulteGroup, Inc.
+
+![PHM](images/PHM.jpg)
+
+(4) KMB - Kimberly-Clark Corporation
+
+![KMB](images/KMB.jpg)
+
+(5) HSY - The Hershey Company
+
+![HSY](images/HSY.jpg)
 
 ---
