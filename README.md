@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: 2023-05-01 08:30:00.105606*
+*Last Updated: 2023-05-02 08:30:00.102408*
 ---
 # BULLISH STOCKS
 ---
@@ -16,41 +16,53 @@ Inverse Head and Shoulders
 ---
 **Multiple Bottoms**
 
-(1) CTLT - Catalent, Inc.
+(1) LYV - Live Nation Entertainment, Inc.
+
+![LYV](images/LYV.jpg)
+
+(2) CTLT - Catalent, Inc.
 
 ![CTLT](images/CTLT.jpg)
 
-(2) NRG - NRG Energy, Inc.
+(3) NRG - NRG Energy, Inc.
 
 ![NRG](images/NRG.jpg)
 
-(3) MDT - Medtronic plc
+(4) MDT - Medtronic plc
 
 ![MDT](images/MDT.jpg)
 
 ---
 **Double Bottom Pattern**
 
-(1) WHR - Whirlpool Corporation
+(1) SEE - Sealed Air Corporation
+
+![SEE](images/SEE.jpg)
+
+(2) WHR - Whirlpool Corporation
 
 ![WHR](images/WHR.jpg)
 
 ---
 **Descending Channel Pattern**
 
-(1) TSN - Tyson Foods, Inc.
-
-![TSN](images/TSN.jpg)
-
-(2) DHR - Danaher Corporation
+(1) DHR - Danaher Corporation
 
 ![DHR](images/DHR.jpg)
+
+(2) TSN - Tyson Foods, Inc.
+
+![TSN](images/TSN.jpg)
 
 (3) DISH - DISH Network Corporation
 
 ![DISH](images/DISH.jpg)
 
-(4) IEX - IDEX Corporation
+(4) JKHY - Jack Henry & Associates, Inc.
+
+![JKHY](images/JKHY.jpg)
+
+(5) IEX - IDEX Corporation
 
 ![IEX](images/IEX.jpg)
 
@@ -66,19 +78,18 @@ Inverse Head and Shoulders
 ![PAYX](images/PAYX.jpg)
 
 ---
+**Descending Triangle Pattern**
+
+(1) FTV - Fortive Corporation
+
+![FTV](images/FTV.jpg)
+
+---
 **Horizontal S/R**
 
 (1) ODFL - Old Dominion Freight Line, Inc.
 
 ![ODFL](images/ODFL.jpg)
-
-(2) MU - Micron Technology, Inc.
-
-![MU](images/MU.jpg)
-
-(3) GRMN - Garmin Ltd.
-
-![GRMN](images/GRMN.jpg)
 
 ---
 **Oversold Stock**
@@ -95,17 +106,17 @@ Inverse Head and Shoulders
 ---
 **Head and Shoulders Pattern**
 
-(1) HAL - Halliburton Company
+(1) UAL - United Airlines Holdings, Inc.
+
+![UAL](images/UAL.jpg)
+
+(2) HAL - Halliburton Company
 
 ![HAL](images/HAL.jpg)
 
-(2) SLB - Schlumberger Limited
+(3) SLB - Schlumberger Limited
 
 ![SLB](images/SLB.jpg)
-
-(3) UAL - United Airlines Holdings, Inc.
-
-![UAL](images/UAL.jpg)
 
 (4) STT - State Street Corporation
 
@@ -138,40 +149,40 @@ Inverse Head and Shoulders
 ---
 **Multiple Top**
 
-(1) WYNN - Wynn Resorts, Limited
-
-![WYNN](images/WYNN.jpg)
-
-(2) CTAS - Cintas Corporation
+(1) CTAS - Cintas Corporation
 
 ![CTAS](images/CTAS.jpg)
 
-(3) BA - The Boeing Company
+(2) BA - The Boeing Company
 
 ![BA](images/BA.jpg)
 
-(4) LMT - Lockheed Martin Corporation
+(3) LMT - Lockheed Martin Corporation
 
 ![LMT](images/LMT.jpg)
 
-(5) HBAN - Huntington Bancshares Incorporated
+(4) HBAN - Huntington Bancshares Incorporated
 
 ![HBAN](images/HBAN.jpg)
 
-(6) ROST - Ross Stores, Inc.
+(5) ROST - Ross Stores, Inc.
 
 ![ROST](images/ROST.jpg)
 
-(7) GL - Globe Life Inc.
+(6) GL - Globe Life Inc.
 
 ![GL](images/GL.jpg)
+
+(7) WFC - Wells Fargo & Company
+
+![WFC](images/WFC.jpg)
 
 ---
 **Double Top Pattern**
 
-(1) MGM - MGM Resorts International
+(1) ALGN - Align Technology, Inc.
 
-![MGM](images/MGM.jpg)
+![ALGN](images/ALGN.jpg)
 
 (2) NCLH - Norwegian Cruise Line Holdings Ltd.
 
@@ -180,6 +191,10 @@ Inverse Head and Shoulders
 (3) NUE - Nucor Corporation
 
 ![NUE](images/NUE.jpg)
+
+(4) V - Visa Inc.
+
+![V](images/V.jpg)
 
 ---
 **Ascending Channel Pattern**
@@ -203,21 +218,21 @@ Inverse Head and Shoulders
 
 ![PWR](images/PWR.jpg)
 
-(2) APH - Amphenol Corporation
-
-![APH](images/APH.jpg)
-
-(3) DXCM - DexCom, Inc.
+(2) DXCM - DexCom, Inc.
 
 ![DXCM](images/DXCM.jpg)
 
-(4) ULTA - Ulta Beauty, Inc.
+(3) ULTA - Ulta Beauty, Inc.
 
 ![ULTA](images/ULTA.jpg)
 
-(5) SNPS - Synopsys, Inc.
+(4) SNPS - Synopsys, Inc.
 
 ![SNPS](images/SNPS.jpg)
+
+(5) BKNG - Booking Holdings Inc.
+
+![BKNG](images/BKNG.jpg)
 
 (6) META - Meta Platforms, Inc.
 
@@ -237,19 +252,11 @@ Inverse Head and Shoulders
 
 ![CLX](images/CLX.jpg)
 
-(2) AEE - Ameren Corporation
-
-![AEE](images/AEE.jpg)
-
-(3) CSX - CSX Corporation
+(2) CSX - CSX Corporation
 
 ![CSX](images/CSX.jpg)
 
-(4) AMT - American Tower Corporation
-
-![AMT](images/AMT.jpg)
-
-(5) ES - Eversource Energy
+(3) ES - Eversource Energy
 
 ![ES](images/ES.jpg)
 
@@ -260,43 +267,31 @@ Inverse Head and Shoulders
 
 ![ODFL](images/ODFL.jpg)
 
-(2) MU - Micron Technology, Inc.
-
-![MU](images/MU.jpg)
-
-(3) GRMN - Garmin Ltd.
-
-![GRMN](images/GRMN.jpg)
-
 ---
 **Overbought Stock**
 
-(1) CMG - Chipotle Mexican Grill, Inc.
-
-![CMG](images/CMG.jpg)
-
-(2) MDLZ - Mondelez International, Inc.
+(1) MDLZ - Mondelez International, Inc.
 
 ![MDLZ](images/MDLZ.jpg)
 
-(3) UHS - Universal Health Services, Inc.
-
-![UHS](images/UHS.jpg)
-
-(4) PHM - PulteGroup, Inc.
-
-![PHM](images/PHM.jpg)
-
-(5) TAP - Molson Coors Beverage Company
+(2) TAP - Molson Coors Beverage Company
 
 ![TAP](images/TAP.jpg)
 
-(6) SBUX - Starbucks Corporation
+(3) HSY - The Hershey Company
+
+![HSY](images/HSY.jpg)
+
+(4) BRO - Brown & Brown, Inc.
+
+![BRO](images/BRO.jpg)
+
+(5) SBUX - Starbucks Corporation
 
 ![SBUX](images/SBUX.jpg)
 
-(7) CHD - Church & Dwight Co., Inc.
+(6) CMG - Chipotle Mexican Grill, Inc.
 
-![CHD](images/CHD.jpg)
+![CMG](images/CMG.jpg)
 
 ---
