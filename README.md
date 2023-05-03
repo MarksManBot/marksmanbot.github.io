@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: 2023-05-02 08:30:00.102408*
+*Last Updated: 2023-05-03 08:30:00.112619*
 ---
 # BULLISH STOCKS
 ---
@@ -24,22 +24,14 @@ Inverse Head and Shoulders
 
 ![CTLT](images/CTLT.jpg)
 
-(3) NRG - NRG Energy, Inc.
-
-![NRG](images/NRG.jpg)
-
-(4) MDT - Medtronic plc
+(3) MDT - Medtronic plc
 
 ![MDT](images/MDT.jpg)
 
 ---
 **Double Bottom Pattern**
 
-(1) SEE - Sealed Air Corporation
-
-![SEE](images/SEE.jpg)
-
-(2) WHR - Whirlpool Corporation
+(1) WHR - Whirlpool Corporation
 
 ![WHR](images/WHR.jpg)
 
@@ -54,13 +46,13 @@ Inverse Head and Shoulders
 
 ![TSN](images/TSN.jpg)
 
-(3) DISH - DISH Network Corporation
-
-![DISH](images/DISH.jpg)
-
-(4) JKHY - Jack Henry & Associates, Inc.
+(3) JKHY - Jack Henry & Associates, Inc.
 
 ![JKHY](images/JKHY.jpg)
+
+(4) DISH - DISH Network Corporation
+
+![DISH](images/DISH.jpg)
 
 (5) IEX - IDEX Corporation
 
@@ -85,18 +77,26 @@ Inverse Head and Shoulders
 ![FTV](images/FTV.jpg)
 
 ---
-**Horizontal S/R**
+**Trendline Support**
 
-(1) ODFL - Old Dominion Freight Line, Inc.
+(1) UDR - UDR, Inc.
 
-![ODFL](images/ODFL.jpg)
+![UDR](images/UDR.jpg)
 
 ---
-**Oversold Stock**
+**Horizontal S/R**
 
-(1) FRC - First Republic Bank
+(1) FDS - FactSet Research Systems Inc.
 
-![FRC](images/FRC.jpg)
+![FDS](images/FDS.jpg)
+
+(2) UDR - UDR, Inc.
+
+![UDR](images/UDR.jpg)
+
+(3) ODFL - Old Dominion Freight Line, Inc.
+
+![ODFL](images/ODFL.jpg)
 
 ---
 
@@ -106,74 +106,82 @@ Inverse Head and Shoulders
 ---
 **Head and Shoulders Pattern**
 
-(1) UAL - United Airlines Holdings, Inc.
-
-![UAL](images/UAL.jpg)
-
-(2) HAL - Halliburton Company
-
-![HAL](images/HAL.jpg)
-
-(3) SLB - Schlumberger Limited
-
-![SLB](images/SLB.jpg)
-
-(4) STT - State Street Corporation
-
-![STT](images/STT.jpg)
-
-(5) HLT - Hilton Worldwide Holdings Inc.
-
-![HLT](images/HLT.jpg)
-
-(6) KLAC - KLA Corporation
-
-![KLAC](images/KLAC.jpg)
-
-(7) NFLX - Netflix, Inc.
+(1) NFLX - Netflix, Inc.
 
 ![NFLX](images/NFLX.jpg)
 
-(8) DGX - Quest Diagnostics Incorporated
+(2) UAL - United Airlines Holdings, Inc.
+
+![UAL](images/UAL.jpg)
+
+(3) HAL - Halliburton Company
+
+![HAL](images/HAL.jpg)
+
+(4) KLAC - KLA Corporation
+
+![KLAC](images/KLAC.jpg)
+
+(5) SLB - Schlumberger Limited
+
+![SLB](images/SLB.jpg)
+
+(6) STT - State Street Corporation
+
+![STT](images/STT.jpg)
+
+(7) DGX - Quest Diagnostics Incorporated
 
 ![DGX](images/DGX.jpg)
 
-(9) ALK - Alaska Air Group, Inc.
+(8) ALK - Alaska Air Group, Inc.
 
 ![ALK](images/ALK.jpg)
 
-(10) TRV - The Travelers Companies, Inc.
+(9) TRV - The Travelers Companies, Inc.
 
 ![TRV](images/TRV.jpg)
 
 ---
 **Multiple Top**
 
-(1) CTAS - Cintas Corporation
+(1) WYNN - Wynn Resorts, Limited
+
+![WYNN](images/WYNN.jpg)
+
+(2) UHS - Universal Health Services, Inc.
+
+![UHS](images/UHS.jpg)
+
+(3) CTAS - Cintas Corporation
 
 ![CTAS](images/CTAS.jpg)
 
-(2) BA - The Boeing Company
+(4) BA - The Boeing Company
 
 ![BA](images/BA.jpg)
 
-(3) LMT - Lockheed Martin Corporation
+(5) LMT - Lockheed Martin Corporation
 
 ![LMT](images/LMT.jpg)
 
-(4) HBAN - Huntington Bancshares Incorporated
+(6) HBAN - Huntington Bancshares Incorporated
 
 ![HBAN](images/HBAN.jpg)
 
-(5) ROST - Ross Stores, Inc.
+(7) ROST - Ross Stores, Inc.
 
 ![ROST](images/ROST.jpg)
 
-(6) GL - Globe Life Inc.
+(8) GL - Globe Life Inc.
 
 ![GL](images/GL.jpg)
 
-(7) WFC - Wells Fargo & Company
+(9) XOM - Exxon Mobil Corporation
+
+![XOM](images/XOM.jpg)
+
+(10) WFC - Wells Fargo & Company
 
 ![WFC](images/WFC.jpg)
 
@@ -184,17 +192,13 @@ Inverse Head and Shoulders
 
 ![ALGN](images/ALGN.jpg)
 
-(2) NCLH - Norwegian Cruise Line Holdings Ltd.
-
-![NCLH](images/NCLH.jpg)
-
-(3) NUE - Nucor Corporation
+(2) NUE - Nucor Corporation
 
 ![NUE](images/NUE.jpg)
 
-(4) V - Visa Inc.
+(3) NCLH - Norwegian Cruise Line Holdings Ltd.
 
-![V](images/V.jpg)
+![NCLH](images/NCLH.jpg)
 
 ---
 **Ascending Channel Pattern**
@@ -207,7 +211,11 @@ Inverse Head and Shoulders
 
 ![CCL](images/CCL.jpg)
 
-(3) ORLY - O'Reilly Automotive, Inc.
+(3) VRTX - Vertex Pharmaceuticals Incorporated
+
+![VRTX](images/VRTX.jpg)
+
+(4) ORLY - O'Reilly Automotive, Inc.
 
 ![ORLY](images/ORLY.jpg)
 
@@ -252,46 +260,66 @@ Inverse Head and Shoulders
 
 ![CLX](images/CLX.jpg)
 
-(2) CSX - CSX Corporation
+(2) TFX - Teleflex Incorporated
+
+![TFX](images/TFX.jpg)
+
+(3) COST - Costco Wholesale Corporation
+
+![COST](images/COST.jpg)
+
+(4) CSX - CSX Corporation
 
 ![CSX](images/CSX.jpg)
 
-(3) ES - Eversource Energy
+(5) DHR - Danaher Corporation
 
-![ES](images/ES.jpg)
+![DHR](images/DHR.jpg)
+
+(6) PWR - Quanta Services, Inc.
+
+![PWR](images/PWR.jpg)
 
 ---
 **Horizontal S/R**. It can be played as bearish if stock loses the support
 
-(1) ODFL - Old Dominion Freight Line, Inc.
+(1) FDS - FactSet Research Systems Inc.
+
+![FDS](images/FDS.jpg)
+
+(2) UDR - UDR, Inc.
+
+![UDR](images/UDR.jpg)
+
+(3) ODFL - Old Dominion Freight Line, Inc.
 
 ![ODFL](images/ODFL.jpg)
 
 ---
 **Overbought Stock**
 
-(1) MDLZ - Mondelez International, Inc.
-
-![MDLZ](images/MDLZ.jpg)
-
-(2) TAP - Molson Coors Beverage Company
+(1) TAP - Molson Coors Beverage Company
 
 ![TAP](images/TAP.jpg)
 
-(3) HSY - The Hershey Company
+(2) MDLZ - Mondelez International, Inc.
 
-![HSY](images/HSY.jpg)
+![MDLZ](images/MDLZ.jpg)
 
-(4) BRO - Brown & Brown, Inc.
+(3) ZBH - Zimmer Biomet Holdings, Inc.
 
-![BRO](images/BRO.jpg)
+![ZBH](images/ZBH.jpg)
+
+(4) CMG - Chipotle Mexican Grill, Inc.
+
+![CMG](images/CMG.jpg)
 
 (5) SBUX - Starbucks Corporation
 
 ![SBUX](images/SBUX.jpg)
 
-(6) CMG - Chipotle Mexican Grill, Inc.
+(6) MNST - Monster Beverage Corporation
 
-![CMG](images/CMG.jpg)
+![MNST](images/MNST.jpg)
 
 ---
