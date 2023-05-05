@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: 2023-05-04 08:30:00.103797*
+*Last Updated: 2023-05-05 08:30:00.613199*
 ---
 # BULLISH STOCKS
 ---
@@ -20,24 +20,13 @@ Inverse Head and Shoulders
 
 ![LYV](images/LYV.jpg)
 
-(2) NRG - NRG Energy, Inc.
-
-![NRG](images/NRG.jpg)
-
-(3) CTLT - Catalent, Inc.
+(2) CTLT - Catalent, Inc.
 
 ![CTLT](images/CTLT.jpg)
 
-(4) MDT - Medtronic plc
+(3) MDT - Medtronic plc
 
 ![MDT](images/MDT.jpg)
-
----
-**Double Bottom Pattern**
-
-(1) WHR - Whirlpool Corporation
-
-![WHR](images/WHR.jpg)
 
 ---
 **Descending Channel Pattern**
@@ -50,15 +39,7 @@ Inverse Head and Shoulders
 
 ![TSN](images/TSN.jpg)
 
-(3) JKHY - Jack Henry & Associates, Inc.
-
-![JKHY](images/JKHY.jpg)
-
-(4) DISH - DISH Network Corporation
-
-![DISH](images/DISH.jpg)
-
-(5) IEX - IDEX Corporation
+(3) IEX - IDEX Corporation
 
 ![IEX](images/IEX.jpg)
 
@@ -80,14 +61,26 @@ Inverse Head and Shoulders
 
 ![FTV](images/FTV.jpg)
 
+(2) AMCR - Amcor plc
+
+![AMCR](images/AMCR.jpg)
+
 ---
 **Trendline Support**
 
-(1) PNR - Pentair plc
+(1) PAYC - Paycom Software, Inc.
+
+![PAYC](images/PAYC.jpg)
+
+(2) NCLH - Norwegian Cruise Line Holdings Ltd.
+
+![NCLH](images/NCLH.jpg)
+
+(3) PNR - Pentair plc
 
 ![PNR](images/PNR.jpg)
 
-(2) UDR - UDR, Inc.
+(4) UDR - UDR, Inc.
 
 ![UDR](images/UDR.jpg)
 
@@ -102,9 +95,9 @@ Inverse Head and Shoulders
 
 ![UDR](images/UDR.jpg)
 
-(3) ODFL - Old Dominion Freight Line, Inc.
+(3) IRM - Iron Mountain Incorporated
 
-![ODFL](images/ODFL.jpg)
+![IRM](images/IRM.jpg)
 
 ---
 
@@ -114,39 +107,47 @@ Inverse Head and Shoulders
 ---
 **Head and Shoulders Pattern**
 
-(1) NFLX - Netflix, Inc.
+(1) STLD - Steel Dynamics, Inc.
+
+![STLD](images/STLD.jpg)
+
+(2) NFLX - Netflix, Inc.
 
 ![NFLX](images/NFLX.jpg)
 
-(2) UAL - United Airlines Holdings, Inc.
+(3) UAL - United Airlines Holdings, Inc.
 
 ![UAL](images/UAL.jpg)
 
-(3) BKR - Baker Hughes Company
+(4) BKR - Baker Hughes Company
 
 ![BKR](images/BKR.jpg)
 
-(4) KLAC - KLA Corporation
+(5) KLAC - KLA Corporation
 
 ![KLAC](images/KLAC.jpg)
 
-(5) SLB - Schlumberger Limited
+(6) SLB - Schlumberger Limited
 
 ![SLB](images/SLB.jpg)
 
-(6) STT - State Street Corporation
+(7) STT - State Street Corporation
 
 ![STT](images/STT.jpg)
 
-(7) ALK - Alaska Air Group, Inc.
+(8) SPG - Simon Property Group, Inc.
 
-![ALK](images/ALK.jpg)
+![SPG](images/SPG.jpg)
 
-(8) DGX - Quest Diagnostics Incorporated
+(9) CB - Chubb Limited
+
+![CB](images/CB.jpg)
+
+(10) DGX - Quest Diagnostics Incorporated
 
 ![DGX](images/DGX.jpg)
 
-(9) TRV - The Travelers Companies, Inc.
+(11) TRV - The Travelers Companies, Inc.
 
 ![TRV](images/TRV.jpg)
 
@@ -165,52 +166,56 @@ Inverse Head and Shoulders
 
 ![UHS](images/UHS.jpg)
 
-(4) CTAS - Cintas Corporation
-
-![CTAS](images/CTAS.jpg)
-
-(5) BA - The Boeing Company
+(4) BA - The Boeing Company
 
 ![BA](images/BA.jpg)
 
-(6) LMT - Lockheed Martin Corporation
-
-![LMT](images/LMT.jpg)
-
-(7) HBAN - Huntington Bancshares Incorporated
+(5) HBAN - Huntington Bancshares Incorporated
 
 ![HBAN](images/HBAN.jpg)
 
-(8) ROST - Ross Stores, Inc.
+(6) CTAS - Cintas Corporation
+
+![CTAS](images/CTAS.jpg)
+
+(7) ROST - Ross Stores, Inc.
 
 ![ROST](images/ROST.jpg)
+
+(8) APH - Amphenol Corporation
+
+![APH](images/APH.jpg)
 
 (9) XOM - Exxon Mobil Corporation
 
 ![XOM](images/XOM.jpg)
 
-(10) WFC - Wells Fargo & Company
-
-![WFC](images/WFC.jpg)
-
 ---
 **Double Top Pattern**
 
-(1) ULTA - Ulta Beauty, Inc.
+(1) MGM - MGM Resorts International
 
-![ULTA](images/ULTA.jpg)
+![MGM](images/MGM.jpg)
 
-(2) ALGN - Align Technology, Inc.
+(2) CAH - Cardinal Health, Inc.
+
+![CAH](images/CAH.jpg)
+
+(3) ALGN - Align Technology, Inc.
 
 ![ALGN](images/ALGN.jpg)
 
-(3) NUE - Nucor Corporation
+(4) WMT - Walmart Inc.
+
+![WMT](images/WMT.jpg)
+
+(5) GWW - W.W. Grainger, Inc.
+
+![GWW](images/GWW.jpg)
+
+(6) NUE - Nucor Corporation
 
 ![NUE](images/NUE.jpg)
-
-(4) NCLH - Norwegian Cruise Line Holdings Ltd.
-
-![NCLH](images/NCLH.jpg)
 
 ---
 **Ascending Channel Pattern**
@@ -223,17 +228,21 @@ Inverse Head and Shoulders
 
 ![CCL](images/CCL.jpg)
 
-(3) VRTX - Vertex Pharmaceuticals Incorporated
-
-![VRTX](images/VRTX.jpg)
-
-(4) NVR - NVR, Inc.
+(3) NVR - NVR, Inc.
 
 ![NVR](images/NVR.jpg)
+
+(4) VRTX - Vertex Pharmaceuticals Incorporated
+
+![VRTX](images/VRTX.jpg)
 
 (5) ORLY - O'Reilly Automotive, Inc.
 
 ![ORLY](images/ORLY.jpg)
+
+(6) TTWO - Take-Two Interactive Software, Inc.
+
+![TTWO](images/TTWO.jpg)
 
 ---
 **Rising Wedge Pattern**
@@ -242,25 +251,29 @@ Inverse Head and Shoulders
 
 ![PWR](images/PWR.jpg)
 
-(2) DXCM - DexCom, Inc.
+(2) LIN - Linde plc
+
+![LIN](images/LIN.jpg)
+
+(3) DXCM - DexCom, Inc.
 
 ![DXCM](images/DXCM.jpg)
 
-(3) BKNG - Booking Holdings Inc.
+(4) BKNG - Booking Holdings Inc.
 
 ![BKNG](images/BKNG.jpg)
-
-(4) ULTA - Ulta Beauty, Inc.
-
-![ULTA](images/ULTA.jpg)
 
 (5) SNPS - Synopsys, Inc.
 
 ![SNPS](images/SNPS.jpg)
 
-(6) META - Meta Platforms, Inc.
+(6) ULTA - Ulta Beauty, Inc.
 
-![META](images/META.jpg)
+![ULTA](images/ULTA.jpg)
+
+(7) IDXX - IDEXX Laboratories, Inc.
+
+![IDXX](images/IDXX.jpg)
 
 ---
 **Ascending Triangle**
@@ -272,41 +285,37 @@ Inverse Head and Shoulders
 ---
 **Trendline Resistance**
 
-(1) TFX - Teleflex Incorporated
+(1) CSX - CSX Corporation
 
-![TFX](images/TFX.jpg)
+![CSX](images/CSX.jpg)
 
 (2) HCA - HCA Healthcare, Inc.
 
 ![HCA](images/HCA.jpg)
 
-(3) CSX - CSX Corporation
-
-![CSX](images/CSX.jpg)
-
-(4) COST - Costco Wholesale Corporation
+(3) COST - Costco Wholesale Corporation
 
 ![COST](images/COST.jpg)
+
+(4) AMT - American Tower Corporation
+
+![AMT](images/AMT.jpg)
 
 (5) DHR - Danaher Corporation
 
 ![DHR](images/DHR.jpg)
 
-(6) PWR - Quanta Services, Inc.
+(6) ES - Eversource Energy
 
-![PWR](images/PWR.jpg)
+![ES](images/ES.jpg)
 
-(7) AEE - Ameren Corporation
-
-![AEE](images/AEE.jpg)
-
-(8) AMT - American Tower Corporation
-
-![AMT](images/AMT.jpg)
-
-(9) VZ - Verizon Communications Inc.
+(7) VZ - Verizon Communications Inc.
 
 ![VZ](images/VZ.jpg)
+
+(8) PWR - Quanta Services, Inc.
+
+![PWR](images/PWR.jpg)
 
 ---
 **Horizontal S/R**. It can be played as bearish if stock loses the support
@@ -319,9 +328,9 @@ Inverse Head and Shoulders
 
 ![UDR](images/UDR.jpg)
 
-(3) ODFL - Old Dominion Freight Line, Inc.
+(3) IRM - Iron Mountain Incorporated
 
-![ODFL](images/ODFL.jpg)
+![IRM](images/IRM.jpg)
 
 ---
 **Overbought Stock**
@@ -334,16 +343,8 @@ Inverse Head and Shoulders
 
 ![LLY](images/LLY.jpg)
 
-(3) MNST - Monster Beverage Corporation
+(3) MDLZ - Mondelez International, Inc.
 
-![MNST](images/MNST.jpg)
-
-(4) CMG - Chipotle Mexican Grill, Inc.
-
-![CMG](images/CMG.jpg)
-
-(5) CLX - The Clorox Company
-
-![CLX](images/CLX.jpg)
+![MDLZ](images/MDLZ.jpg)
 
 ---
