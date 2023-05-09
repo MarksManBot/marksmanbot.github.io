@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: 2023-05-08 08:30:00.070567*
+*Last Updated: 2023-05-09 08:30:00.077571*
 ---
 # BULLISH STOCKS
 ---
@@ -20,11 +20,7 @@ Inverse Head and Shoulders
 
 ![LYV](images/LYV.jpg)
 
-(2) CTLT - Catalent, Inc.
-
-![CTLT](images/CTLT.jpg)
-
-(3) MDT - Medtronic plc
+(2) MDT - Medtronic plc
 
 ![MDT](images/MDT.jpg)
 
@@ -50,28 +46,35 @@ Inverse Head and Shoulders
 
 ![TSN](images/TSN.jpg)
 
-(3) DISH - DISH Network Corporation
+(3) AAP - Advance Auto Parts, Inc.
+
+![AAP](images/AAP.jpg)
+
+(4) DISH - DISH Network Corporation
 
 ![DISH](images/DISH.jpg)
 
-(4) IEX - IDEX Corporation
+(5) IEX - IDEX Corporation
 
 ![IEX](images/IEX.jpg)
 
 ---
 **Falling Wedge Pattern**
 
-(1) AAP - Advance Auto Parts, Inc.
-
-![AAP](images/AAP.jpg)
-
-(2) PAYX - Paychex, Inc.
+(1) PAYX - Paychex, Inc.
 
 ![PAYX](images/PAYX.jpg)
 
-(3) IT - Gartner, Inc.
+(2) IT - Gartner, Inc.
 
 ![IT](images/IT.jpg)
+
+---
+**Descending Triangle Pattern**
+
+(1) FTV - Fortive Corporation
+
+![FTV](images/FTV.jpg)
 
 ---
 **Trendline Support**
@@ -79,10 +82,6 @@ Inverse Head and Shoulders
 (1) PAYC - Paycom Software, Inc.
 
 ![PAYC](images/PAYC.jpg)
-
-(2) PNR - Pentair plc
-
-![PNR](images/PNR.jpg)
 
 ---
 **Horizontal S/R**
@@ -94,10 +93,6 @@ Inverse Head and Shoulders
 (2) FDS - FactSet Research Systems Inc.
 
 ![FDS](images/FDS.jpg)
-
-(3) ODFL - Old Dominion Freight Line, Inc.
-
-![ODFL](images/ODFL.jpg)
 
 ---
 
@@ -158,13 +153,13 @@ Inverse Head and Shoulders
 ---
 **Multiple Top**
 
-(1) WYNN - Wynn Resorts, Limited
+(1) CTAS - Cintas Corporation
+
+![CTAS](images/CTAS.jpg)
+
+(2) WYNN - Wynn Resorts, Limited
 
 ![WYNN](images/WYNN.jpg)
-
-(2) UHS - Universal Health Services, Inc.
-
-![UHS](images/UHS.jpg)
 
 (3) BA - The Boeing Company
 
@@ -186,73 +181,81 @@ Inverse Head and Shoulders
 
 ![GL](images/GL.jpg)
 
-(8) APH - Amphenol Corporation
+(8) UHS - Universal Health Services, Inc.
+
+![UHS](images/UHS.jpg)
+
+(9) APH - Amphenol Corporation
 
 ![APH](images/APH.jpg)
 
-(9) XOM - Exxon Mobil Corporation
+(10) XOM - Exxon Mobil Corporation
 
 ![XOM](images/XOM.jpg)
+
+(11) WFC - Wells Fargo & Company
+
+![WFC](images/WFC.jpg)
 
 ---
 **Double Top Pattern**
 
-(1) MGM - MGM Resorts International
+(1) MTD - Mettler-Toledo International Inc.
+
+![MTD](images/MTD.jpg)
+
+(2) MGM - MGM Resorts International
 
 ![MGM](images/MGM.jpg)
 
-(2) ULTA - Ulta Beauty, Inc.
+(3) ULTA - Ulta Beauty, Inc.
 
 ![ULTA](images/ULTA.jpg)
 
-(3) ALGN - Align Technology, Inc.
+(4) ALGN - Align Technology, Inc.
 
 ![ALGN](images/ALGN.jpg)
 
-(4) GWW - W.W. Grainger, Inc.
+(5) GWW - W.W. Grainger, Inc.
 
 ![GWW](images/GWW.jpg)
-
-(5) WMT - Walmart Inc.
-
-![WMT](images/WMT.jpg)
 
 (6) NUE - Nucor Corporation
 
 ![NUE](images/NUE.jpg)
 
+(7) NCLH - Norwegian Cruise Line Holdings Ltd.
+
+![NCLH](images/NCLH.jpg)
+
 ---
 **Ascending Channel Pattern**
 
-(1) TDY - Teledyne Technologies Incorporated
-
-![TDY](images/TDY.jpg)
-
-(2) NVR - NVR, Inc.
+(1) NVR - NVR, Inc.
 
 ![NVR](images/NVR.jpg)
+
+(2) TDY - Teledyne Technologies Incorporated
+
+![TDY](images/TDY.jpg)
 
 (3) CME - CME Group Inc.
 
 ![CME](images/CME.jpg)
 
-(4) CCL - Carnival Corporation & plc
-
-![CCL](images/CCL.jpg)
-
-(5) VRTX - Vertex Pharmaceuticals Incorporated
+(4) VRTX - Vertex Pharmaceuticals Incorporated
 
 ![VRTX](images/VRTX.jpg)
+
+(5) PSA - Public Storage
+
+![PSA](images/PSA.jpg)
 
 (6) ORLY - O'Reilly Automotive, Inc.
 
 ![ORLY](images/ORLY.jpg)
 
-(7) ITW - Illinois Tool Works Inc.
-
-![ITW](images/ITW.jpg)
-
-(8) TTWO - Take-Two Interactive Software, Inc.
+(7) TTWO - Take-Two Interactive Software, Inc.
 
 ![TTWO](images/TTWO.jpg)
 
@@ -271,17 +274,17 @@ Inverse Head and Shoulders
 
 ![DXCM](images/DXCM.jpg)
 
-(4) MSFT - Microsoft Corporation
+(4) BKNG - Booking Holdings Inc.
+
+![BKNG](images/BKNG.jpg)
+
+(5) MSFT - Microsoft Corporation
 
 ![MSFT](images/MSFT.jpg)
 
-(5) SNPS - Synopsys, Inc.
+(6) SNPS - Synopsys, Inc.
 
 ![SNPS](images/SNPS.jpg)
-
-(6) BKNG - Booking Holdings Inc.
-
-![BKNG](images/BKNG.jpg)
 
 (7) ULTA - Ulta Beauty, Inc.
 
@@ -309,25 +312,13 @@ Inverse Head and Shoulders
 
 ![CSX](images/CSX.jpg)
 
-(3) HCA - HCA Healthcare, Inc.
-
-![HCA](images/HCA.jpg)
-
-(4) COST - Costco Wholesale Corporation
+(3) COST - Costco Wholesale Corporation
 
 ![COST](images/COST.jpg)
 
-(5) AMT - American Tower Corporation
-
-![AMT](images/AMT.jpg)
-
-(6) ES - Eversource Energy
+(4) ES - Eversource Energy
 
 ![ES](images/ES.jpg)
-
-(7) DHR - Danaher Corporation
-
-![DHR](images/DHR.jpg)
 
 ---
 **Horizontal S/R**. It can be played as bearish if stock loses the support
@@ -340,10 +331,6 @@ Inverse Head and Shoulders
 
 ![FDS](images/FDS.jpg)
 
-(3) ODFL - Old Dominion Freight Line, Inc.
-
-![ODFL](images/ODFL.jpg)
-
 ---
 **Overbought Stock**
 
@@ -351,19 +338,11 @@ Inverse Head and Shoulders
 
 ![TAP](images/TAP.jpg)
 
-(2) MNST - Monster Beverage Corporation
-
-![MNST](images/MNST.jpg)
-
-(3) PEP - PepsiCo, Inc.
-
-![PEP](images/PEP.jpg)
-
-(4) MDLZ - Mondelez International, Inc.
+(2) MDLZ - Mondelez International, Inc.
 
 ![MDLZ](images/MDLZ.jpg)
 
-(5) LLY - Eli Lilly and Company
+(3) LLY - Eli Lilly and Company
 
 ![LLY](images/LLY.jpg)
 
