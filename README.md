@@ -3,99 +3,128 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: 2023-05-11 08:30:00.434180*
+*Last Updated: 2023-05-24 08:30:00.680986*
 ---
 # BULLISH STOCKS
 ---
 Inverse Head and Shoulders
 
-(1) AAPL - Apple Inc.
+(1) AAPL - AAPL
 
 ![AAPL](images/AAPL.jpg)
 
 ---
 **Multiple Bottoms**
 
-(1) LYV - Live Nation Entertainment, Inc.
+(1) NRG - NRG
+
+![NRG](images/NRG.jpg)
+
+(2) LYV - LYV
 
 ![LYV](images/LYV.jpg)
 
-(2) MDT - Medtronic plc
+(3) MDT - MDT
 
 ![MDT](images/MDT.jpg)
 
 ---
 **Double Bottom Pattern**
 
-(1) MTB - M&T Bank Corporation
+(1) GEN - GEN
+
+![GEN](images/GEN.jpg)
+
+(2) MTB - MTB
 
 ![MTB](images/MTB.jpg)
 
 ---
 **Descending Channel Pattern**
 
-(1) DHR - Danaher Corporation
+(1) DHR - DHR
 
 ![DHR](images/DHR.jpg)
 
-(2) TSN - Tyson Foods, Inc.
+(2) JKHY - JKHY
 
-![TSN](images/TSN.jpg)
+![JKHY](images/JKHY.jpg)
 
-(3) IEX - IDEX Corporation
+(3) ACN - ACN
+
+![ACN](images/ACN.jpg)
+
+(4) IEX - IEX
 
 ![IEX](images/IEX.jpg)
 
 ---
 **Falling Wedge Pattern**
 
-(1) AAP - Advance Auto Parts, Inc.
+(1) AAP - AAP
 
 ![AAP](images/AAP.jpg)
 
-(2) PAYX - Paychex, Inc.
+(2) CMA - CMA
 
-![PAYX](images/PAYX.jpg)
+![CMA](images/CMA.jpg)
 
-(3) IT - Gartner, Inc.
+(3) FANG - FANG
 
-![IT](images/IT.jpg)
+![FANG](images/FANG.jpg)
+
+(4) DE - DE
+
+![DE](images/DE.jpg)
 
 ---
 **Descending Triangle Pattern**
 
-(1) FTV - Fortive Corporation
+(1) PAYX - PAYX
+
+![PAYX](images/PAYX.jpg)
+
+(2) FTV - FTV
 
 ![FTV](images/FTV.jpg)
+
+(3) ROK - ROK
+
+![ROK](images/ROK.jpg)
 
 ---
 **Trendline Support**
 
-(1) PAYC - Paycom Software, Inc.
+(1) ADBE - ADBE
 
-![PAYC](images/PAYC.jpg)
+![ADBE](images/ADBE.jpg)
+
+(2) RJF - RJF
+
+![RJF](images/RJF.jpg)
+
+(3) UDR - UDR
+
+![UDR](images/UDR.jpg)
+
+(4) LIN - LIN
+
+![LIN](images/LIN.jpg)
 
 ---
 **Horizontal S/R**
 
-(1) IRM - Iron Mountain Incorporated
-
-![IRM](images/IRM.jpg)
-
-(2) FDS - FactSet Research Systems Inc.
+(1) FDS - FDS
 
 ![FDS](images/FDS.jpg)
 
-(3) ODFL - Old Dominion Freight Line, Inc.
+(2) AME - AME
 
-![ODFL](images/ODFL.jpg)
+![AME](images/AME.jpg)
 
----
-**Oversold Stock**
+(3) UDR - UDR
 
-(1) TSN - Tyson Foods, Inc.
-
-![TSN](images/TSN.jpg)
+![UDR](images/UDR.jpg)
 
 ---
 
@@ -105,232 +134,229 @@ Inverse Head and Shoulders
 ---
 **Head and Shoulders Pattern**
 
-(1) NUE - Nucor Corporation
+(1) NUE - NUE
 
 ![NUE](images/NUE.jpg)
 
-(2) STLD - Steel Dynamics, Inc.
+(2) STLD - STLD
 
 ![STLD](images/STLD.jpg)
 
-(3) NFLX - Netflix, Inc.
-
-![NFLX](images/NFLX.jpg)
-
-(4) T - AT&T Inc.
-
-![T](images/T.jpg)
-
-(5) UAL - United Airlines Holdings, Inc.
+(3) UAL - UAL
 
 ![UAL](images/UAL.jpg)
 
-(6) BKR - Baker Hughes Company
+(4) T - T
+
+![T](images/T.jpg)
+
+(5) BKR - BKR
 
 ![BKR](images/BKR.jpg)
 
-(7) KLAC - KLA Corporation
-
-![KLAC](images/KLAC.jpg)
-
-(8) SLB - Schlumberger Limited
+(6) SLB - SLB
 
 ![SLB](images/SLB.jpg)
 
-(9) STT - State Street Corporation
+(7) STT - STT
 
 ![STT](images/STT.jpg)
 
-(10) SPG - Simon Property Group, Inc.
-
-![SPG](images/SPG.jpg)
-
-(11) CB - Chubb Limited
+(8) CB - CB
 
 ![CB](images/CB.jpg)
 
-(12) DGX - Quest Diagnostics Incorporated
+(9) SPG - SPG
 
-![DGX](images/DGX.jpg)
+![SPG](images/SPG.jpg)
 
-(13) TRV - The Travelers Companies, Inc.
+(10) TRV - TRV
 
 ![TRV](images/TRV.jpg)
 
 ---
 **Multiple Top**
 
-(1) WYNN - Wynn Resorts, Limited
-
-![WYNN](images/WYNN.jpg)
-
-(2) BA - The Boeing Company
-
-![BA](images/BA.jpg)
-
-(3) JPM - JPMorgan Chase & Co.
-
-![JPM](images/JPM.jpg)
-
-(4) HBAN - Huntington Bancshares Incorporated
-
-![HBAN](images/HBAN.jpg)
-
-(5) ROST - Ross Stores, Inc.
-
-![ROST](images/ROST.jpg)
-
-(6) GL - Globe Life Inc.
-
-![GL](images/GL.jpg)
-
-(7) UHS - Universal Health Services, Inc.
+(1) UHS - UHS
 
 ![UHS](images/UHS.jpg)
 
-(8) XOM - Exxon Mobil Corporation
+(2) BA - BA
+
+![BA](images/BA.jpg)
+
+(3) WMT - WMT
+
+![WMT](images/WMT.jpg)
+
+(4) WYNN - WYNN
+
+![WYNN](images/WYNN.jpg)
+
+(5) AXON - AXON
+
+![AXON](images/AXON.jpg)
+
+(6) JPM - JPM
+
+![JPM](images/JPM.jpg)
+
+(7) V - V
+
+![V](images/V.jpg)
+
+(8) WFC - WFC
+
+![WFC](images/WFC.jpg)
+
+(9) XOM - XOM
 
 ![XOM](images/XOM.jpg)
-
-(9) APH - Amphenol Corporation
-
-![APH](images/APH.jpg)
 
 ---
 **Double Top Pattern**
 
-(1) V - Visa Inc.
+(1) ABC - ABC
 
-![V](images/V.jpg)
+![ABC](images/ABC.jpg)
 
-(2) NCLH - Norwegian Cruise Line Holdings Ltd.
+(2) IR - IR
 
-![NCLH](images/NCLH.jpg)
+![IR](images/IR.jpg)
 
-(3) MTD - Mettler-Toledo International Inc.
+(3) RE - RE
+
+![RE](images/RE.jpg)
+
+(4) GWW - GWW
+
+![GWW](images/GWW.jpg)
+
+(5) MTD - MTD
 
 ![MTD](images/MTD.jpg)
 
-(4) MGM - MGM Resorts International
+(6) MGM - MGM
 
 ![MGM](images/MGM.jpg)
 
-(5) ULTA - Ulta Beauty, Inc.
-
-![ULTA](images/ULTA.jpg)
-
-(6) ALGN - Align Technology, Inc.
+(7) ALGN - ALGN
 
 ![ALGN](images/ALGN.jpg)
 
-(7) GWW - W.W. Grainger, Inc.
+(8) CDNS - CDNS
 
-![GWW](images/GWW.jpg)
+![CDNS](images/CDNS.jpg)
+
+(9) MAR - MAR
+
+![MAR](images/MAR.jpg)
 
 ---
 **Ascending Channel Pattern**
 
-(1) TDY - Teledyne Technologies Incorporated
+(1) PSA - PSA
+
+![PSA](images/PSA.jpg)
+
+(2) TDY - TDY
 
 ![TDY](images/TDY.jpg)
 
-(2) CME - CME Group Inc.
+(3) CME - CME
 
 ![CME](images/CME.jpg)
 
-(3) VRTX - Vertex Pharmaceuticals Incorporated
+(4) GRMN - GRMN
 
-![VRTX](images/VRTX.jpg)
+![GRMN](images/GRMN.jpg)
 
-(4) ITW - Illinois Tool Works Inc.
-
-![ITW](images/ITW.jpg)
-
-(5) TTWO - Take-Two Interactive Software, Inc.
+(5) TTWO - TTWO
 
 ![TTWO](images/TTWO.jpg)
 
 ---
 **Rising Wedge Pattern**
 
-(1) LIN - Linde plc
+(1) LIN - LIN
 
 ![LIN](images/LIN.jpg)
 
-(2) DXCM - DexCom, Inc.
+(2) PNW - PNW
 
-![DXCM](images/DXCM.jpg)
+![PNW](images/PNW.jpg)
 
-(3) BKNG - Booking Holdings Inc.
+(3) PWR - PWR
 
-![BKNG](images/BKNG.jpg)
+![PWR](images/PWR.jpg)
 
-(4) MSFT - Microsoft Corporation
+(4) MSFT - MSFT
 
 ![MSFT](images/MSFT.jpg)
 
-(5) SNPS - Synopsys, Inc.
+(5) HCA - HCA
 
-![SNPS](images/SNPS.jpg)
-
-(6) IDXX - IDEXX Laboratories, Inc.
-
-![IDXX](images/IDXX.jpg)
+![HCA](images/HCA.jpg)
 
 ---
 **Ascending Triangle**
 
-(1) BG - Bunge Limited
+(1) ADBE - ADBE
 
-![BG](images/BG.jpg)
+![ADBE](images/ADBE.jpg)
 
-(2) GRMN - Garmin Ltd.
+(2) INTU - INTU
 
-![GRMN](images/GRMN.jpg)
+![INTU](images/INTU.jpg)
+
+(3) V - V
+
+![V](images/V.jpg)
 
 ---
 **Trendline Resistance**
 
-(1) CSX - CSX Corporation
+(1) MSFT - MSFT
 
-![CSX](images/CSX.jpg)
+![MSFT](images/MSFT.jpg)
 
-(2) COST - Costco Wholesale Corporation
-
-![COST](images/COST.jpg)
-
-(3) GE - General Electric Company
+(2) GE - GE
 
 ![GE](images/GE.jpg)
 
-(4) ES - Eversource Energy
+(3) PNW - PNW
 
-![ES](images/ES.jpg)
+![PNW](images/PNW.jpg)
 
-(5) AMT - American Tower Corporation
+(4) COST - COST
+
+![COST](images/COST.jpg)
+
+(5) MU - MU
+
+![MU](images/MU.jpg)
+
+(6) IRM - IRM
+
+![IRM](images/IRM.jpg)
+
+(7) AMT - AMT
 
 ![AMT](images/AMT.jpg)
 
 ---
 **Horizontal S/R**. It can be played as bearish if stock loses the support
 
-(1) IRM - Iron Mountain Incorporated
-
-![IRM](images/IRM.jpg)
-
-(2) FDS - FactSet Research Systems Inc.
+(1) FDS - FDS
 
 ![FDS](images/FDS.jpg)
 
-(3) ODFL - Old Dominion Freight Line, Inc.
+(2) AME - AME
 
-![ODFL](images/ODFL.jpg)
+![AME](images/AME.jpg)
 
----
-**Overbought Stock**
+(3) UDR - UDR
 
-(1) TAP - Molson Coors Beverage Company
-
-![TAP](images/TAP.jpg)
+![UDR](images/UDR.jpg)
 
 ---
