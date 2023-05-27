@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: 2023-05-26 08:30:00.690846*
+*Last Updated: 2023-05-27 08:30:00.071888*
 ---
 # BULLISH STOCKS
 ---
@@ -35,10 +35,6 @@ Inverse Head and Shoulders
 
 ![GEN](images/GEN.jpg)
 
-(2) MTB - MTB
-
-![MTB](images/MTB.jpg)
-
 ---
 **Descending Channel Pattern**
 
@@ -53,10 +49,6 @@ Inverse Head and Shoulders
 (3) IEX - IEX
 
 ![IEX](images/IEX.jpg)
-
-(4) ACN - ACN
-
-![ACN](images/ACN.jpg)
 
 ---
 **Falling Wedge Pattern**
@@ -92,17 +84,13 @@ Inverse Head and Shoulders
 
 ![BA](images/BA.jpg)
 
-(2) TMUS - TMUS
+(2) FTV - FTV
 
-![TMUS](images/TMUS.jpg)
+![FTV](images/FTV.jpg)
 
 (3) PAYX - PAYX
 
 ![PAYX](images/PAYX.jpg)
-
-(4) FTV - FTV
-
-![FTV](images/FTV.jpg)
 
 ---
 **Trendline Support**
@@ -122,21 +110,21 @@ Inverse Head and Shoulders
 ---
 **Horizontal S/R**
 
-(1) AME - AME
+(1) FDS - FDS
+
+![FDS](images/FDS.jpg)
+
+(2) AME - AME
 
 ![AME](images/AME.jpg)
 
-(2) UDR - UDR
+(3) UDR - UDR
 
 ![UDR](images/UDR.jpg)
 
-(3) IRM - IRM
+(4) IRM - IRM
 
 ![IRM](images/IRM.jpg)
-
-(4) FDS - FDS
-
-![FDS](images/FDS.jpg)
 
 (5) CPT - CPT
 
@@ -145,9 +133,9 @@ Inverse Head and Shoulders
 ---
 **Oversold Stock**
 
-(1) T - T
+(1) ES - ES
 
-![T](images/T.jpg)
+![ES](images/ES.jpg)
 
 ---
 
@@ -157,41 +145,41 @@ Inverse Head and Shoulders
 ---
 **Head and Shoulders Pattern**
 
-(1) NFLX - NFLX
-
-![NFLX](images/NFLX.jpg)
-
-(2) NUE - NUE
+(1) NUE - NUE
 
 ![NUE](images/NUE.jpg)
 
-(3) STLD - STLD
+(2) STLD - STLD
 
 ![STLD](images/STLD.jpg)
 
-(4) UAL - UAL
+(3) CARR - CARR
+
+![CARR](images/CARR.jpg)
+
+(4) MS - MS
+
+![MS](images/MS.jpg)
+
+(5) UAL - UAL
 
 ![UAL](images/UAL.jpg)
 
-(5) BKR - BKR
+(6) BKR - BKR
 
 ![BKR](images/BKR.jpg)
 
-(6) DFS - DFS
+(7) DFS - DFS
 
 ![DFS](images/DFS.jpg)
 
-(7) SLB - SLB
+(8) SLB - SLB
 
 ![SLB](images/SLB.jpg)
 
-(8) STT - STT
+(9) STT - STT
 
 ![STT](images/STT.jpg)
-
-(9) CB - CB
-
-![CB](images/CB.jpg)
 
 (10) T - T
 
@@ -200,33 +188,41 @@ Inverse Head and Shoulders
 ---
 **Multiple Top**
 
-(1) WYNN - WYNN
+(1) ROST - ROST
+
+![ROST](images/ROST.jpg)
+
+(2) WYNN - WYNN
 
 ![WYNN](images/WYNN.jpg)
 
-(2) UHS - UHS
-
-![UHS](images/UHS.jpg)
-
-(3) JPM - JPM
-
-![JPM](images/JPM.jpg)
-
-(4) AXON - AXON
-
-![AXON](images/AXON.jpg)
-
-(5) V - V
+(3) V - V
 
 ![V](images/V.jpg)
 
-(6) CTAS - CTAS
+(4) UHS - UHS
+
+![UHS](images/UHS.jpg)
+
+(5) JPM - JPM
+
+![JPM](images/JPM.jpg)
+
+(6) AXON - AXON
+
+![AXON](images/AXON.jpg)
+
+(7) CTAS - CTAS
 
 ![CTAS](images/CTAS.jpg)
 
-(7) XOM - XOM
+(8) XOM - XOM
 
 ![XOM](images/XOM.jpg)
+
+(9) CZR - CZR
+
+![CZR](images/CZR.jpg)
 
 ---
 **Double Top Pattern**
@@ -239,35 +235,31 @@ Inverse Head and Shoulders
 
 ![ON](images/ON.jpg)
 
-(3) ABC - ABC
-
-![ABC](images/ABC.jpg)
-
-(4) PNR - PNR
-
-![PNR](images/PNR.jpg)
-
-(5) IR - IR
+(3) IR - IR
 
 ![IR](images/IR.jpg)
 
-(6) RE - RE
+(4) RE - RE
 
 ![RE](images/RE.jpg)
 
-(7) MTD - MTD
+(5) MTD - MTD
 
 ![MTD](images/MTD.jpg)
 
-(8) MGM - MGM
+(6) MGM - MGM
 
 ![MGM](images/MGM.jpg)
 
-(9) ALGN - ALGN
+(7) ALGN - ALGN
 
 ![ALGN](images/ALGN.jpg)
 
-(10) MA - MA
+(8) ABC - ABC
+
+![ABC](images/ABC.jpg)
+
+(9) MA - MA
 
 ![MA](images/MA.jpg)
 
@@ -301,21 +293,17 @@ Inverse Head and Shoulders
 
 ![LIN](images/LIN.jpg)
 
-(2) PNW - PNW
-
-![PNW](images/PNW.jpg)
-
-(3) PWR - PWR
+(2) PWR - PWR
 
 ![PWR](images/PWR.jpg)
+
+(3) PNW - PNW
+
+![PNW](images/PNW.jpg)
 
 (4) HCA - HCA
 
 ![HCA](images/HCA.jpg)
-
-(5) SNPS - SNPS
-
-![SNPS](images/SNPS.jpg)
 
 ---
 **Ascending Triangle**
@@ -331,40 +319,44 @@ Inverse Head and Shoulders
 ---
 **Trendline Resistance**
 
-(1) PNW - PNW
-
-![PNW](images/PNW.jpg)
-
-(2) GE - GE
+(1) GE - GE
 
 ![GE](images/GE.jpg)
 
-(3) IRM - IRM
+(2) PNW - PNW
 
-![IRM](images/IRM.jpg)
+![PNW](images/PNW.jpg)
 
-(4) COST - COST
+(3) COST - COST
 
 ![COST](images/COST.jpg)
+
+(4) BA - BA
+
+![BA](images/BA.jpg)
+
+(5) ORCL - ORCL
+
+![ORCL](images/ORCL.jpg)
 
 ---
 **Horizontal S/R**. It can be played as bearish if stock loses the support
 
-(1) AME - AME
+(1) FDS - FDS
+
+![FDS](images/FDS.jpg)
+
+(2) AME - AME
 
 ![AME](images/AME.jpg)
 
-(2) UDR - UDR
+(3) UDR - UDR
 
 ![UDR](images/UDR.jpg)
 
-(3) IRM - IRM
+(4) IRM - IRM
 
 ![IRM](images/IRM.jpg)
-
-(4) FDS - FDS
-
-![FDS](images/FDS.jpg)
 
 (5) CPT - CPT
 
@@ -373,8 +365,16 @@ Inverse Head and Shoulders
 ---
 **Overbought Stock**
 
-(1) NVDA - NVDA
+(1) AVGO - AVGO
+
+![AVGO](images/AVGO.jpg)
+
+(2) NVDA - NVDA
 
 ![NVDA](images/NVDA.jpg)
+
+(3) AMD - AMD
+
+![AMD](images/AMD.jpg)
 
 ---
