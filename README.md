@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: 2023-05-30 08:30:00.076041*
+*Last Updated: 2023-05-31 08:30:00.063407*
 ---
 # BULLISH STOCKS
 ---
@@ -84,11 +84,7 @@ Inverse Head and Shoulders
 
 ![BA](images/BA.jpg)
 
-(2) FTV - FTV
-
-![FTV](images/FTV.jpg)
-
-(3) PAYX - PAYX
+(2) PAYX - PAYX
 
 ![PAYX](images/PAYX.jpg)
 
@@ -98,14 +94,6 @@ Inverse Head and Shoulders
 (1) INTU - INTU
 
 ![INTU](images/INTU.jpg)
-
-(2) CHTR - CHTR
-
-![CHTR](images/CHTR.jpg)
-
-(3) UDR - UDR
-
-![UDR](images/UDR.jpg)
 
 ---
 **Horizontal S/R**
@@ -137,6 +125,14 @@ Inverse Head and Shoulders
 
 ![ES](images/ES.jpg)
 
+(2) ULTA - ULTA
+
+![ULTA](images/ULTA.jpg)
+
+(3) AEP - AEP
+
+![AEP](images/AEP.jpg)
+
 ---
 
 # BEARISH STOCKS 
@@ -153,17 +149,17 @@ Inverse Head and Shoulders
 
 ![STLD](images/STLD.jpg)
 
-(3) CARR - CARR
+(3) UAL - UAL
 
-![CARR](images/CARR.jpg)
+![UAL](images/UAL.jpg)
 
 (4) MS - MS
 
 ![MS](images/MS.jpg)
 
-(5) UAL - UAL
+(5) CARR - CARR
 
-![UAL](images/UAL.jpg)
+![CARR](images/CARR.jpg)
 
 (6) BKR - BKR
 
@@ -192,70 +188,62 @@ Inverse Head and Shoulders
 
 ![ROST](images/ROST.jpg)
 
-(2) WYNN - WYNN
+(2) WMT - WMT
+
+![WMT](images/WMT.jpg)
+
+(3) WYNN - WYNN
 
 ![WYNN](images/WYNN.jpg)
 
-(3) V - V
+(4) V - V
 
 ![V](images/V.jpg)
 
-(4) UHS - UHS
+(5) UHS - UHS
 
 ![UHS](images/UHS.jpg)
 
-(5) JPM - JPM
+(6) JPM - JPM
 
 ![JPM](images/JPM.jpg)
 
-(6) AXON - AXON
+(7) AXON - AXON
 
 ![AXON](images/AXON.jpg)
 
-(7) CTAS - CTAS
+(8) APH - APH
 
-![CTAS](images/CTAS.jpg)
+![APH](images/APH.jpg)
 
-(8) XOM - XOM
+(9) XOM - XOM
 
 ![XOM](images/XOM.jpg)
 
 ---
 **Double Top Pattern**
 
-(1) WMT - WMT
-
-![WMT](images/WMT.jpg)
-
-(2) ON - ON
-
-![ON](images/ON.jpg)
-
-(3) IR - IR
-
-![IR](images/IR.jpg)
-
-(4) RE - RE
+(1) RE - RE
 
 ![RE](images/RE.jpg)
 
-(5) MTD - MTD
+(2) MTD - MTD
 
 ![MTD](images/MTD.jpg)
 
-(6) MGM - MGM
+(3) MGM - MGM
 
 ![MGM](images/MGM.jpg)
 
-(7) ALGN - ALGN
+(4) ALGN - ALGN
 
 ![ALGN](images/ALGN.jpg)
 
-(8) ABC - ABC
+(5) ABC - ABC
 
 ![ABC](images/ABC.jpg)
 
-(9) MA - MA
+(6) MA - MA
 
 ![MA](images/MA.jpg)
 
@@ -274,9 +262,9 @@ Inverse Head and Shoulders
 
 ![TDY](images/TDY.jpg)
 
-(4) PNR - PNR
+(4) GRMN - GRMN
 
-![PNR](images/PNR.jpg)
+![GRMN](images/GRMN.jpg)
 
 (5) ITW - ITW
 
@@ -301,14 +289,14 @@ Inverse Head and Shoulders
 
 ![HCA](images/HCA.jpg)
 
+(5) CRM - CRM
+
+![CRM](images/CRM.jpg)
+
 ---
 **Ascending Triangle**
 
-(1) ADBE - ADBE
-
-![ADBE](images/ADBE.jpg)
-
-(2) V - V
+(1) V - V
 
 ![V](images/V.jpg)
 
@@ -361,16 +349,16 @@ Inverse Head and Shoulders
 ---
 **Overbought Stock**
 
-(1) AVGO - AVGO
-
-![AVGO](images/AVGO.jpg)
-
-(2) NVDA - NVDA
+(1) NVDA - NVDA
 
 ![NVDA](images/NVDA.jpg)
 
-(3) AMD - AMD
+(2) AVGO - AVGO
 
-![AMD](images/AMD.jpg)
+![AVGO](images/AVGO.jpg)
+
+(3) SNPS - SNPS
+
+![SNPS](images/SNPS.jpg)
 
 ---
