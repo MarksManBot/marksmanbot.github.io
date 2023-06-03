@@ -3,27 +3,26 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: 2023-06-02 08:30:00.077547*
+*Last Updated: 2023-06-03 08:30:00.077378*
 ---
 # BULLISH STOCKS
 ---
+Inverse Head and Shoulders
+
+(1) UNH - UNH
+
+![UNH](images/UNH.jpg)
+
+---
 **Multiple Bottoms**
 
-(1) LYV - LYV
-
-![LYV](images/LYV.jpg)
-
-(2) NRG - NRG
+(1) NRG - NRG
 
 ![NRG](images/NRG.jpg)
 
-(3) MDT - MDT
+(2) MDT - MDT
 
 ![MDT](images/MDT.jpg)
-
-(4) GNRC - GNRC
-
-![GNRC](images/GNRC.jpg)
 
 ---
 **Double Bottom Pattern**
@@ -47,14 +46,6 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![DHR](images/DHR.jpg)
 
-(3) JKHY - JKHY
-
-![JKHY](images/JKHY.jpg)
-
-(4) IEX - IEX
-
-![IEX](images/IEX.jpg)
-
 ---
 **Falling Wedge Pattern**
 
@@ -66,11 +57,7 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![FANG](images/FANG.jpg)
 
-(3) DE - DE
-
-![DE](images/DE.jpg)
-
-(4) CARR - CARR
+(3) CARR - CARR
 
 ![CARR](images/CARR.jpg)
 
@@ -80,10 +67,6 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 (1) BA - BA
 
 ![BA](images/BA.jpg)
-
-(2) ESS - ESS
-
-![ESS](images/ESS.jpg)
 
 ---
 **Trendline Support**
@@ -95,36 +78,36 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 ---
 **Horizontal S/R**
 
-(1) FDS - FDS
+(1) IRM - IRM
 
-![FDS](images/FDS.jpg)
+![IRM](images/IRM.jpg)
 
-(2) AME - AME
+(2) CPT - CPT
+
+![CPT](images/CPT.jpg)
+
+(3) AME - AME
 
 ![AME](images/AME.jpg)
 
-(3) UDR - UDR
+(4) BA - BA
 
-![UDR](images/UDR.jpg)
+![BA](images/BA.jpg)
 
-(4) CPT - CPT
+(5) FDS - FDS
 
-![CPT](images/CPT.jpg)
+![FDS](images/FDS.jpg)
 
 ---
 **Oversold Stock**
 
-(1) DG - DG
-
-![DG](images/DG.jpg)
-
-(2) AAP - AAP
+(1) AAP - AAP
 
 ![AAP](images/AAP.jpg)
 
-(3) ULTA - ULTA
+(2) DG - DG
 
-![ULTA](images/ULTA.jpg)
+![DG](images/DG.jpg)
 
 ---
 
@@ -142,35 +125,27 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![STLD](images/STLD.jpg)
 
-(3) UAL - UAL
-
-![UAL](images/UAL.jpg)
-
-(4) MS - MS
+(3) MS - MS
 
 ![MS](images/MS.jpg)
 
-(5) CARR - CARR
+(4) CARR - CARR
 
 ![CARR](images/CARR.jpg)
 
-(6) BKR - BKR
+(5) BKR - BKR
 
 ![BKR](images/BKR.jpg)
 
-(7) DFS - DFS
-
-![DFS](images/DFS.jpg)
-
-(8) SLB - SLB
+(6) SLB - SLB
 
 ![SLB](images/SLB.jpg)
 
-(9) STT - STT
+(7) STT - STT
 
 ![STT](images/STT.jpg)
 
-(10) T - T
+(8) T - T
 
 ![T](images/T.jpg)
 
@@ -197,13 +172,13 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![APH](images/APH.jpg)
 
-(6) WMT - WMT
-
-![WMT](images/WMT.jpg)
-
-(7) V - V
+(6) V - V
 
 ![V](images/V.jpg)
+
+(7) WMT - WMT
+
+![WMT](images/WMT.jpg)
 
 (8) XOM - XOM
 
@@ -228,10 +203,6 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![ALGN](images/ALGN.jpg)
 
-(5) MPWR - MPWR
-
-![MPWR](images/MPWR.jpg)
-
 ---
 **Ascending Channel Pattern**
 
@@ -243,13 +214,17 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![BSX](images/BSX.jpg)
 
-(3) TDY - TDY
+(3) CCL - CCL
+
+![CCL](images/CCL.jpg)
+
+(4) TDY - TDY
 
 ![TDY](images/TDY.jpg)
 
-(4) PNR - PNR
+(5) MDLZ - MDLZ
 
-![PNR](images/PNR.jpg)
+![MDLZ](images/MDLZ.jpg)
 
 ---
 **Rising Wedge Pattern**
@@ -258,62 +233,55 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![LIN](images/LIN.jpg)
 
-(2) PWR - PWR
-
-![PWR](images/PWR.jpg)
-
-(3) DXCM - DXCM
+(2) DXCM - DXCM
 
 ![DXCM](images/DXCM.jpg)
 
-(4) HCA - HCA
+(3) PWR - PWR
 
-![HCA](images/HCA.jpg)
+![PWR](images/PWR.jpg)
 
-(5) DRI - DRI
+(4) DRI - DRI
 
 ![DRI](images/DRI.jpg)
 
 ---
-**Ascending Triangle**
-
-(1) V - V
-
-![V](images/V.jpg)
-
----
 **Trendline Resistance**
 
-(1) GE - GE
+(1) PNW - PNW
+
+![PNW](images/PNW.jpg)
+
+(2) IRM - IRM
+
+![IRM](images/IRM.jpg)
+
+(3) GE - GE
 
 ![GE](images/GE.jpg)
-
-(2) BA - BA
-
-![BA](images/BA.jpg)
-
-(3) EA - EA
-
-![EA](images/EA.jpg)
 
 ---
 **Horizontal S/R**. It can be played as bearish if stock loses the support
 
-(1) FDS - FDS
+(1) IRM - IRM
 
-![FDS](images/FDS.jpg)
+![IRM](images/IRM.jpg)
 
-(2) AME - AME
+(2) CPT - CPT
+
+![CPT](images/CPT.jpg)
+
+(3) AME - AME
 
 ![AME](images/AME.jpg)
 
-(3) UDR - UDR
+(4) BA - BA
 
-![UDR](images/UDR.jpg)
+![BA](images/BA.jpg)
 
-(4) CPT - CPT
+(5) FDS - FDS
 
-![CPT](images/CPT.jpg)
+![FDS](images/FDS.jpg)
 
 ---
 **Overbought Stock**
