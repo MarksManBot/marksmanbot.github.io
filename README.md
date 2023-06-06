@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: 2023-06-05 08:30:00.743541*
+*Last Updated: 2023-06-06 08:30:00.409140*
 ---
 # BULLISH STOCKS
 ---
@@ -27,11 +27,15 @@ Inverse Head and Shoulders
 ---
 **Double Bottom Pattern**
 
-(1) HRL - HRL
+(1) NOC - NOC
+
+![NOC](images/NOC.jpg)
+
+(2) HRL - HRL
 
 ![HRL](images/HRL.jpg)
 
-(2) GEN - GEN
+(3) GEN - GEN
 
 ![GEN](images/GEN.jpg)
 
@@ -46,18 +50,34 @@ Inverse Head and Shoulders
 
 ![DHR](images/DHR.jpg)
 
+(3) GPC - GPC
+
+![GPC](images/GPC.jpg)
+
+(4) JKHY - JKHY
+
+![JKHY](images/JKHY.jpg)
+
+(5) IEX - IEX
+
+![IEX](images/IEX.jpg)
+
 ---
 **Falling Wedge Pattern**
 
-(1) SEDG - SEDG
+(1) D - D
+
+![D](images/D.jpg)
+
+(2) SEDG - SEDG
 
 ![SEDG](images/SEDG.jpg)
 
-(2) FANG - FANG
+(3) FANG - FANG
 
 ![FANG](images/FANG.jpg)
 
-(3) CARR - CARR
+(4) CARR - CARR
 
 ![CARR](images/CARR.jpg)
 
@@ -71,9 +91,17 @@ Inverse Head and Shoulders
 ---
 **Trendline Support**
 
-(1) CHTR - CHTR
+(1) PNR - PNR
 
-![CHTR](images/CHTR.jpg)
+![PNR](images/PNR.jpg)
+
+(2) HLT - HLT
+
+![HLT](images/HLT.jpg)
+
+(3) FISV - FISV
+
+![FISV](images/FISV.jpg)
 
 ---
 **Horizontal S/R**
@@ -90,9 +118,9 @@ Inverse Head and Shoulders
 
 ![AME](images/AME.jpg)
 
-(4) BA - BA
+(4) CAH - CAH
 
-![BA](images/BA.jpg)
+![CAH](images/CAH.jpg)
 
 (5) FDS - FDS
 
@@ -152,35 +180,31 @@ Inverse Head and Shoulders
 ---
 **Multiple Top**
 
-(1) WYNN - WYNN
-
-![WYNN](images/WYNN.jpg)
-
-(2) JPM - JPM
+(1) JPM - JPM
 
 ![JPM](images/JPM.jpg)
 
-(3) UHS - UHS
+(2) UHS - UHS
 
 ![UHS](images/UHS.jpg)
 
-(4) AXON - AXON
+(3) AXON - AXON
 
 ![AXON](images/AXON.jpg)
 
-(5) APH - APH
+(4) APH - APH
 
 ![APH](images/APH.jpg)
 
-(6) V - V
+(5) V - V
 
 ![V](images/V.jpg)
 
-(7) WMT - WMT
+(6) WMT - WMT
 
 ![WMT](images/WMT.jpg)
 
-(8) XOM - XOM
+(7) XOM - XOM
 
 ![XOM](images/XOM.jpg)
 
@@ -203,6 +227,10 @@ Inverse Head and Shoulders
 
 ![ALGN](images/ALGN.jpg)
 
+(5) ABC - ABC
+
+![ABC](images/ABC.jpg)
+
 ---
 **Ascending Channel Pattern**
 
@@ -218,24 +246,24 @@ Inverse Head and Shoulders
 
 ![CCL](images/CCL.jpg)
 
-(4) TDY - TDY
+(4) PNR - PNR
+
+![PNR](images/PNR.jpg)
+
+(5) TDY - TDY
 
 ![TDY](images/TDY.jpg)
-
-(5) MDLZ - MDLZ
-
-![MDLZ](images/MDLZ.jpg)
 
 ---
 **Rising Wedge Pattern**
 
-(1) LIN - LIN
-
-![LIN](images/LIN.jpg)
-
-(2) DXCM - DXCM
+(1) DXCM - DXCM
 
 ![DXCM](images/DXCM.jpg)
+
+(2) LIN - LIN
+
+![LIN](images/LIN.jpg)
 
 (3) PWR - PWR
 
@@ -260,6 +288,14 @@ Inverse Head and Shoulders
 
 ![GE](images/GE.jpg)
 
+(4) BA - BA
+
+![BA](images/BA.jpg)
+
+(5) DXCM - DXCM
+
+![DXCM](images/DXCM.jpg)
+
 ---
 **Horizontal S/R**. It can be played as bearish if stock loses the support
 
@@ -275,9 +311,9 @@ Inverse Head and Shoulders
 
 ![AME](images/AME.jpg)
 
-(4) BA - BA
+(4) CAH - CAH
 
-![BA](images/BA.jpg)
+![CAH](images/CAH.jpg)
 
 (5) FDS - FDS
 
