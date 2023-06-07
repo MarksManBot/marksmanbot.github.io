@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: 2023-06-06 08:30:00.409140*
+*Last Updated: 2023-06-07 08:30:00.402271*
 ---
 # BULLISH STOCKS
 ---
@@ -27,17 +27,17 @@ Inverse Head and Shoulders
 ---
 **Double Bottom Pattern**
 
-(1) NOC - NOC
-
-![NOC](images/NOC.jpg)
-
-(2) HRL - HRL
+(1) HRL - HRL
 
 ![HRL](images/HRL.jpg)
 
-(3) GEN - GEN
+(2) GEN - GEN
 
 ![GEN](images/GEN.jpg)
+
+(3) NOC - NOC
+
+![NOC](images/NOC.jpg)
 
 ---
 **Descending Channel Pattern**
@@ -54,11 +54,7 @@ Inverse Head and Shoulders
 
 ![GPC](images/GPC.jpg)
 
-(4) JKHY - JKHY
-
-![JKHY](images/JKHY.jpg)
-
-(5) IEX - IEX
+(4) IEX - IEX
 
 ![IEX](images/IEX.jpg)
 
@@ -84,24 +80,16 @@ Inverse Head and Shoulders
 ---
 **Descending Triangle Pattern**
 
-(1) BA - BA
+(1) ESS - ESS
 
-![BA](images/BA.jpg)
+![ESS](images/ESS.jpg)
 
 ---
 **Trendline Support**
 
-(1) PNR - PNR
+(1) HUM - HUM
 
-![PNR](images/PNR.jpg)
-
-(2) HLT - HLT
-
-![HLT](images/HLT.jpg)
-
-(3) FISV - FISV
-
-![FISV](images/FISV.jpg)
+![HUM](images/HUM.jpg)
 
 ---
 **Horizontal S/R**
@@ -114,13 +102,13 @@ Inverse Head and Shoulders
 
 ![CPT](images/CPT.jpg)
 
-(3) AME - AME
-
-![AME](images/AME.jpg)
-
-(4) CAH - CAH
+(3) CAH - CAH
 
 ![CAH](images/CAH.jpg)
+
+(4) AME - AME
+
+![AME](images/AME.jpg)
 
 (5) FDS - FDS
 
@@ -173,47 +161,47 @@ Inverse Head and Shoulders
 
 ![STT](images/STT.jpg)
 
-(8) T - T
-
-![T](images/T.jpg)
-
 ---
 **Multiple Top**
 
-(1) JPM - JPM
+(1) BA - BA
 
-![JPM](images/JPM.jpg)
+![BA](images/BA.jpg)
 
-(2) UHS - UHS
-
-![UHS](images/UHS.jpg)
-
-(3) AXON - AXON
-
-![AXON](images/AXON.jpg)
-
-(4) APH - APH
-
-![APH](images/APH.jpg)
-
-(5) V - V
+(2) V - V
 
 ![V](images/V.jpg)
 
-(6) WMT - WMT
+(3) JPM - JPM
+
+![JPM](images/JPM.jpg)
+
+(4) UHS - UHS
+
+![UHS](images/UHS.jpg)
+
+(5) AXON - AXON
+
+![AXON](images/AXON.jpg)
+
+(6) APH - APH
+
+![APH](images/APH.jpg)
+
+(7) WMT - WMT
 
 ![WMT](images/WMT.jpg)
 
-(7) XOM - XOM
+(8) XOM - XOM
 
 ![XOM](images/XOM.jpg)
 
 ---
 **Double Top Pattern**
 
-(1) RE - RE
+(1) PNR - PNR
 
-![RE](images/RE.jpg)
+![PNR](images/PNR.jpg)
 
 (2) MTD - MTD
 
@@ -223,36 +211,44 @@ Inverse Head and Shoulders
 
 ![MGM](images/MGM.jpg)
 
-(4) ALGN - ALGN
+(4) RE - RE
+
+![RE](images/RE.jpg)
+
+(5) ALGN - ALGN
 
 ![ALGN](images/ALGN.jpg)
 
-(5) ABC - ABC
+(6) ABC - ABC
 
 ![ABC](images/ABC.jpg)
 
 ---
 **Ascending Channel Pattern**
 
-(1) PSA - PSA
-
-![PSA](images/PSA.jpg)
-
-(2) BSX - BSX
+(1) BSX - BSX
 
 ![BSX](images/BSX.jpg)
+
+(2) PSA - PSA
+
+![PSA](images/PSA.jpg)
 
 (3) CCL - CCL
 
 ![CCL](images/CCL.jpg)
 
-(4) PNR - PNR
+(4) RCL - RCL
 
-![PNR](images/PNR.jpg)
+![RCL](images/RCL.jpg)
 
 (5) TDY - TDY
 
 ![TDY](images/TDY.jpg)
+
+(6) MDLZ - MDLZ
+
+![MDLZ](images/MDLZ.jpg)
 
 ---
 **Rising Wedge Pattern**
@@ -273,6 +269,10 @@ Inverse Head and Shoulders
 
 ![DRI](images/DRI.jpg)
 
+(5) PHM - PHM
+
+![PHM](images/PHM.jpg)
+
 ---
 **Trendline Resistance**
 
@@ -288,11 +288,7 @@ Inverse Head and Shoulders
 
 ![GE](images/GE.jpg)
 
-(4) BA - BA
-
-![BA](images/BA.jpg)
-
-(5) DXCM - DXCM
+(4) DXCM - DXCM
 
 ![DXCM](images/DXCM.jpg)
 
@@ -307,13 +303,13 @@ Inverse Head and Shoulders
 
 ![CPT](images/CPT.jpg)
 
-(3) AME - AME
-
-![AME](images/AME.jpg)
-
-(4) CAH - CAH
+(3) CAH - CAH
 
 ![CAH](images/CAH.jpg)
+
+(4) AME - AME
+
+![AME](images/AME.jpg)
 
 (5) FDS - FDS
 
@@ -322,7 +318,11 @@ Inverse Head and Shoulders
 ---
 **Overbought Stock**
 
-(1) META - META
+(1) RCL - RCL
+
+![RCL](images/RCL.jpg)
+
+(2) META - META
 
 ![META](images/META.jpg)
 
