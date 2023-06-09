@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: 2023-06-07 08:30:00.402271*
+*Last Updated: 2023-06-09 08:30:00.404999*
 ---
 # BULLISH STOCKS
 ---
@@ -27,34 +27,38 @@ Inverse Head and Shoulders
 ---
 **Double Bottom Pattern**
 
-(1) HRL - HRL
+(1) BXP - BXP
+
+![BXP](images/BXP.jpg)
+
+(2) HRL - HRL
 
 ![HRL](images/HRL.jpg)
 
-(2) GEN - GEN
+(3) CNC - CNC
+
+![CNC](images/CNC.jpg)
+
+(4) GEN - GEN
 
 ![GEN](images/GEN.jpg)
 
-(3) NOC - NOC
+(5) NOC - NOC
 
 ![NOC](images/NOC.jpg)
 
 ---
 **Descending Channel Pattern**
 
-(1) AAP - AAP
-
-![AAP](images/AAP.jpg)
-
-(2) DHR - DHR
-
-![DHR](images/DHR.jpg)
-
-(3) GPC - GPC
+(1) GPC - GPC
 
 ![GPC](images/GPC.jpg)
 
-(4) IEX - IEX
+(2) AAP - AAP
+
+![AAP](images/AAP.jpg)
+
+(3) IEX - IEX
 
 ![IEX](images/IEX.jpg)
 
@@ -65,29 +69,37 @@ Inverse Head and Shoulders
 
 ![D](images/D.jpg)
 
-(2) SEDG - SEDG
+(2) VFC - VFC
+
+![VFC](images/VFC.jpg)
+
+(3) SEDG - SEDG
 
 ![SEDG](images/SEDG.jpg)
 
-(3) FANG - FANG
+(4) FANG - FANG
 
 ![FANG](images/FANG.jpg)
-
-(4) CARR - CARR
-
-![CARR](images/CARR.jpg)
 
 ---
 **Descending Triangle Pattern**
 
-(1) ESS - ESS
+(1) HPE - HPE
 
-![ESS](images/ESS.jpg)
+![HPE](images/HPE.jpg)
+
+(2) ELV - ELV
+
+![ELV](images/ELV.jpg)
 
 ---
 **Trendline Support**
 
-(1) HUM - HUM
+(1) HLT - HLT
+
+![HLT](images/HLT.jpg)
+
+(2) HUM - HUM
 
 ![HUM](images/HUM.jpg)
 
@@ -98,13 +110,13 @@ Inverse Head and Shoulders
 
 ![IRM](images/IRM.jpg)
 
-(2) CPT - CPT
+(2) MU - MU
 
-![CPT](images/CPT.jpg)
+![MU](images/MU.jpg)
 
-(3) CAH - CAH
+(3) ICE - ICE
 
-![CAH](images/CAH.jpg)
+![ICE](images/ICE.jpg)
 
 (4) AME - AME
 
@@ -113,6 +125,10 @@ Inverse Head and Shoulders
 (5) FDS - FDS
 
 ![FDS](images/FDS.jpg)
+
+(6) BA - BA
+
+![BA](images/BA.jpg)
 
 ---
 **Oversold Stock**
@@ -164,13 +180,13 @@ Inverse Head and Shoulders
 ---
 **Multiple Top**
 
-(1) BA - BA
-
-![BA](images/BA.jpg)
-
-(2) V - V
+(1) V - V
 
 ![V](images/V.jpg)
+
+(2) WMT - WMT
+
+![WMT](images/WMT.jpg)
 
 (3) JPM - JPM
 
@@ -188,40 +204,48 @@ Inverse Head and Shoulders
 
 ![APH](images/APH.jpg)
 
-(7) WMT - WMT
-
-![WMT](images/WMT.jpg)
-
-(8) XOM - XOM
+(7) XOM - XOM
 
 ![XOM](images/XOM.jpg)
 
 ---
 **Double Top Pattern**
 
-(1) PNR - PNR
+(1) OTIS - OTIS
 
-![PNR](images/PNR.jpg)
+![OTIS](images/OTIS.jpg)
 
-(2) MTD - MTD
+(2) MA - MA
+
+![MA](images/MA.jpg)
+
+(3) LW - LW
+
+![LW](images/LW.jpg)
+
+(4) ANSS - ANSS
+
+![ANSS](images/ANSS.jpg)
+
+(5) MTD - MTD
 
 ![MTD](images/MTD.jpg)
 
-(3) MGM - MGM
+(6) MGM - MGM
 
 ![MGM](images/MGM.jpg)
 
-(4) RE - RE
+(7) RE - RE
 
 ![RE](images/RE.jpg)
 
-(5) ALGN - ALGN
+(8) ALGN - ALGN
 
 ![ALGN](images/ALGN.jpg)
 
-(6) ABC - ABC
+(9) MAR - MAR
 
-![ABC](images/ABC.jpg)
+![MAR](images/MAR.jpg)
 
 ---
 **Ascending Channel Pattern**
@@ -246,9 +270,9 @@ Inverse Head and Shoulders
 
 ![TDY](images/TDY.jpg)
 
-(6) MDLZ - MDLZ
+(6) GRMN - GRMN
 
-![MDLZ](images/MDLZ.jpg)
+![GRMN](images/GRMN.jpg)
 
 ---
 **Rising Wedge Pattern**
@@ -265,13 +289,24 @@ Inverse Head and Shoulders
 
 ![PWR](images/PWR.jpg)
 
-(4) DRI - DRI
+(4) TDG - TDG
+
+![TDG](images/TDG.jpg)
+
+(5) DRI - DRI
 
 ![DRI](images/DRI.jpg)
 
-(5) PHM - PHM
+(6) PHM - PHM
 
 ![PHM](images/PHM.jpg)
+
+---
+**Ascending Triangle**
+
+(1) MO - MO
+
+![MO](images/MO.jpg)
 
 ---
 **Trendline Resistance**
@@ -299,13 +334,13 @@ Inverse Head and Shoulders
 
 ![IRM](images/IRM.jpg)
 
-(2) CPT - CPT
+(2) MU - MU
 
-![CPT](images/CPT.jpg)
+![MU](images/MU.jpg)
 
-(3) CAH - CAH
+(3) ICE - ICE
 
-![CAH](images/CAH.jpg)
+![ICE](images/ICE.jpg)
 
 (4) AME - AME
 
@@ -315,15 +350,15 @@ Inverse Head and Shoulders
 
 ![FDS](images/FDS.jpg)
 
+(6) BA - BA
+
+![BA](images/BA.jpg)
+
 ---
 **Overbought Stock**
 
-(1) RCL - RCL
+(1) TSLA - TSLA
 
-![RCL](images/RCL.jpg)
-
-(2) META - META
-
-![META](images/META.jpg)
+![TSLA](images/TSLA.jpg)
 
 ---
