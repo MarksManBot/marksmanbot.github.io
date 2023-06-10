@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: 2023-06-09 08:30:00.404999*
+*Last Updated: 2023-06-10 08:30:00.393329*
 ---
 # BULLISH STOCKS
 ---
@@ -19,10 +19,6 @@ Inverse Head and Shoulders
 (1) NRG - NRG
 
 ![NRG](images/NRG.jpg)
-
-(2) MDT - MDT
-
-![MDT](images/MDT.jpg)
 
 ---
 **Double Bottom Pattern**
@@ -50,15 +46,7 @@ Inverse Head and Shoulders
 ---
 **Descending Channel Pattern**
 
-(1) GPC - GPC
-
-![GPC](images/GPC.jpg)
-
-(2) AAP - AAP
-
-![AAP](images/AAP.jpg)
-
-(3) IEX - IEX
+(1) IEX - IEX
 
 ![IEX](images/IEX.jpg)
 
@@ -80,6 +68,14 @@ Inverse Head and Shoulders
 (4) FANG - FANG
 
 ![FANG](images/FANG.jpg)
+
+(5) AVY - AVY
+
+![AVY](images/AVY.jpg)
+
+(6) CARR - CARR
+
+![CARR](images/CARR.jpg)
 
 ---
 **Descending Triangle Pattern**
@@ -110,25 +106,25 @@ Inverse Head and Shoulders
 
 ![IRM](images/IRM.jpg)
 
-(2) MU - MU
-
-![MU](images/MU.jpg)
-
-(3) ICE - ICE
+(2) ICE - ICE
 
 ![ICE](images/ICE.jpg)
 
-(4) AME - AME
+(3) MU - MU
 
-![AME](images/AME.jpg)
+![MU](images/MU.jpg)
 
-(5) FDS - FDS
+(4) FDS - FDS
 
 ![FDS](images/FDS.jpg)
 
-(6) BA - BA
+(5) BA - BA
 
 ![BA](images/BA.jpg)
+
+(6) AME - AME
+
+![AME](images/AME.jpg)
 
 ---
 **Oversold Stock**
@@ -169,24 +165,16 @@ Inverse Head and Shoulders
 
 ![BKR](images/BKR.jpg)
 
-(6) SLB - SLB
-
-![SLB](images/SLB.jpg)
-
-(7) STT - STT
-
-![STT](images/STT.jpg)
-
 ---
 **Multiple Top**
 
-(1) V - V
+(1) OTIS - OTIS
+
+![OTIS](images/OTIS.jpg)
+
+(2) V - V
 
 ![V](images/V.jpg)
-
-(2) WMT - WMT
-
-![WMT](images/WMT.jpg)
 
 (3) JPM - JPM
 
@@ -211,41 +199,33 @@ Inverse Head and Shoulders
 ---
 **Double Top Pattern**
 
-(1) OTIS - OTIS
-
-![OTIS](images/OTIS.jpg)
-
-(2) MA - MA
+(1) MA - MA
 
 ![MA](images/MA.jpg)
 
-(3) LW - LW
+(2) LW - LW
 
 ![LW](images/LW.jpg)
 
-(4) ANSS - ANSS
+(3) ANSS - ANSS
 
 ![ANSS](images/ANSS.jpg)
 
-(5) MTD - MTD
+(4) MTD - MTD
 
 ![MTD](images/MTD.jpg)
 
-(6) MGM - MGM
+(5) MGM - MGM
 
 ![MGM](images/MGM.jpg)
 
-(7) RE - RE
+(6) RE - RE
 
 ![RE](images/RE.jpg)
 
-(8) ALGN - ALGN
+(7) ALGN - ALGN
 
 ![ALGN](images/ALGN.jpg)
-
-(9) MAR - MAR
-
-![MAR](images/MAR.jpg)
 
 ---
 **Ascending Channel Pattern**
@@ -258,19 +238,11 @@ Inverse Head and Shoulders
 
 ![PSA](images/PSA.jpg)
 
-(3) CCL - CCL
-
-![CCL](images/CCL.jpg)
-
-(4) RCL - RCL
-
-![RCL](images/RCL.jpg)
-
-(5) TDY - TDY
+(3) TDY - TDY
 
 ![TDY](images/TDY.jpg)
 
-(6) GRMN - GRMN
+(4) GRMN - GRMN
 
 ![GRMN](images/GRMN.jpg)
 
@@ -297,14 +269,14 @@ Inverse Head and Shoulders
 
 ![DRI](images/DRI.jpg)
 
-(6) PHM - PHM
-
-![PHM](images/PHM.jpg)
-
 ---
 **Ascending Triangle**
 
-(1) MO - MO
+(1) OTIS - OTIS
+
+![OTIS](images/OTIS.jpg)
+
+(2) MO - MO
 
 ![MO](images/MO.jpg)
 
@@ -319,13 +291,13 @@ Inverse Head and Shoulders
 
 ![IRM](images/IRM.jpg)
 
-(3) GE - GE
-
-![GE](images/GE.jpg)
-
-(4) DXCM - DXCM
+(3) DXCM - DXCM
 
 ![DXCM](images/DXCM.jpg)
+
+(4) GE - GE
+
+![GE](images/GE.jpg)
 
 ---
 **Horizontal S/R**. It can be played as bearish if stock loses the support
@@ -334,25 +306,25 @@ Inverse Head and Shoulders
 
 ![IRM](images/IRM.jpg)
 
-(2) MU - MU
-
-![MU](images/MU.jpg)
-
-(3) ICE - ICE
+(2) ICE - ICE
 
 ![ICE](images/ICE.jpg)
 
-(4) AME - AME
+(3) MU - MU
 
-![AME](images/AME.jpg)
+![MU](images/MU.jpg)
 
-(5) FDS - FDS
+(4) FDS - FDS
 
 ![FDS](images/FDS.jpg)
 
-(6) BA - BA
+(5) BA - BA
 
 ![BA](images/BA.jpg)
+
+(6) AME - AME
+
+![AME](images/AME.jpg)
 
 ---
 **Overbought Stock**
@@ -360,5 +332,9 @@ Inverse Head and Shoulders
 (1) TSLA - TSLA
 
 ![TSLA](images/TSLA.jpg)
+
+(2) CEG - CEG
+
+![CEG](images/CEG.jpg)
 
 ---
