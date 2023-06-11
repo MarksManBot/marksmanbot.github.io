@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: 2023-06-10 08:30:00.393329*
+*Last Updated: 2023-06-11 08:30:00.275996*
 ---
 # BULLISH STOCKS
 ---
@@ -23,25 +23,25 @@ Inverse Head and Shoulders
 ---
 **Double Bottom Pattern**
 
-(1) BXP - BXP
+(1) NOC - NOC
 
-![BXP](images/BXP.jpg)
+![NOC](images/NOC.jpg)
 
 (2) HRL - HRL
 
 ![HRL](images/HRL.jpg)
 
-(3) CNC - CNC
-
-![CNC](images/CNC.jpg)
-
-(4) GEN - GEN
+(3) GEN - GEN
 
 ![GEN](images/GEN.jpg)
 
-(5) NOC - NOC
+(4) CNC - CNC
 
-![NOC](images/NOC.jpg)
+![CNC](images/CNC.jpg)
+
+(5) BXP - BXP
+
+![BXP](images/BXP.jpg)
 
 ---
 **Descending Channel Pattern**
@@ -99,6 +99,10 @@ Inverse Head and Shoulders
 
 ![HUM](images/HUM.jpg)
 
+(3) PNR - PNR
+
+![PNR](images/PNR.jpg)
+
 ---
 **Horizontal S/R**
 
@@ -126,6 +130,10 @@ Inverse Head and Shoulders
 
 ![AME](images/AME.jpg)
 
+(7) RE - RE
+
+![RE](images/RE.jpg)
+
 ---
 **Oversold Stock**
 
@@ -145,83 +153,91 @@ Inverse Head and Shoulders
 ---
 **Head and Shoulders Pattern**
 
-(1) NUE - NUE
-
-![NUE](images/NUE.jpg)
-
-(2) STLD - STLD
+(1) STLD - STLD
 
 ![STLD](images/STLD.jpg)
 
-(3) MS - MS
+(2) NUE - NUE
+
+![NUE](images/NUE.jpg)
+
+(3) STT - STT
+
+![STT](images/STT.jpg)
+
+(4) SLB - SLB
+
+![SLB](images/SLB.jpg)
+
+(5) MS - MS
 
 ![MS](images/MS.jpg)
 
-(4) CARR - CARR
+(6) CARR - CARR
 
 ![CARR](images/CARR.jpg)
 
-(5) BKR - BKR
+(7) BKR - BKR
 
 ![BKR](images/BKR.jpg)
 
 ---
 **Multiple Top**
 
-(1) OTIS - OTIS
-
-![OTIS](images/OTIS.jpg)
-
-(2) V - V
+(1) V - V
 
 ![V](images/V.jpg)
 
-(3) JPM - JPM
-
-![JPM](images/JPM.jpg)
-
-(4) UHS - UHS
+(2) UHS - UHS
 
 ![UHS](images/UHS.jpg)
+
+(3) OTIS - OTIS
+
+![OTIS](images/OTIS.jpg)
+
+(4) JPM - JPM
+
+![JPM](images/JPM.jpg)
 
 (5) AXON - AXON
 
 ![AXON](images/AXON.jpg)
 
-(6) APH - APH
-
-![APH](images/APH.jpg)
-
-(7) XOM - XOM
+(6) XOM - XOM
 
 ![XOM](images/XOM.jpg)
+
+(7) APH - APH
+
+![APH](images/APH.jpg)
 
 ---
 **Double Top Pattern**
 
-(1) MA - MA
+(1) RE - RE
 
-![MA](images/MA.jpg)
+![RE](images/RE.jpg)
 
-(2) LW - LW
-
-![LW](images/LW.jpg)
-
-(3) ANSS - ANSS
-
-![ANSS](images/ANSS.jpg)
-
-(4) MTD - MTD
+(2) MTD - MTD
 
 ![MTD](images/MTD.jpg)
 
-(5) MGM - MGM
+(3) MGM - MGM
 
 ![MGM](images/MGM.jpg)
 
-(6) RE - RE
+(4) MA - MA
 
-![RE](images/RE.jpg)
+![MA](images/MA.jpg)
+
+(5) LW - LW
+
+![LW](images/LW.jpg)
+
+(6) ANSS - ANSS
+
+![ANSS](images/ANSS.jpg)
 
 (7) ALGN - ALGN
 
@@ -325,6 +341,10 @@ Inverse Head and Shoulders
 (6) AME - AME
 
 ![AME](images/AME.jpg)
+
+(7) RE - RE
+
+![RE](images/RE.jpg)
 
 ---
 **Overbought Stock**
