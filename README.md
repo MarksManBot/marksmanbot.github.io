@@ -3,16 +3,9 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: 2023-06-12 08:30:00.774750*
+*Last Updated: 2023-06-13 08:30:00.238176*
 ---
 # BULLISH STOCKS
----
-Inverse Head and Shoulders
-
-(1) UNH - UNH
-
-![UNH](images/UNH.jpg)
-
 ---
 **Multiple Bottoms**
 
@@ -46,7 +39,15 @@ Inverse Head and Shoulders
 ---
 **Descending Channel Pattern**
 
-(1) IEX - IEX
+(1) AAP - AAP
+
+![AAP](images/AAP.jpg)
+
+(2) DHR - DHR
+
+![DHR](images/DHR.jpg)
+
+(3) IEX - IEX
 
 ![IEX](images/IEX.jpg)
 
@@ -73,10 +74,6 @@ Inverse Head and Shoulders
 
 ![AVY](images/AVY.jpg)
 
-(6) CARR - CARR
-
-![CARR](images/CARR.jpg)
-
 ---
 **Descending Triangle Pattern**
 
@@ -84,9 +81,17 @@ Inverse Head and Shoulders
 
 ![HPE](images/HPE.jpg)
 
-(2) ELV - ELV
+(2) KMI - KMI
+
+![KMI](images/KMI.jpg)
+
+(3) ELV - ELV
 
 ![ELV](images/ELV.jpg)
+
+(4) DOW - DOW
+
+![DOW](images/DOW.jpg)
 
 ---
 **Trendline Support**
@@ -103,9 +108,17 @@ Inverse Head and Shoulders
 
 ![HUM](images/HUM.jpg)
 
-(4) PNR - PNR
+(4) AAP - AAP
+
+![AAP](images/AAP.jpg)
+
+(5) PNR - PNR
 
 ![PNR](images/PNR.jpg)
+
+(6) MRK - MRK
+
+![MRK](images/MRK.jpg)
 
 ---
 **Horizontal S/R**
@@ -114,40 +127,48 @@ Inverse Head and Shoulders
 
 ![IRM](images/IRM.jpg)
 
-(2) ICE - ICE
-
-![ICE](images/ICE.jpg)
-
-(3) MU - MU
-
-![MU](images/MU.jpg)
-
-(4) FDS - FDS
+(2) FDS - FDS
 
 ![FDS](images/FDS.jpg)
 
-(5) BA - BA
-
-![BA](images/BA.jpg)
-
-(6) AME - AME
+(3) AME - AME
 
 ![AME](images/AME.jpg)
 
-(7) RE - RE
+(4) RE - RE
 
 ![RE](images/RE.jpg)
+
+(5) ICE - ICE
+
+![ICE](images/ICE.jpg)
+
+(6) BRK-B - BRK-B
+
+![BRK-B](images/BRK-B.jpg)
+
+(7) MU - MU
+
+![MU](images/MU.jpg)
+
+(8) APH - APH
+
+![APH](images/APH.jpg)
+
+(9) BA - BA
+
+![BA](images/BA.jpg)
 
 ---
 **Oversold Stock**
 
-(1) AAP - AAP
-
-![AAP](images/AAP.jpg)
-
-(2) DG - DG
+(1) DG - DG
 
 ![DG](images/DG.jpg)
+
+(2) AAP - AAP
+
+![AAP](images/AAP.jpg)
 
 ---
 
@@ -157,21 +178,21 @@ Inverse Head and Shoulders
 ---
 **Head and Shoulders Pattern**
 
-(1) STLD - STLD
+(1) EBAY - EBAY
+
+![EBAY](images/EBAY.jpg)
+
+(2) STLD - STLD
 
 ![STLD](images/STLD.jpg)
 
-(2) NUE - NUE
+(3) NUE - NUE
 
 ![NUE](images/NUE.jpg)
 
-(3) STT - STT
+(4) STT - STT
 
 ![STT](images/STT.jpg)
-
-(4) SLB - SLB
-
-![SLB](images/SLB.jpg)
 
 (5) MS - MS
 
@@ -180,10 +201,6 @@ Inverse Head and Shoulders
 (6) CARR - CARR
 
 ![CARR](images/CARR.jpg)
-
-(7) BKR - BKR
-
-![BKR](images/BKR.jpg)
 
 ---
 **Multiple Top**
@@ -196,44 +213,48 @@ Inverse Head and Shoulders
 
 ![UHS](images/UHS.jpg)
 
-(3) OTIS - OTIS
-
-![OTIS](images/OTIS.jpg)
-
-(4) JPM - JPM
+(3) JPM - JPM
 
 ![JPM](images/JPM.jpg)
 
-(5) AXON - AXON
+(4) AXON - AXON
 
 ![AXON](images/AXON.jpg)
 
-(6) XOM - XOM
+(5) OTIS - OTIS
 
-![XOM](images/XOM.jpg)
+![OTIS](images/OTIS.jpg)
+
+(6) ICE - ICE
+
+![ICE](images/ICE.jpg)
 
 (7) APH - APH
 
 ![APH](images/APH.jpg)
 
+(8) XOM - XOM
+
+![XOM](images/XOM.jpg)
+
 ---
 **Double Top Pattern**
 
-(1) RE - RE
+(1) PNR - PNR
+
+![PNR](images/PNR.jpg)
+
+(2) RE - RE
 
 ![RE](images/RE.jpg)
 
-(2) MTD - MTD
+(3) MTD - MTD
 
 ![MTD](images/MTD.jpg)
 
-(3) MGM - MGM
+(4) MGM - MGM
 
 ![MGM](images/MGM.jpg)
-
-(4) MA - MA
-
-![MA](images/MA.jpg)
 
 (5) LW - LW
 
@@ -246,6 +267,14 @@ Inverse Head and Shoulders
 (7) ALGN - ALGN
 
 ![ALGN](images/ALGN.jpg)
+
+(8) MPWR - MPWR
+
+![MPWR](images/MPWR.jpg)
+
+(9) MA - MA
+
+![MA](images/MA.jpg)
 
 ---
 **Ascending Channel Pattern**
@@ -262,7 +291,11 @@ Inverse Head and Shoulders
 
 ![TDY](images/TDY.jpg)
 
-(4) GRMN - GRMN
+(4) CCL - CCL
+
+![CCL](images/CCL.jpg)
+
+(5) GRMN - GRMN
 
 ![GRMN](images/GRMN.jpg)
 
@@ -285,11 +318,7 @@ Inverse Head and Shoulders
 
 ![PWR](images/PWR.jpg)
 
-(5) TDG - TDG
-
-![TDG](images/TDG.jpg)
-
-(6) DRI - DRI
+(5) DRI - DRI
 
 ![DRI](images/DRI.jpg)
 
@@ -330,29 +359,37 @@ Inverse Head and Shoulders
 
 ![IRM](images/IRM.jpg)
 
-(2) ICE - ICE
-
-![ICE](images/ICE.jpg)
-
-(3) MU - MU
-
-![MU](images/MU.jpg)
-
-(4) FDS - FDS
+(2) FDS - FDS
 
 ![FDS](images/FDS.jpg)
 
-(5) BA - BA
-
-![BA](images/BA.jpg)
-
-(6) AME - AME
+(3) AME - AME
 
 ![AME](images/AME.jpg)
 
-(7) RE - RE
+(4) RE - RE
 
 ![RE](images/RE.jpg)
+
+(5) ICE - ICE
+
+![ICE](images/ICE.jpg)
+
+(6) BRK-B - BRK-B
+
+![BRK-B](images/BRK-B.jpg)
+
+(7) MU - MU
+
+![MU](images/MU.jpg)
+
+(8) APH - APH
+
+![APH](images/APH.jpg)
+
+(9) BA - BA
+
+![BA](images/BA.jpg)
 
 ---
 **Overbought Stock**
@@ -361,8 +398,24 @@ Inverse Head and Shoulders
 
 ![TSLA](images/TSLA.jpg)
 
-(2) CEG - CEG
+(2) RCL - RCL
+
+![RCL](images/RCL.jpg)
+
+(3) CEG - CEG
 
 ![CEG](images/CEG.jpg)
+
+(4) ORCL - ORCL
+
+![ORCL](images/ORCL.jpg)
+
+(5) NCLH - NCLH
+
+![NCLH](images/NCLH.jpg)
+
+(6) CCL - CCL
+
+![CCL](images/CCL.jpg)
 
 ---
