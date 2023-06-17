@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: 2023-06-16 08:30:00.033105*
+*Last Updated: 2023-06-17 08:30:00.341853*
 ---
 # BULLISH STOCKS
 ---
@@ -16,25 +16,25 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 ---
 **Double Bottom Pattern**
 
-(1) NOC - NOC
-
-![NOC](images/NOC.jpg)
-
-(2) HRL - HRL
+(1) HRL - HRL
 
 ![HRL](images/HRL.jpg)
 
-(3) GEN - GEN
+(2) GEN - GEN
 
 ![GEN](images/GEN.jpg)
 
-(4) CNC - CNC
+(3) CNC - CNC
 
 ![CNC](images/CNC.jpg)
 
-(5) BXP - BXP
+(4) BXP - BXP
 
 ![BXP](images/BXP.jpg)
+
+(5) NOC - NOC
+
+![NOC](images/NOC.jpg)
 
 ---
 **Descending Channel Pattern**
@@ -100,10 +100,6 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![PNR](images/PNR.jpg)
 
-(5) LIN - LIN
-
-![LIN](images/LIN.jpg)
-
 ---
 **Horizontal S/R**
 
@@ -123,23 +119,19 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![CPT](images/CPT.jpg)
 
-(5) RE - RE
+(5) MU - MU
 
-![RE](images/RE.jpg)
+![MU](images/MU.jpg)
 
 (6) APH - APH
 
 ![APH](images/APH.jpg)
 
-(7) MU - MU
-
-![MU](images/MU.jpg)
-
-(8) ICE - ICE
+(7) ICE - ICE
 
 ![ICE](images/ICE.jpg)
 
-(9) UHS - UHS
+(8) UHS - UHS
 
 ![UHS](images/UHS.jpg)
 
@@ -163,69 +155,77 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![EBAY](images/EBAY.jpg)
 
-(4) CARR - CARR
+(4) MS - MS
 
-![CARR](images/CARR.jpg)
+![MS](images/MS.jpg)
 
 (5) STT - STT
 
 ![STT](images/STT.jpg)
 
-(6) MS - MS
-
-![MS](images/MS.jpg)
-
-(7) BKR - BKR
+(6) BKR - BKR
 
 ![BKR](images/BKR.jpg)
+
+(7) T - T
+
+![T](images/T.jpg)
 
 ---
 **Multiple Top**
 
-(1) V - V
+(1) MAR - MAR
 
-![V](images/V.jpg)
+![MAR](images/MAR.jpg)
 
 (2) UHS - UHS
 
 ![UHS](images/UHS.jpg)
 
-(3) AXON - AXON
+(3) CBOE - CBOE
+
+![CBOE](images/CBOE.jpg)
+
+(4) V - V
+
+![V](images/V.jpg)
+
+(5) AXON - AXON
 
 ![AXON](images/AXON.jpg)
 
-(4) APH - APH
-
-![APH](images/APH.jpg)
-
-(5) XOM - XOM
+(6) XOM - XOM
 
 ![XOM](images/XOM.jpg)
 
 ---
 **Double Top Pattern**
 
-(1) MGM - MGM
+(1) LW - LW
+
+![LW](images/LW.jpg)
+
+(2) MGM - MGM
 
 ![MGM](images/MGM.jpg)
 
-(2) MTD - MTD
+(3) MTD - MTD
 
 ![MTD](images/MTD.jpg)
 
-(3) MA - MA
+(4) MA - MA
 
 ![MA](images/MA.jpg)
 
-(4) RE - RE
+(5) RE - RE
 
 ![RE](images/RE.jpg)
 
-(5) ALGN - ALGN
+(6) ALGN - ALGN
 
 ![ALGN](images/ALGN.jpg)
 
-(6) MPWR - MPWR
+(7) MPWR - MPWR
 
 ![MPWR](images/MPWR.jpg)
 
@@ -236,19 +236,15 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![BSX](images/BSX.jpg)
 
-(2) TFX - TFX
-
-![TFX](images/TFX.jpg)
-
-(3) PSA - PSA
+(2) PSA - PSA
 
 ![PSA](images/PSA.jpg)
 
-(4) GRMN - GRMN
+(3) GRMN - GRMN
 
 ![GRMN](images/GRMN.jpg)
 
-(5) CHD - CHD
+(4) CHD - CHD
 
 ![CHD](images/CHD.jpg)
 
@@ -267,13 +263,13 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![PWR](images/PWR.jpg)
 
-(4) FAST - FAST
-
-![FAST](images/FAST.jpg)
-
-(5) DRI - DRI
+(4) DRI - DRI
 
 ![DRI](images/DRI.jpg)
+
+(5) FAST - FAST
+
+![FAST](images/FAST.jpg)
 
 ---
 **Ascending Triangle**
@@ -289,17 +285,17 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 ---
 **Trendline Resistance**
 
-(1) PNW - PNW
+(1) IRM - IRM
+
+![IRM](images/IRM.jpg)
+
+(2) PNW - PNW
 
 ![PNW](images/PNW.jpg)
 
-(2) MOH - MOH
+(3) MOH - MOH
 
 ![MOH](images/MOH.jpg)
-
-(3) IRM - IRM
-
-![IRM](images/IRM.jpg)
 
 (4) GE - GE
 
@@ -313,7 +309,11 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![LIN](images/LIN.jpg)
 
-(7) CDNS - CDNS
+(7) AIZ - AIZ
+
+![AIZ](images/AIZ.jpg)
+
+(8) CDNS - CDNS
 
 ![CDNS](images/CDNS.jpg)
 
@@ -336,63 +336,43 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![CPT](images/CPT.jpg)
 
-(5) RE - RE
+(5) MU - MU
 
-![RE](images/RE.jpg)
+![MU](images/MU.jpg)
 
 (6) APH - APH
 
 ![APH](images/APH.jpg)
 
-(7) MU - MU
-
-![MU](images/MU.jpg)
-
-(8) ICE - ICE
+(7) ICE - ICE
 
 ![ICE](images/ICE.jpg)
 
-(9) UHS - UHS
+(8) UHS - UHS
 
 ![UHS](images/UHS.jpg)
 
 ---
 **Overbought Stock**
 
-(1) ORCL - ORCL
+(1) TSLA - TSLA
+
+![TSLA](images/TSLA.jpg)
+
+(2) ORCL - ORCL
 
 ![ORCL](images/ORCL.jpg)
-
-(2) CCL - CCL
-
-![CCL](images/CCL.jpg)
 
 (3) DAL - DAL
 
 ![DAL](images/DAL.jpg)
 
-(4) TSLA - TSLA
-
-![TSLA](images/TSLA.jpg)
-
-(5) NCLH - NCLH
-
-![NCLH](images/NCLH.jpg)
-
-(6) NFLX - NFLX
-
-![NFLX](images/NFLX.jpg)
-
-(7) ADBE - ADBE
+(4) ADBE - ADBE
 
 ![ADBE](images/ADBE.jpg)
 
-(8) RCL - RCL
+(5) CCL - CCL
 
-![RCL](images/RCL.jpg)
-
-(9) LYV - LYV
-
-![LYV](images/LYV.jpg)
+![CCL](images/CCL.jpg)
 
 ---
