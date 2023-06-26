@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: 2023-06-25 08:30:00.555890*
+*Last Updated: 2023-06-26 08:30:00.558266*
 ---
 # BULLISH STOCKS
 ---
@@ -163,13 +163,13 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![UHS](images/UHS.jpg)
 
-(12) APH - APH
-
-![APH](images/APH.jpg)
-
-(13) ICE - ICE
+(12) ICE - ICE
 
 ![ICE](images/ICE.jpg)
+
+(13) APH - APH
+
+![APH](images/APH.jpg)
 
 ---
 
@@ -353,13 +353,13 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![EQR](images/EQR.jpg)
 
-(8) AIZ - AIZ
-
-![AIZ](images/AIZ.jpg)
-
-(9) IRM - IRM
+(8) IRM - IRM
 
 ![IRM](images/IRM.jpg)
+
+(9) AIZ - AIZ
+
+![AIZ](images/AIZ.jpg)
 
 ---
 **Horizontal S/R**. It can be played as bearish if stock loses the support
@@ -408,13 +408,13 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![UHS](images/UHS.jpg)
 
-(12) APH - APH
-
-![APH](images/APH.jpg)
-
-(13) ICE - ICE
+(12) ICE - ICE
 
 ![ICE](images/ICE.jpg)
+
+(13) APH - APH
+
+![APH](images/APH.jpg)
 
 ---
 **Overbought Stock**
