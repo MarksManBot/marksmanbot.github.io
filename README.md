@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: 2023-06-29 08:30:00.548508*
+*Last Updated: 2023-06-30 08:30:00.788885*
 ---
 # BULLISH STOCKS
 ---
@@ -17,20 +17,24 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![NRG](images/NRG.jpg)
 
+(3) CVX - CVX
+
+![CVX](images/CVX.jpg)
+
 ---
 **Double Bottom Pattern**
 
-(1) NOC - NOC
+(1) INVH - INVH
 
-![NOC](images/NOC.jpg)
+![INVH](images/INVH.jpg)
 
-(2) GEN - GEN
-
-![GEN](images/GEN.jpg)
-
-(3) HRL - HRL
+(2) HRL - HRL
 
 ![HRL](images/HRL.jpg)
+
+(3) GEN - GEN
+
+![GEN](images/GEN.jpg)
 
 (4) CNC - CNC
 
@@ -40,6 +44,10 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![BXP](images/BXP.jpg)
 
+(6) NOC - NOC
+
+![NOC](images/NOC.jpg)
+
 ---
 **Descending Channel Pattern**
 
@@ -47,9 +55,9 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![GPC](images/GPC.jpg)
 
-(2) IEX - IEX
+(2) ALB - ALB
 
-![IEX](images/IEX.jpg)
+![ALB](images/ALB.jpg)
 
 (3) DHR - DHR
 
@@ -74,13 +82,13 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![FCX](images/FCX.jpg)
 
-(4) ENPH - ENPH
-
-![ENPH](images/ENPH.jpg)
-
-(5) SEDG - SEDG
+(4) SEDG - SEDG
 
 ![SEDG](images/SEDG.jpg)
+
+(5) ENPH - ENPH
+
+![ENPH](images/ENPH.jpg)
 
 (6) ADM - ADM
 
@@ -97,63 +105,71 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![KMI](images/KMI.jpg)
 
-(2) ELV - ELV
-
-![ELV](images/ELV.jpg)
-
-(3) DOW - DOW
+(2) DOW - DOW
 
 ![DOW](images/DOW.jpg)
+
+(3) ELV - ELV
+
+![ELV](images/ELV.jpg)
 
 (4) OXY - OXY
 
 ![OXY](images/OXY.jpg)
 
-(5) WRK - WRK
+(5) CVX - CVX
+
+![CVX](images/CVX.jpg)
+
+(6) WRK - WRK
 
 ![WRK](images/WRK.jpg)
 
 ---
 **Trendline Support**
 
-(1) LW - LW
+(1) LIN - LIN
+
+![LIN](images/LIN.jpg)
+
+(2) LW - LW
 
 ![LW](images/LW.jpg)
 
-(2) HLT - HLT
+(3) HLT - HLT
 
 ![HLT](images/HLT.jpg)
 
-(3) VICI - VICI
+(4) VICI - VICI
 
 ![VICI](images/VICI.jpg)
 
 ---
 **Horizontal S/R**
 
-(1) DXCM - DXCM
-
-![DXCM](images/DXCM.jpg)
-
-(2) EQR - EQR
+(1) EQR - EQR
 
 ![EQR](images/EQR.jpg)
 
-(3) BRK-B - BRK-B
-
-![BRK-B](images/BRK-B.jpg)
-
-(4) IRM - IRM
-
-![IRM](images/IRM.jpg)
-
-(5) CPT - CPT
+(2) CPT - CPT
 
 ![CPT](images/CPT.jpg)
 
-(6) RE - RE
+(3) RE - RE
 
 ![RE](images/RE.jpg)
+
+(4) DXCM - DXCM
+
+![DXCM](images/DXCM.jpg)
+
+(5) MU - MU
+
+![MU](images/MU.jpg)
+
+(6) IRM - IRM
+
+![IRM](images/IRM.jpg)
 
 (7) AZO - AZO
 
@@ -163,17 +179,25 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![FDS](images/FDS.jpg)
 
-(9) APH - APH
+(9) JPM - JPM
+
+![JPM](images/JPM.jpg)
+
+(10) BA - BA
+
+![BA](images/BA.jpg)
+
+(11) APH - APH
 
 ![APH](images/APH.jpg)
 
-(10) ICE - ICE
+(12) ICE - ICE
 
 ![ICE](images/ICE.jpg)
 
-(11) MU - MU
+(13) LKQ - LKQ
 
-![MU](images/MU.jpg)
+![LKQ](images/LKQ.jpg)
 
 ---
 
@@ -183,17 +207,17 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 ---
 **Head and Shoulders Pattern**
 
-(1) NUE - NUE
-
-![NUE](images/NUE.jpg)
-
-(2) STLD - STLD
+(1) STLD - STLD
 
 ![STLD](images/STLD.jpg)
 
-(3) XRAY - XRAY
+(2) XRAY - XRAY
 
 ![XRAY](images/XRAY.jpg)
+
+(3) NTRS - NTRS
+
+![NTRS](images/NTRS.jpg)
 
 (4) MS - MS
 
@@ -214,9 +238,9 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![LW](images/LW.jpg)
 
-(2) JPM - JPM
+(2) CBOE - CBOE
 
-![JPM](images/JPM.jpg)
+![CBOE](images/CBOE.jpg)
 
 (3) V - V
 
@@ -230,11 +254,7 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![MPWR](images/MPWR.jpg)
 
-(6) MAR - MAR
-
-![MAR](images/MAR.jpg)
-
-(7) XOM - XOM
+(6) XOM - XOM
 
 ![XOM](images/XOM.jpg)
 
@@ -284,6 +304,10 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![DRI](images/DRI.jpg)
 
+(4) AMAT - AMAT
+
+![AMAT](images/AMAT.jpg)
+
 ---
 **Rising Wedge Pattern**
 
@@ -329,68 +353,76 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![NFLX](images/NFLX.jpg)
 
-(2) MOH - MOH
-
-![MOH](images/MOH.jpg)
-
-(3) CDNS - CDNS
+(2) CDNS - CDNS
 
 ![CDNS](images/CDNS.jpg)
 
-(4) AIZ - AIZ
+(3) AIZ - AIZ
 
 ![AIZ](images/AIZ.jpg)
 
-(5) DXCM - DXCM
+(4) MOH - MOH
 
-![DXCM](images/DXCM.jpg)
+![MOH](images/MOH.jpg)
 
-(6) LIN - LIN
+(5) LIN - LIN
 
 ![LIN](images/LIN.jpg)
 
-(7) GE - GE
+(6) DXCM - DXCM
 
-![GE](images/GE.jpg)
+![DXCM](images/DXCM.jpg)
 
-(8) EQR - EQR
+(7) D - D
+
+![D](images/D.jpg)
+
+(8) MRO - MRO
+
+![MRO](images/MRO.jpg)
+
+(9) JPM - JPM
+
+![JPM](images/JPM.jpg)
+
+(10) EQR - EQR
 
 ![EQR](images/EQR.jpg)
 
-(9) BA - BA
+(11) GE - GE
+
+![GE](images/GE.jpg)
+
+(12) BA - BA
 
 ![BA](images/BA.jpg)
-
-(10) AMT - AMT
-
-![AMT](images/AMT.jpg)
 
 ---
 **Horizontal S/R**. It can be played as bearish if stock loses the support
 
-(1) DXCM - DXCM
-
-![DXCM](images/DXCM.jpg)
-
-(2) EQR - EQR
+(1) EQR - EQR
 
 ![EQR](images/EQR.jpg)
 
-(3) BRK-B - BRK-B
-
-![BRK-B](images/BRK-B.jpg)
-
-(4) IRM - IRM
-
-![IRM](images/IRM.jpg)
-
-(5) CPT - CPT
+(2) CPT - CPT
 
 ![CPT](images/CPT.jpg)
 
-(6) RE - RE
+(3) RE - RE
 
 ![RE](images/RE.jpg)
+
+(4) DXCM - DXCM
+
+![DXCM](images/DXCM.jpg)
+
+(5) MU - MU
+
+![MU](images/MU.jpg)
+
+(6) IRM - IRM
+
+![IRM](images/IRM.jpg)
 
 (7) AZO - AZO
 
@@ -400,38 +432,42 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![FDS](images/FDS.jpg)
 
-(9) APH - APH
+(9) JPM - JPM
+
+![JPM](images/JPM.jpg)
+
+(10) BA - BA
+
+![BA](images/BA.jpg)
+
+(11) APH - APH
 
 ![APH](images/APH.jpg)
 
-(10) ICE - ICE
+(12) ICE - ICE
 
 ![ICE](images/ICE.jpg)
 
-(11) MU - MU
+(13) LKQ - LKQ
 
-![MU](images/MU.jpg)
+![LKQ](images/LKQ.jpg)
 
 ---
 **Overbought Stock**
 
-(1) DAL - DAL
-
-![DAL](images/DAL.jpg)
-
-(2) VMC - VMC
+(1) VMC - VMC
 
 ![VMC](images/VMC.jpg)
 
-(3) RCL - RCL
+(2) DAL - DAL
 
-![RCL](images/RCL.jpg)
+![DAL](images/DAL.jpg)
 
-(4) MLM - MLM
+(3) MLM - MLM
 
 ![MLM](images/MLM.jpg)
 
-(5) ABC - ABC
+(4) ABC - ABC
 
 ![ABC](images/ABC.jpg)
 
