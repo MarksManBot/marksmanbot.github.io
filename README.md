@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: July 04, 2023*
+*Last Updated: July 05, 2023*
 ---
 ## Bullish Stocks
 ---
@@ -12,10 +12,6 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 (1) WRK - WRK
 
 ![WRK](images/WRK.jpg)
-
-(2) CVX - CVX
-
-![CVX](images/CVX.jpg)
 
 ---
 **Double Bottom Pattern**
@@ -101,17 +97,17 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![KMI](images/KMI.jpg)
 
-(2) OXY - OXY
+(2) ELV - ELV
+
+![ELV](images/ELV.jpg)
+
+(3) OXY - OXY
 
 ![OXY](images/OXY.jpg)
 
-(3) DOW - DOW
+(4) DOW - DOW
 
 ![DOW](images/DOW.jpg)
-
-(4) ELV - ELV
-
-![ELV](images/ELV.jpg)
 
 (5) CVX - CVX
 
@@ -135,6 +131,10 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 (3) LYB - LYB
 
 ![LYB](images/LYB.jpg)
+
+(4) HLT - HLT
+
+![HLT](images/HLT.jpg)
 
 ---
 **Horizontal S/R**
@@ -163,17 +163,17 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![LKQ](images/LKQ.jpg)
 
-(7) APH - APH
-
-![APH](images/APH.jpg)
-
-(8) ICE - ICE
-
-![ICE](images/ICE.jpg)
-
-(9) MU - MU
+(7) MU - MU
 
 ![MU](images/MU.jpg)
+
+(8) AZO - AZO
+
+![AZO](images/AZO.jpg)
+
+(9) APH - APH
+
+![APH](images/APH.jpg)
 
 ---
 
@@ -239,10 +239,6 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 (1) GRMN - GRMN
 
 ![GRMN](images/GRMN.jpg)
-
-(2) DRI - DRI
-
-![DRI](images/DRI.jpg)
 
 ---
 **Rising Wedge Pattern**
@@ -356,17 +352,17 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![LKQ](images/LKQ.jpg)
 
-(7) APH - APH
-
-![APH](images/APH.jpg)
-
-(8) ICE - ICE
-
-![ICE](images/ICE.jpg)
-
-(9) MU - MU
+(7) MU - MU
 
 ![MU](images/MU.jpg)
+
+(8) AZO - AZO
+
+![AZO](images/AZO.jpg)
+
+(9) APH - APH
+
+![APH](images/APH.jpg)
 
 ---
 **Overbought Stock**
