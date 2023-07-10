@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: July 09, 2023*
+*Last Updated: July 10, 2023*
 ---
 ## Bullish Stocks
 ---
@@ -75,13 +75,13 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![ENPH](images/ENPH.jpg)
 
-(6) KDP - KDP
-
-![KDP](images/KDP.jpg)
-
-(7) DHR - DHR
+(6) DHR - DHR
 
 ![DHR](images/DHR.jpg)
+
+(7) KDP - KDP
+
+![KDP](images/KDP.jpg)
 
 (8) ALB - ALB
 
@@ -179,9 +179,9 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![DXCM](images/DXCM.jpg)
 
-(3) RE - RE
+(3) EG - EG
 
-![RE](images/RE.jpg)
+![EG](images/EG.jpg)
 
 (4) AZO - AZO
 
@@ -269,27 +269,31 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 ---
 **Double Top Pattern**
 
-(1) TJX - TJX
+(1) EG - EG
+
+![EG](images/EG.jpg)
+
+(2) TJX - TJX
 
 ![TJX](images/TJX.jpg)
 
-(2) ODFL - ODFL
+(3) ODFL - ODFL
 
 ![ODFL](images/ODFL.jpg)
 
-(3) WST - WST
+(4) WST - WST
 
 ![WST](images/WST.jpg)
 
-(4) EFX - EFX
+(5) EFX - EFX
 
 ![EFX](images/EFX.jpg)
 
-(5) ZBH - ZBH
+(6) ZBH - ZBH
 
 ![ZBH](images/ZBH.jpg)
 
-(6) SYK - SYK
+(7) SYK - SYK
 
 ![SYK](images/SYK.jpg)
 
@@ -408,9 +412,9 @@ MarksMan is an automated bot for the U.S. Stock Market that can trade options us
 
 ![DXCM](images/DXCM.jpg)
 
-(3) RE - RE
+(3) EG - EG
 
-![RE](images/RE.jpg)
+![EG](images/EG.jpg)
 
 (4) AZO - AZO
 
