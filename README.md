@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: July 18, 2023*
+*Last Updated: July 19, 2023*
 ---
 ## Bullish Stocks
 ---
@@ -19,10 +19,6 @@ Inverse Head and Shoulders
 (1) WRK - WRK
 
 ![WRK](images/WRK.jpg)
-
-(2) PPL - PPL
-
-![PPL](images/PPL.jpg)
 
 ---
 **Double Bottom Pattern**
@@ -74,13 +70,13 @@ Inverse Head and Shoulders
 
 ![IEX](images/IEX.jpg)
 
-(2) HSIC - HSIC
-
-![HSIC](images/HSIC.jpg)
-
-(3) GPC - GPC
+(2) GPC - GPC
 
 ![GPC](images/GPC.jpg)
+
+(3) HSIC - HSIC
+
+![HSIC](images/HSIC.jpg)
 
 (4) AMCR - AMCR
 
@@ -113,19 +109,15 @@ Inverse Head and Shoulders
 
 ![D](images/D.jpg)
 
-(2) SEDG - SEDG
-
-![SEDG](images/SEDG.jpg)
-
-(3) BMY - BMY
+(2) BMY - BMY
 
 ![BMY](images/BMY.jpg)
 
-(4) AMT - AMT
+(3) SEDG - SEDG
 
-![AMT](images/AMT.jpg)
+![SEDG](images/SEDG.jpg)
 
-(5) MRNA - MRNA
+(4) MRNA - MRNA
 
 ![MRNA](images/MRNA.jpg)
 
@@ -155,19 +147,23 @@ Inverse Head and Shoulders
 
 ![WBA](images/WBA.jpg)
 
-(3) FDX - FDX
+(3) ETR - ETR
 
-![FDX](images/FDX.jpg)
+![ETR](images/ETR.jpg)
 
 (4) LYB - LYB
 
 ![LYB](images/LYB.jpg)
 
-(5) ANSS - ANSS
+(5) LNT - LNT
+
+![LNT](images/LNT.jpg)
+
+(6) ANSS - ANSS
 
 ![ANSS](images/ANSS.jpg)
 
-(6) DHI - DHI
+(7) DHI - DHI
 
 ![DHI](images/DHI.jpg)
 
@@ -178,21 +174,21 @@ Inverse Head and Shoulders
 
 ![EG](images/EG.jpg)
 
-(2) LKQ - LKQ
+(2) GS - GS
+
+![GS](images/GS.jpg)
+
+(3) LKQ - LKQ
 
 ![LKQ](images/LKQ.jpg)
 
-(3) STX - STX
+(4) STX - STX
 
 ![STX](images/STX.jpg)
 
-(4) MU - MU
+(5) MU - MU
 
 ![MU](images/MU.jpg)
-
-(5) GS - GS
-
-![GS](images/GS.jpg)
 
 (6) APH - APH
 
@@ -204,10 +200,6 @@ Inverse Head and Shoulders
 (1) T - T
 
 ![T](images/T.jpg)
-
-(2) VZ - VZ
-
-![VZ](images/VZ.jpg)
 
 ---
 
@@ -228,13 +220,21 @@ Inverse Head and Shoulders
 ---
 **Multiple Top**
 
-(1) LW - LW
+(1) LKQ - LKQ
+
+![LKQ](images/LKQ.jpg)
+
+(2) LW - LW
 
 ![LW](images/LW.jpg)
 
-(2) AXON - AXON
+(3) AXON - AXON
 
 ![AXON](images/AXON.jpg)
+
+(4) PEG - PEG
+
+![PEG](images/PEG.jpg)
 
 ---
 **Double Top Pattern**
@@ -247,40 +247,36 @@ Inverse Head and Shoulders
 
 ![SYK](images/SYK.jpg)
 
-(3) PKG - PKG
-
-![PKG](images/PKG.jpg)
-
-(4) MTD - MTD
+(3) MTD - MTD
 
 ![MTD](images/MTD.jpg)
 
-(5) MNST - MNST
+(4) MNST - MNST
 
 ![MNST](images/MNST.jpg)
 
-(6) HLT - HLT
+(5) HLT - HLT
 
 ![HLT](images/HLT.jpg)
 
-(7) EG - EG
+(6) EG - EG
 
 ![EG](images/EG.jpg)
 
 ---
 **Ascending Channel Pattern**
 
-(1) BA - BA
-
-![BA](images/BA.jpg)
-
-(2) FICO - FICO
+(1) FICO - FICO
 
 ![FICO](images/FICO.jpg)
 
-(3) FDX - FDX
+(2) FDX - FDX
 
 ![FDX](images/FDX.jpg)
+
+(3) GRMN - GRMN
+
+![GRMN](images/GRMN.jpg)
 
 ---
 **Rising Wedge Pattern**
@@ -296,19 +292,15 @@ Inverse Head and Shoulders
 ---
 **Ascending Triangle**
 
-(1) JPM - JPM
-
-![JPM](images/JPM.jpg)
-
-(2) MAR - MAR
+(1) MAR - MAR
 
 ![MAR](images/MAR.jpg)
 
-(3) BDX - BDX
+(2) BDX - BDX
 
 ![BDX](images/BDX.jpg)
 
-(4) QRVO - QRVO
+(3) QRVO - QRVO
 
 ![QRVO](images/QRVO.jpg)
 
@@ -319,13 +311,13 @@ Inverse Head and Shoulders
 
 ![LIN](images/LIN.jpg)
 
-(2) CDNS - CDNS
-
-![CDNS](images/CDNS.jpg)
-
-(3) NFLX - NFLX
+(2) NFLX - NFLX
 
 ![NFLX](images/NFLX.jpg)
+
+(3) CDNS - CDNS
+
+![CDNS](images/CDNS.jpg)
 
 (4) AIZ - AIZ
 
@@ -350,21 +342,21 @@ Inverse Head and Shoulders
 
 ![EG](images/EG.jpg)
 
-(2) LKQ - LKQ
+(2) GS - GS
+
+![GS](images/GS.jpg)
+
+(3) LKQ - LKQ
 
 ![LKQ](images/LKQ.jpg)
 
-(3) STX - STX
+(4) STX - STX
 
 ![STX](images/STX.jpg)
 
-(4) MU - MU
+(5) MU - MU
 
 ![MU](images/MU.jpg)
-
-(5) GS - GS
-
-![GS](images/GS.jpg)
 
 (6) APH - APH
 
@@ -384,5 +376,9 @@ Inverse Head and Shoulders
 (3) PAYC - PAYC
 
 ![PAYC](images/PAYC.jpg)
+
+(4) RHI - RHI
+
+![RHI](images/RHI.jpg)
 
 ---
