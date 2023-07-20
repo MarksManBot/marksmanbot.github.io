@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: July 19, 2023*
+*Last Updated: July 20, 2023*
 ---
 ## Bullish Stocks
 ---
@@ -47,19 +47,15 @@ Inverse Head and Shoulders
 
 ![BXP](images/BXP.jpg)
 
-(7) EXR - EXR
-
-![EXR](images/EXR.jpg)
-
-(8) NOC - NOC
+(7) NOC - NOC
 
 ![NOC](images/NOC.jpg)
 
-(9) KMI - KMI
+(8) KMI - KMI
 
 ![KMI](images/KMI.jpg)
 
-(10) AES - AES
+(9) AES - AES
 
 ![AES](images/AES.jpg)
 
@@ -70,33 +66,33 @@ Inverse Head and Shoulders
 
 ![IEX](images/IEX.jpg)
 
-(2) GPC - GPC
-
-![GPC](images/GPC.jpg)
-
-(3) HSIC - HSIC
+(2) HSIC - HSIC
 
 ![HSIC](images/HSIC.jpg)
+
+(3) GPC - GPC
+
+![GPC](images/GPC.jpg)
 
 (4) AMCR - AMCR
 
 ![AMCR](images/AMCR.jpg)
 
-(5) FCX - FCX
+(5) EXR - EXR
+
+![EXR](images/EXR.jpg)
+
+(6) FCX - FCX
 
 ![FCX](images/FCX.jpg)
 
-(6) DHR - DHR
-
-![DHR](images/DHR.jpg)
-
-(7) KDP - KDP
-
-![KDP](images/KDP.jpg)
-
-(8) ALB - ALB
+(7) ALB - ALB
 
 ![ALB](images/ALB.jpg)
+
+(8) DHR - DHR
+
+![DHR](images/DHR.jpg)
 
 (9) ENPH - ENPH
 
@@ -147,23 +143,19 @@ Inverse Head and Shoulders
 
 ![WBA](images/WBA.jpg)
 
-(3) ETR - ETR
-
-![ETR](images/ETR.jpg)
-
-(4) LYB - LYB
+(3) LYB - LYB
 
 ![LYB](images/LYB.jpg)
 
-(5) LNT - LNT
+(4) BA - BA
 
-![LNT](images/LNT.jpg)
+![BA](images/BA.jpg)
 
-(6) ANSS - ANSS
+(5) ANSS - ANSS
 
 ![ANSS](images/ANSS.jpg)
 
-(7) DHI - DHI
+(6) DHI - DHI
 
 ![DHI](images/DHI.jpg)
 
@@ -186,20 +178,21 @@ Inverse Head and Shoulders
 
 ![STX](images/STX.jpg)
 
-(5) MU - MU
+(5) DXCM - DXCM
+
+![DXCM](images/DXCM.jpg)
+
+(6) MU - MU
 
 ![MU](images/MU.jpg)
 
-(6) APH - APH
+(7) UHS - UHS
 
-![APH](images/APH.jpg)
+![UHS](images/UHS.jpg)
 
----
-**Oversold Stock**
+(8) ICE - ICE
 
-(1) T - T
-
-![T](images/T.jpg)
+![ICE](images/ICE.jpg)
 
 ---
 
@@ -220,19 +213,27 @@ Inverse Head and Shoulders
 ---
 **Multiple Top**
 
-(1) LKQ - LKQ
+(1) BA - BA
+
+![BA](images/BA.jpg)
+
+(2) ALGN - ALGN
+
+![ALGN](images/ALGN.jpg)
+
+(3) LKQ - LKQ
 
 ![LKQ](images/LKQ.jpg)
 
-(2) LW - LW
+(4) LW - LW
 
 ![LW](images/LW.jpg)
 
-(3) AXON - AXON
+(5) AXON - AXON
 
 ![AXON](images/AXON.jpg)
 
-(4) PEG - PEG
+(6) PEG - PEG
 
 ![PEG](images/PEG.jpg)
 
@@ -274,10 +275,6 @@ Inverse Head and Shoulders
 
 ![FDX](images/FDX.jpg)
 
-(3) GRMN - GRMN
-
-![GRMN](images/GRMN.jpg)
-
 ---
 **Rising Wedge Pattern**
 
@@ -285,22 +282,30 @@ Inverse Head and Shoulders
 
 ![LIN](images/LIN.jpg)
 
-(2) ROP - ROP
+(2) DXCM - DXCM
+
+![DXCM](images/DXCM.jpg)
+
+(3) ROP - ROP
 
 ![ROP](images/ROP.jpg)
 
 ---
 **Ascending Triangle**
 
-(1) MAR - MAR
+(1) BA - BA
+
+![BA](images/BA.jpg)
+
+(2) MAR - MAR
 
 ![MAR](images/MAR.jpg)
 
-(2) BDX - BDX
+(3) BDX - BDX
 
 ![BDX](images/BDX.jpg)
 
-(3) QRVO - QRVO
+(4) QRVO - QRVO
 
 ![QRVO](images/QRVO.jpg)
 
@@ -311,13 +316,13 @@ Inverse Head and Shoulders
 
 ![LIN](images/LIN.jpg)
 
-(2) NFLX - NFLX
-
-![NFLX](images/NFLX.jpg)
-
-(3) CDNS - CDNS
+(2) CDNS - CDNS
 
 ![CDNS](images/CDNS.jpg)
+
+(3) NFLX - NFLX
+
+![NFLX](images/NFLX.jpg)
 
 (4) AIZ - AIZ
 
@@ -334,6 +339,10 @@ Inverse Head and Shoulders
 (7) FICO - FICO
 
 ![FICO](images/FICO.jpg)
+
+(8) BRO - BRO
+
+![BRO](images/BRO.jpg)
 
 ---
 **Horizontal S/R**. It can be played as bearish if stock loses the support
@@ -354,13 +363,21 @@ Inverse Head and Shoulders
 
 ![STX](images/STX.jpg)
 
-(5) MU - MU
+(5) DXCM - DXCM
+
+![DXCM](images/DXCM.jpg)
+
+(6) MU - MU
 
 ![MU](images/MU.jpg)
 
-(6) APH - APH
+(7) UHS - UHS
 
-![APH](images/APH.jpg)
+![UHS](images/UHS.jpg)
+
+(8) ICE - ICE
+
+![ICE](images/ICE.jpg)
 
 ---
 **Overbought Stock**
