@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: July 23, 2023*
+*Last Updated: July 24, 2023*
 ---
 ## Bullish Stocks
 ---
@@ -158,10 +158,6 @@ Inverse Head and Shoulders
 (5) ANSS - ANSS
 
 ![ANSS](images/ANSS.jpg)
-
-(6) DHI - DHI
-
-![DHI](images/DHI.jpg)
 
 ---
 **Horizontal S/R**
@@ -340,11 +336,7 @@ Inverse Head and Shoulders
 
 ![CTRA](images/CTRA.jpg)
 
-(7) NVR - NVR
-
-![NVR](images/NVR.jpg)
-
-(8) PNW - PNW
+(7) PNW - PNW
 
 ![PNW](images/PNW.jpg)
 
