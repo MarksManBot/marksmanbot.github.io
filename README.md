@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: July 24, 2023*
+*Last Updated: July 31, 2023*
 ---
 ## Bullish Stocks
 ---
@@ -12,6 +12,10 @@ Inverse Head and Shoulders
 (1) PXD - PXD
 
 ![PXD](images/PXD.jpg)
+
+(2) MCK - MCK
+
+![MCK](images/MCK.jpg)
 
 ---
 **Multiple Bottoms**
@@ -27,80 +31,64 @@ Inverse Head and Shoulders
 ---
 **Double Bottom Pattern**
 
-(1) NOC - NOC
-
-![NOC](images/NOC.jpg)
-
-(2) KEY - KEY
-
-![KEY](images/KEY.jpg)
-
-(3) HRL - HRL
-
-![HRL](images/HRL.jpg)
-
-(4) GEN - GEN
+(1) GEN - GEN
 
 ![GEN](images/GEN.jpg)
 
-(5) CFG - CFG
+(2) HRL - HRL
 
-![CFG](images/CFG.jpg)
+![HRL](images/HRL.jpg)
 
-(6) BXP - BXP
-
-![BXP](images/BXP.jpg)
-
-(7) CTVA - CTVA
+(3) CTVA - CTVA
 
 ![CTVA](images/CTVA.jpg)
 
-(8) KMI - KMI
+(4) KMI - KMI
 
 ![KMI](images/KMI.jpg)
 
-(9) AES - AES
+(5) DPZ - DPZ
 
-![AES](images/AES.jpg)
+![DPZ](images/DPZ.jpg)
+
+(6) GIS - GIS
+
+![GIS](images/GIS.jpg)
 
 ---
 **Descending Channel Pattern**
 
-(1) IEX - IEX
-
-![IEX](images/IEX.jpg)
-
-(2) HSIC - HSIC
+(1) HSIC - HSIC
 
 ![HSIC](images/HSIC.jpg)
 
-(3) AMCR - AMCR
-
-![AMCR](images/AMCR.jpg)
-
-(4) EXR - EXR
+(2) EXR - EXR
 
 ![EXR](images/EXR.jpg)
 
-(5) FCX - FCX
+(3) ELV - ELV
 
-![FCX](images/FCX.jpg)
+![ELV](images/ELV.jpg)
 
-(6) KDP - KDP
+(4) IEX - IEX
+
+![IEX](images/IEX.jpg)
+
+(5) KDP - KDP
 
 ![KDP](images/KDP.jpg)
 
-(7) SEDG - SEDG
+(6) AMCR - AMCR
 
-![SEDG](images/SEDG.jpg)
+![AMCR](images/AMCR.jpg)
 
-(8) ENPH - ENPH
-
-![ENPH](images/ENPH.jpg)
-
-(9) WYNN - WYNN
+(7) WYNN - WYNN
 
 ![WYNN](images/WYNN.jpg)
+
+(8) AES - AES
+
+![AES](images/AES.jpg)
 
 ---
 **Falling Wedge Pattern**
@@ -113,28 +101,16 @@ Inverse Head and Shoulders
 
 ![SEDG](images/SEDG.jpg)
 
-(3) BMY - BMY
-
-![BMY](images/BMY.jpg)
-
-(4) MRNA - MRNA
-
-![MRNA](images/MRNA.jpg)
-
 ---
 **Descending Triangle Pattern**
 
-(1) DOW - DOW
+(1) EG - EG
 
-![DOW](images/DOW.jpg)
+![EG](images/EG.jpg)
 
 (2) SJM - SJM
 
 ![SJM](images/SJM.jpg)
-
-(3) GPN - GPN
-
-![GPN](images/GPN.jpg)
 
 ---
 **Trendline Support**
@@ -147,36 +123,36 @@ Inverse Head and Shoulders
 
 ![WBA](images/WBA.jpg)
 
-(3) LYB - LYB
+(3) EBAY - EBAY
 
-![LYB](images/LYB.jpg)
+![EBAY](images/EBAY.jpg)
 
-(4) BSX - BSX
+(4) FI - FI
 
-![BSX](images/BSX.jpg)
+![FI](images/FI.jpg)
 
-(5) ANSS - ANSS
+(5) TDG - TDG
 
-![ANSS](images/ANSS.jpg)
+![TDG](images/TDG.jpg)
 
 ---
 **Horizontal S/R**
 
-(1) APH - APH
+(1) EG - EG
 
-![APH](images/APH.jpg)
+![EG](images/EG.jpg)
 
-(2) DXCM - DXCM
+(2) AIZ - AIZ
 
-![DXCM](images/DXCM.jpg)
+![AIZ](images/AIZ.jpg)
 
-(3) MU - MU
+(3) ICE - ICE
 
-![MU](images/MU.jpg)
+![ICE](images/ICE.jpg)
 
-(4) UHS - UHS
+(4) FANG - FANG
 
-![UHS](images/UHS.jpg)
+![FANG](images/FANG.jpg)
 
 ---
 
@@ -186,55 +162,47 @@ Inverse Head and Shoulders
 ---
 **Head and Shoulders Pattern**
 
-(1) STLD - STLD
-
-![STLD](images/STLD.jpg)
-
-(2) XRAY - XRAY
+(1) XRAY - XRAY
 
 ![XRAY](images/XRAY.jpg)
 
 ---
 **Multiple Top**
 
-(1) ADI - ADI
+(1) LH - LH
 
-![ADI](images/ADI.jpg)
+![LH](images/LH.jpg)
 
-(2) ALGN - ALGN
+(2) AXP - AXP
 
-![ALGN](images/ALGN.jpg)
+![AXP](images/AXP.jpg)
+
+(3) AXON - AXON
+
+![AXON](images/AXON.jpg)
+
+(4) TXN - TXN
+
+![TXN](images/TXN.jpg)
+
+---
+**Double Top Pattern**
+
+(1) MTD - MTD
+
+![MTD](images/MTD.jpg)
+
+(2) MSI - MSI
+
+![MSI](images/MSI.jpg)
 
 (3) LW - LW
 
 ![LW](images/LW.jpg)
 
-(4) LKQ - LKQ
-
-![LKQ](images/LKQ.jpg)
-
-(5) AXON - AXON
-
-![AXON](images/AXON.jpg)
-
----
-**Double Top Pattern**
-
-(1) HLT - HLT
-
-![HLT](images/HLT.jpg)
-
-(2) WST - WST
-
-![WST](images/WST.jpg)
-
-(3) ZBH - ZBH
+(4) ZBH - ZBH
 
 ![ZBH](images/ZBH.jpg)
-
-(4) AMAT - AMAT
-
-![AMAT](images/AMAT.jpg)
 
 (5) SNPS - SNPS
 
@@ -244,40 +212,48 @@ Inverse Head and Shoulders
 
 ![SYK](images/SYK.jpg)
 
-(7) MNST - MNST
-
-![MNST](images/MNST.jpg)
-
-(8) MTD - MTD
-
-![MTD](images/MTD.jpg)
-
-(9) EG - EG
-
-![EG](images/EG.jpg)
-
 ---
 **Ascending Channel Pattern**
 
-(1) FICO - FICO
+(1) BA - BA
+
+![BA](images/BA.jpg)
+
+(2) NVR - NVR
+
+![NVR](images/NVR.jpg)
+
+(3) FI - FI
+
+![FI](images/FI.jpg)
+
+(4) FICO - FICO
 
 ![FICO](images/FICO.jpg)
 
-(2) PNW - PNW
+(5) NVDA - NVDA
 
-![PNW](images/PNW.jpg)
+![NVDA](images/NVDA.jpg)
 
-(3) DXCM - DXCM
-
-![DXCM](images/DXCM.jpg)
-
-(4) FDX - FDX
+(6) FDX - FDX
 
 ![FDX](images/FDX.jpg)
 
-(5) OTIS - OTIS
+(7) OTIS - OTIS
 
 ![OTIS](images/OTIS.jpg)
+
+(8) V - V
+
+![V](images/V.jpg)
+
+(9) DXCM - DXCM
+
+![DXCM](images/DXCM.jpg)
+
+(10) GRMN - GRMN
+
+![GRMN](images/GRMN.jpg)
 
 ---
 **Rising Wedge Pattern**
@@ -286,26 +262,34 @@ Inverse Head and Shoulders
 
 ![LIN](images/LIN.jpg)
 
-(2) ROP - ROP
-
-![ROP](images/ROP.jpg)
-
-(3) WELL - WELL
+(2) WELL - WELL
 
 ![WELL](images/WELL.jpg)
 
-(4) PCG - PCG
+(3) PCG - PCG
 
 ![PCG](images/PCG.jpg)
+
+(4) ROP - ROP
+
+![ROP](images/ROP.jpg)
+
+(5) ISRG - ISRG
+
+![ISRG](images/ISRG.jpg)
 
 ---
 **Ascending Triangle**
 
-(1) BDX - BDX
+(1) LNT - LNT
 
-![BDX](images/BDX.jpg)
+![LNT](images/LNT.jpg)
 
-(2) QRVO - QRVO
+(2) CMCSA - CMCSA
+
+![CMCSA](images/CMCSA.jpg)
+
+(3) QRVO - QRVO
 
 ![QRVO](images/QRVO.jpg)
 
@@ -320,54 +304,58 @@ Inverse Head and Shoulders
 
 ![AIZ](images/AIZ.jpg)
 
-(3) CDNS - CDNS
-
-![CDNS](images/CDNS.jpg)
-
-(4) FICO - FICO
-
-![FICO](images/FICO.jpg)
-
-(5) BA - BA
+(3) BA - BA
 
 ![BA](images/BA.jpg)
 
-(6) CTRA - CTRA
+(4) CDNS - CDNS
 
-![CTRA](images/CTRA.jpg)
+![CDNS](images/CDNS.jpg)
 
-(7) PNW - PNW
+(5) NVR - NVR
 
-![PNW](images/PNW.jpg)
+![NVR](images/NVR.jpg)
+
+(6) NVDA - NVDA
+
+![NVDA](images/NVDA.jpg)
 
 ---
 **Horizontal S/R**. It can be played as bearish if stock loses the support
 
-(1) APH - APH
+(1) EG - EG
 
-![APH](images/APH.jpg)
+![EG](images/EG.jpg)
 
-(2) DXCM - DXCM
+(2) AIZ - AIZ
 
-![DXCM](images/DXCM.jpg)
+![AIZ](images/AIZ.jpg)
 
-(3) MU - MU
+(3) ICE - ICE
 
-![MU](images/MU.jpg)
+![ICE](images/ICE.jpg)
 
-(4) UHS - UHS
+(4) FANG - FANG
 
-![UHS](images/UHS.jpg)
+![FANG](images/FANG.jpg)
 
 ---
 **Overbought Stock**
 
-(1) LH - LH
+(1) CARR - CARR
 
-![LH](images/LH.jpg)
+![CARR](images/CARR.jpg)
 
-(2) ROP - ROP
+(2) PKG - PKG
 
-![ROP](images/ROP.jpg)
+![PKG](images/PKG.jpg)
+
+(3) TXT - TXT
+
+![TXT](images/TXT.jpg)
+
+(4) WAB - WAB
+
+![WAB](images/WAB.jpg)
 
 ---
