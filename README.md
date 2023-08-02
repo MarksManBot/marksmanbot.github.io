@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: August 01, 2023*
+*Last Updated: August 02, 2023*
 ---
 ## Bullish Stocks
 ---
@@ -28,10 +28,6 @@ Inverse Head and Shoulders
 
 ![WRK](images/WRK.jpg)
 
-(2) CB - CB
-
-![CB](images/CB.jpg)
-
 ---
 **Double Bottom Pattern**
 
@@ -43,40 +39,44 @@ Inverse Head and Shoulders
 
 ![HRL](images/HRL.jpg)
 
-(3) KMI - KMI
+(3) CTVA - CTVA
+
+![CTVA](images/CTVA.jpg)
+
+(4) GIS - GIS
+
+![GIS](images/GIS.jpg)
+
+(5) KMI - KMI
 
 ![KMI](images/KMI.jpg)
 
-(4) DPZ - DPZ
-
-![DPZ](images/DPZ.jpg)
-
-(5) BF-B - BF-B
+(6) BF-B - BF-B
 
 ![BF-B](images/BF-B.jpg)
 
 ---
 **Descending Channel Pattern**
 
-(1) EXR - EXR
-
-![EXR](images/EXR.jpg)
-
-(2) HSIC - HSIC
+(1) HSIC - HSIC
 
 ![HSIC](images/HSIC.jpg)
+
+(2) EXR - EXR
+
+![EXR](images/EXR.jpg)
 
 (3) ELV - ELV
 
 ![ELV](images/ELV.jpg)
 
-(4) KDP - KDP
-
-![KDP](images/KDP.jpg)
-
-(5) AMCR - AMCR
+(4) AMCR - AMCR
 
 ![AMCR](images/AMCR.jpg)
+
+(5) KDP - KDP
+
+![KDP](images/KDP.jpg)
 
 (6) WYNN - WYNN
 
@@ -85,6 +85,10 @@ Inverse Head and Shoulders
 (7) AES - AES
 
 ![AES](images/AES.jpg)
+
+(8) ES - ES
+
+![ES](images/ES.jpg)
 
 ---
 **Falling Wedge Pattern**
@@ -96,6 +100,10 @@ Inverse Head and Shoulders
 (2) SEDG - SEDG
 
 ![SEDG](images/SEDG.jpg)
+
+(3) PFE - PFE
+
+![PFE](images/PFE.jpg)
 
 ---
 **Descending Triangle Pattern**
@@ -123,9 +131,9 @@ Inverse Head and Shoulders
 
 ![EBAY](images/EBAY.jpg)
 
-(4) TDG - TDG
+(4) PFE - PFE
 
-![TDG](images/TDG.jpg)
+![PFE](images/PFE.jpg)
 
 ---
 **Horizontal S/R**
@@ -146,9 +154,9 @@ Inverse Head and Shoulders
 
 ![AIZ](images/AIZ.jpg)
 
-(5) ICE - ICE
+(5) HOLX - HOLX
 
-![ICE](images/ICE.jpg)
+![HOLX](images/HOLX.jpg)
 
 ---
 
@@ -177,21 +185,21 @@ Inverse Head and Shoulders
 ---
 **Double Top Pattern**
 
-(1) LW - LW
-
-![LW](images/LW.jpg)
-
-(2) ZBH - ZBH
+(1) ZBH - ZBH
 
 ![ZBH](images/ZBH.jpg)
+
+(2) SYK - SYK
+
+![SYK](images/SYK.jpg)
 
 (3) SNPS - SNPS
 
 ![SNPS](images/SNPS.jpg)
 
-(4) SYK - SYK
+(4) LW - LW
 
-![SYK](images/SYK.jpg)
+![LW](images/LW.jpg)
 
 (5) MSI - MSI
 
@@ -212,37 +220,41 @@ Inverse Head and Shoulders
 
 ![BSX](images/BSX.jpg)
 
-(4) FI - FI
-
-![FI](images/FI.jpg)
-
-(5) NVDA - NVDA
-
-![NVDA](images/NVDA.jpg)
-
-(6) PNW - PNW
+(4) PNW - PNW
 
 ![PNW](images/PNW.jpg)
 
-(7) FICO - FICO
+(5) FI - FI
+
+![FI](images/FI.jpg)
+
+(6) FICO - FICO
 
 ![FICO](images/FICO.jpg)
+
+(7) NVDA - NVDA
+
+![NVDA](images/NVDA.jpg)
 
 (8) FDX - FDX
 
 ![FDX](images/FDX.jpg)
 
-(9) V - V
+(9) DXCM - DXCM
+
+![DXCM](images/DXCM.jpg)
+
+(10) OTIS - OTIS
+
+![OTIS](images/OTIS.jpg)
+
+(11) V - V
 
 ![V](images/V.jpg)
 
-(10) GRMN - GRMN
+(12) GRMN - GRMN
 
 ![GRMN](images/GRMN.jpg)
-
-(11) DXCM - DXCM
-
-![DXCM](images/DXCM.jpg)
 
 ---
 **Rising Wedge Pattern**
@@ -259,11 +271,7 @@ Inverse Head and Shoulders
 
 ![PCG](images/PCG.jpg)
 
-(4) ROP - ROP
-
-![ROP](images/ROP.jpg)
-
-(5) ISRG - ISRG
+(4) ISRG - ISRG
 
 ![ISRG](images/ISRG.jpg)
 
@@ -277,10 +285,6 @@ Inverse Head and Shoulders
 (2) CMCSA - CMCSA
 
 ![CMCSA](images/CMCSA.jpg)
-
-(3) QRVO - QRVO
-
-![QRVO](images/QRVO.jpg)
 
 ---
 **Trendline Resistance**
@@ -336,9 +340,9 @@ Inverse Head and Shoulders
 
 ![AIZ](images/AIZ.jpg)
 
-(5) ICE - ICE
+(5) HOLX - HOLX
 
-![ICE](images/ICE.jpg)
+![HOLX](images/HOLX.jpg)
 
 ---
 **Overbought Stock**
@@ -351,7 +355,23 @@ Inverse Head and Shoulders
 
 ![TXT](images/TXT.jpg)
 
-(3) PKG - PKG
+(3) LDOS - LDOS
+
+![LDOS](images/LDOS.jpg)
+
+(4) WAB - WAB
+
+![WAB](images/WAB.jpg)
+
+(5) MPC - MPC
+
+![MPC](images/MPC.jpg)
+
+(6) CAT - CAT
+
+![CAT](images/CAT.jpg)
+
+(7) PKG - PKG
 
 ![PKG](images/PKG.jpg)
 
