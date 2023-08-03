@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: August 02, 2023*
+*Last Updated: August 03, 2023*
 ---
 ## Bullish Stocks
 ---
@@ -28,51 +28,51 @@ Inverse Head and Shoulders
 
 ![WRK](images/WRK.jpg)
 
+(2) CB - CB
+
+![CB](images/CB.jpg)
+
 ---
 **Double Bottom Pattern**
 
-(1) GEN - GEN
-
-![GEN](images/GEN.jpg)
-
-(2) HRL - HRL
-
-![HRL](images/HRL.jpg)
-
-(3) CTVA - CTVA
+(1) CTVA - CTVA
 
 ![CTVA](images/CTVA.jpg)
 
-(4) GIS - GIS
+(2) GEN - GEN
 
-![GIS](images/GIS.jpg)
+![GEN](images/GEN.jpg)
 
-(5) KMI - KMI
+(3) HRL - HRL
+
+![HRL](images/HRL.jpg)
+
+(4) KMI - KMI
 
 ![KMI](images/KMI.jpg)
 
-(6) BF-B - BF-B
+(5) BF-B - BF-B
 
 ![BF-B](images/BF-B.jpg)
 
 ---
 **Descending Channel Pattern**
 
-(1) HSIC - HSIC
-
-![HSIC](images/HSIC.jpg)
-
-(2) EXR - EXR
+(1) EXR - EXR
 
 ![EXR](images/EXR.jpg)
+
+(2) HSIC - HSIC
+
+![HSIC](images/HSIC.jpg)
 
 (3) ELV - ELV
 
 ![ELV](images/ELV.jpg)
 
-(4) AMCR - AMCR
+(4) AES - AES
 
-![AMCR](images/AMCR.jpg)
+![AES](images/AES.jpg)
 
 (5) KDP - KDP
 
@@ -82,28 +82,20 @@ Inverse Head and Shoulders
 
 ![WYNN](images/WYNN.jpg)
 
-(7) AES - AES
+(7) FCX - FCX
 
-![AES](images/AES.jpg)
-
-(8) ES - ES
-
-![ES](images/ES.jpg)
+![FCX](images/FCX.jpg)
 
 ---
 **Falling Wedge Pattern**
 
-(1) D - D
-
-![D](images/D.jpg)
-
-(2) SEDG - SEDG
-
-![SEDG](images/SEDG.jpg)
-
-(3) PFE - PFE
+(1) PFE - PFE
 
 ![PFE](images/PFE.jpg)
+
+(2) D - D
+
+![D](images/D.jpg)
 
 ---
 **Descending Triangle Pattern**
@@ -112,28 +104,12 @@ Inverse Head and Shoulders
 
 ![EG](images/EG.jpg)
 
-(2) SJM - SJM
-
-![SJM](images/SJM.jpg)
-
 ---
 **Trendline Support**
 
 (1) LIN - LIN
 
 ![LIN](images/LIN.jpg)
-
-(2) WBA - WBA
-
-![WBA](images/WBA.jpg)
-
-(3) EBAY - EBAY
-
-![EBAY](images/EBAY.jpg)
-
-(4) PFE - PFE
-
-![PFE](images/PFE.jpg)
 
 ---
 **Horizontal S/R**
@@ -150,60 +126,71 @@ Inverse Head and Shoulders
 
 ![DXCM](images/DXCM.jpg)
 
-(4) AIZ - AIZ
-
-![AIZ](images/AIZ.jpg)
-
-(5) HOLX - HOLX
-
-![HOLX](images/HOLX.jpg)
-
 ---
 
 ## Bearish Stocks 
 ---
 
 ---
+**Head and Shoulders Pattern**
+
+(1) XRAY - XRAY
+
+![XRAY](images/XRAY.jpg)
+
+---
 **Multiple Top**
 
-(1) LH - LH
+(1) MCD - MCD
 
-![LH](images/LH.jpg)
+![MCD](images/MCD.jpg)
 
-(2) AXP - AXP
+(2) LKQ - LKQ
+
+![LKQ](images/LKQ.jpg)
+
+(3) AXP - AXP
 
 ![AXP](images/AXP.jpg)
 
-(3) AXON - AXON
+(4) AXON - AXON
 
 ![AXON](images/AXON.jpg)
 
-(4) TXN - TXN
+(5) LH - LH
+
+![LH](images/LH.jpg)
+
+(6) TXN - TXN
 
 ![TXN](images/TXN.jpg)
 
 ---
 **Double Top Pattern**
 
-(1) ZBH - ZBH
+(1) CE - CE
+
+![CE](images/CE.jpg)
+
+(2) AMP - AMP
+
+![AMP](images/AMP.jpg)
+
+(3) HWM - HWM
+
+![HWM](images/HWM.jpg)
+
+(4) INTC - INTC
+
+![INTC](images/INTC.jpg)
+
+(5) ZBH - ZBH
 
 ![ZBH](images/ZBH.jpg)
 
-(2) SYK - SYK
+(6) SYK - SYK
 
 ![SYK](images/SYK.jpg)
-
-(3) SNPS - SNPS
-
-![SNPS](images/SNPS.jpg)
-
-(4) LW - LW
-
-![LW](images/LW.jpg)
-
-(5) MSI - MSI
-
-![MSI](images/MSI.jpg)
 
 ---
 **Ascending Channel Pattern**
@@ -216,13 +203,13 @@ Inverse Head and Shoulders
 
 ![NVR](images/NVR.jpg)
 
-(3) BSX - BSX
-
-![BSX](images/BSX.jpg)
-
-(4) PNW - PNW
+(3) PNW - PNW
 
 ![PNW](images/PNW.jpg)
+
+(4) BSX - BSX
+
+![BSX](images/BSX.jpg)
 
 (5) FI - FI
 
@@ -232,29 +219,17 @@ Inverse Head and Shoulders
 
 ![FICO](images/FICO.jpg)
 
-(7) NVDA - NVDA
-
-![NVDA](images/NVDA.jpg)
-
-(8) FDX - FDX
+(7) FDX - FDX
 
 ![FDX](images/FDX.jpg)
+
+(8) NVDA - NVDA
+
+![NVDA](images/NVDA.jpg)
 
 (9) DXCM - DXCM
 
 ![DXCM](images/DXCM.jpg)
-
-(10) OTIS - OTIS
-
-![OTIS](images/OTIS.jpg)
-
-(11) V - V
-
-![V](images/V.jpg)
-
-(12) GRMN - GRMN
-
-![GRMN](images/GRMN.jpg)
 
 ---
 **Rising Wedge Pattern**
@@ -267,24 +242,20 @@ Inverse Head and Shoulders
 
 ![WELL](images/WELL.jpg)
 
-(3) PCG - PCG
+(3) TAP - TAP
+
+![TAP](images/TAP.jpg)
+
+(4) PCG - PCG
 
 ![PCG](images/PCG.jpg)
-
-(4) ISRG - ISRG
-
-![ISRG](images/ISRG.jpg)
 
 ---
 **Ascending Triangle**
 
-(1) LNT - LNT
+(1) QRVO - QRVO
 
-![LNT](images/LNT.jpg)
-
-(2) CMCSA - CMCSA
-
-![CMCSA](images/CMCSA.jpg)
+![QRVO](images/QRVO.jpg)
 
 ---
 **Trendline Resistance**
@@ -293,33 +264,33 @@ Inverse Head and Shoulders
 
 ![LIN](images/LIN.jpg)
 
-(2) NFLX - NFLX
-
-![NFLX](images/NFLX.jpg)
-
-(3) BA - BA
+(2) BA - BA
 
 ![BA](images/BA.jpg)
 
-(4) AIZ - AIZ
-
-![AIZ](images/AIZ.jpg)
-
-(5) CDNS - CDNS
-
-![CDNS](images/CDNS.jpg)
-
-(6) PNW - PNW
+(3) PNW - PNW
 
 ![PNW](images/PNW.jpg)
 
-(7) NVR - NVR
+(4) CTRA - CTRA
+
+![CTRA](images/CTRA.jpg)
+
+(5) NVR - NVR
 
 ![NVR](images/NVR.jpg)
 
-(8) NVDA - NVDA
+(6) AMAT - AMAT
 
-![NVDA](images/NVDA.jpg)
+![AMAT](images/AMAT.jpg)
+
+(7) FICO - FICO
+
+![FICO](images/FICO.jpg)
+
+(8) KLAC - KLAC
+
+![KLAC](images/KLAC.jpg)
 
 ---
 **Horizontal S/R**. It can be played as bearish if stock loses the support
@@ -336,42 +307,14 @@ Inverse Head and Shoulders
 
 ![DXCM](images/DXCM.jpg)
 
-(4) AIZ - AIZ
-
-![AIZ](images/AIZ.jpg)
-
-(5) HOLX - HOLX
-
-![HOLX](images/HOLX.jpg)
-
 ---
 **Overbought Stock**
 
-(1) CARR - CARR
-
-![CARR](images/CARR.jpg)
-
-(2) TXT - TXT
-
-![TXT](images/TXT.jpg)
-
-(3) LDOS - LDOS
-
-![LDOS](images/LDOS.jpg)
-
-(4) WAB - WAB
-
-![WAB](images/WAB.jpg)
-
-(5) MPC - MPC
+(1) MPC - MPC
 
 ![MPC](images/MPC.jpg)
 
-(6) CAT - CAT
-
-![CAT](images/CAT.jpg)
-
-(7) PKG - PKG
+(2) PKG - PKG
 
 ![PKG](images/PKG.jpg)
 
