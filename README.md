@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: August 03, 2023*
+*Last Updated: August 04, 2023*
 ---
 ## Bullish Stocks
 ---
@@ -16,10 +16,6 @@ Inverse Head and Shoulders
 (2) WM - WM
 
 ![WM](images/WM.jpg)
-
-(3) MCK - MCK
-
-![MCK](images/MCK.jpg)
 
 ---
 **Multiple Bottoms**
@@ -39,40 +35,44 @@ Inverse Head and Shoulders
 
 ![CTVA](images/CTVA.jpg)
 
-(2) GEN - GEN
-
-![GEN](images/GEN.jpg)
-
-(3) HRL - HRL
+(2) HRL - HRL
 
 ![HRL](images/HRL.jpg)
 
-(4) KMI - KMI
+(3) GEN - GEN
+
+![GEN](images/GEN.jpg)
+
+(4) GIS - GIS
+
+![GIS](images/GIS.jpg)
+
+(5) KMI - KMI
 
 ![KMI](images/KMI.jpg)
 
-(5) BF-B - BF-B
+(6) BF-B - BF-B
 
 ![BF-B](images/BF-B.jpg)
 
 ---
 **Descending Channel Pattern**
 
-(1) EXR - EXR
+(1) ETR - ETR
 
-![EXR](images/EXR.jpg)
+![ETR](images/ETR.jpg)
 
 (2) HSIC - HSIC
 
 ![HSIC](images/HSIC.jpg)
 
-(3) ELV - ELV
+(3) EXR - EXR
+
+![EXR](images/EXR.jpg)
+
+(4) ELV - ELV
 
 ![ELV](images/ELV.jpg)
-
-(4) AES - AES
-
-![AES](images/AES.jpg)
 
 (5) KDP - KDP
 
@@ -82,7 +82,11 @@ Inverse Head and Shoulders
 
 ![WYNN](images/WYNN.jpg)
 
-(7) FCX - FCX
+(7) AES - AES
+
+![AES](images/AES.jpg)
+
+(8) FCX - FCX
 
 ![FCX](images/FCX.jpg)
 
@@ -104,10 +108,18 @@ Inverse Head and Shoulders
 
 ![EG](images/EG.jpg)
 
+(2) SJM - SJM
+
+![SJM](images/SJM.jpg)
+
 ---
 **Trendline Support**
 
-(1) LIN - LIN
+(1) ETR - ETR
+
+![ETR](images/ETR.jpg)
+
+(2) LIN - LIN
 
 ![LIN](images/LIN.jpg)
 
@@ -127,6 +139,17 @@ Inverse Head and Shoulders
 ![DXCM](images/DXCM.jpg)
 
 ---
+**Oversold Stock**
+
+(1) DXC - DXC
+
+![DXC](images/DXC.jpg)
+
+(2) SEDG - SEDG
+
+![SEDG](images/SEDG.jpg)
+
+---
 
 ## Bearish Stocks 
 ---
@@ -141,27 +164,31 @@ Inverse Head and Shoulders
 ---
 **Multiple Top**
 
-(1) MCD - MCD
+(1) MSCI - MSCI
+
+![MSCI](images/MSCI.jpg)
+
+(2) ADI - ADI
+
+![ADI](images/ADI.jpg)
+
+(3) MCD - MCD
 
 ![MCD](images/MCD.jpg)
 
-(2) LKQ - LKQ
+(4) LKQ - LKQ
 
 ![LKQ](images/LKQ.jpg)
 
-(3) AXP - AXP
+(5) AXP - AXP
 
 ![AXP](images/AXP.jpg)
 
-(4) AXON - AXON
+(6) AXON - AXON
 
 ![AXON](images/AXON.jpg)
 
-(5) LH - LH
-
-![LH](images/LH.jpg)
-
-(6) TXN - TXN
+(7) TXN - TXN
 
 ![TXN](images/TXN.jpg)
 
@@ -184,52 +211,36 @@ Inverse Head and Shoulders
 
 ![INTC](images/INTC.jpg)
 
-(5) ZBH - ZBH
-
-![ZBH](images/ZBH.jpg)
-
-(6) SYK - SYK
-
-![SYK](images/SYK.jpg)
-
 ---
 **Ascending Channel Pattern**
 
-(1) BA - BA
-
-![BA](images/BA.jpg)
-
-(2) NVR - NVR
+(1) NVR - NVR
 
 ![NVR](images/NVR.jpg)
 
-(3) PNW - PNW
+(2) PNW - PNW
 
 ![PNW](images/PNW.jpg)
 
-(4) BSX - BSX
+(3) BSX - BSX
 
 ![BSX](images/BSX.jpg)
 
-(5) FI - FI
+(4) FI - FI
 
 ![FI](images/FI.jpg)
 
-(6) FICO - FICO
+(5) FICO - FICO
 
 ![FICO](images/FICO.jpg)
 
-(7) FDX - FDX
+(6) FDX - FDX
 
 ![FDX](images/FDX.jpg)
 
-(8) NVDA - NVDA
+(7) NVDA - NVDA
 
 ![NVDA](images/NVDA.jpg)
-
-(9) DXCM - DXCM
-
-![DXCM](images/DXCM.jpg)
 
 ---
 **Rising Wedge Pattern**
@@ -250,6 +261,10 @@ Inverse Head and Shoulders
 
 ![PCG](images/PCG.jpg)
 
+(5) AAPL - AAPL
+
+![AAPL](images/AAPL.jpg)
+
 ---
 **Ascending Triangle**
 
@@ -264,31 +279,19 @@ Inverse Head and Shoulders
 
 ![LIN](images/LIN.jpg)
 
-(2) BA - BA
+(2) AIZ - AIZ
 
-![BA](images/BA.jpg)
+![AIZ](images/AIZ.jpg)
 
-(3) PNW - PNW
-
-![PNW](images/PNW.jpg)
-
-(4) CTRA - CTRA
-
-![CTRA](images/CTRA.jpg)
-
-(5) NVR - NVR
-
-![NVR](images/NVR.jpg)
-
-(6) AMAT - AMAT
+(3) AMAT - AMAT
 
 ![AMAT](images/AMAT.jpg)
 
-(7) FICO - FICO
+(4) NVR - NVR
 
-![FICO](images/FICO.jpg)
+![NVR](images/NVR.jpg)
 
-(8) KLAC - KLAC
+(5) KLAC - KLAC
 
 ![KLAC](images/KLAC.jpg)
 
@@ -310,12 +313,16 @@ Inverse Head and Shoulders
 ---
 **Overbought Stock**
 
-(1) MPC - MPC
+(1) PKG - PKG
+
+![PKG](images/PKG.jpg)
+
+(2) MPC - MPC
 
 ![MPC](images/MPC.jpg)
 
-(2) PKG - PKG
+(3) AFL - AFL
 
-![PKG](images/PKG.jpg)
+![AFL](images/AFL.jpg)
 
 ---
