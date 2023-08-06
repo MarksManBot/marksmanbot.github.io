@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: August 04, 2023*
+*Last Updated: August 06, 2023*
 ---
 ## Bullish Stocks
 ---
@@ -12,10 +12,6 @@ Inverse Head and Shoulders
 (1) PXD - PXD
 
 ![PXD](images/PXD.jpg)
-
-(2) WM - WM
-
-![WM](images/WM.jpg)
 
 ---
 **Multiple Bottoms**
@@ -31,27 +27,19 @@ Inverse Head and Shoulders
 ---
 **Double Bottom Pattern**
 
-(1) CTVA - CTVA
-
-![CTVA](images/CTVA.jpg)
-
-(2) HRL - HRL
+(1) HRL - HRL
 
 ![HRL](images/HRL.jpg)
 
-(3) GEN - GEN
+(2) GEN - GEN
 
 ![GEN](images/GEN.jpg)
 
-(4) GIS - GIS
-
-![GIS](images/GIS.jpg)
-
-(5) KMI - KMI
+(3) KMI - KMI
 
 ![KMI](images/KMI.jpg)
 
-(6) BF-B - BF-B
+(4) BF-B - BF-B
 
 ![BF-B](images/BF-B.jpg)
 
@@ -74,21 +62,21 @@ Inverse Head and Shoulders
 
 ![ELV](images/ELV.jpg)
 
-(5) KDP - KDP
+(5) AES - AES
 
-![KDP](images/KDP.jpg)
+![AES](images/AES.jpg)
 
 (6) WYNN - WYNN
 
 ![WYNN](images/WYNN.jpg)
 
-(7) AES - AES
-
-![AES](images/AES.jpg)
-
-(8) FCX - FCX
+(7) FCX - FCX
 
 ![FCX](images/FCX.jpg)
+
+(8) ES - ES
+
+![ES](images/ES.jpg)
 
 ---
 **Falling Wedge Pattern**
@@ -108,20 +96,24 @@ Inverse Head and Shoulders
 
 ![EG](images/EG.jpg)
 
-(2) SJM - SJM
+(2) AMT - AMT
 
-![SJM](images/SJM.jpg)
+![AMT](images/AMT.jpg)
 
 ---
 **Trendline Support**
 
-(1) ETR - ETR
+(1) LIN - LIN
+
+![LIN](images/LIN.jpg)
+
+(2) ETR - ETR
 
 ![ETR](images/ETR.jpg)
 
-(2) LIN - LIN
+(3) WBA - WBA
 
-![LIN](images/LIN.jpg)
+![WBA](images/WBA.jpg)
 
 ---
 **Horizontal S/R**
@@ -134,9 +126,9 @@ Inverse Head and Shoulders
 
 ![FANG](images/FANG.jpg)
 
-(3) DXCM - DXCM
+(3) ICE - ICE
 
-![DXCM](images/DXCM.jpg)
+![ICE](images/ICE.jpg)
 
 ---
 **Oversold Stock**
@@ -145,7 +137,11 @@ Inverse Head and Shoulders
 
 ![DXC](images/DXC.jpg)
 
-(2) SEDG - SEDG
+(2) RMD - RMD
+
+![RMD](images/RMD.jpg)
+
+(3) SEDG - SEDG
 
 ![SEDG](images/SEDG.jpg)
 
@@ -155,22 +151,15 @@ Inverse Head and Shoulders
 ---
 
 ---
-**Head and Shoulders Pattern**
-
-(1) XRAY - XRAY
-
-![XRAY](images/XRAY.jpg)
-
----
 **Multiple Top**
 
-(1) MSCI - MSCI
-
-![MSCI](images/MSCI.jpg)
-
-(2) ADI - ADI
+(1) ADI - ADI
 
 ![ADI](images/ADI.jpg)
+
+(2) MSCI - MSCI
+
+![MSCI](images/MSCI.jpg)
 
 (3) MCD - MCD
 
@@ -195,19 +184,23 @@ Inverse Head and Shoulders
 ---
 **Double Top Pattern**
 
-(1) CE - CE
+(1) QRVO - QRVO
+
+![QRVO](images/QRVO.jpg)
+
+(2) CE - CE
 
 ![CE](images/CE.jpg)
 
-(2) AMP - AMP
+(3) AMP - AMP
 
 ![AMP](images/AMP.jpg)
 
-(3) HWM - HWM
+(4) HWM - HWM
 
 ![HWM](images/HWM.jpg)
 
-(4) INTC - INTC
+(5) INTC - INTC
 
 ![INTC](images/INTC.jpg)
 
@@ -222,13 +215,13 @@ Inverse Head and Shoulders
 
 ![PNW](images/PNW.jpg)
 
-(3) BSX - BSX
-
-![BSX](images/BSX.jpg)
-
-(4) FI - FI
+(3) FI - FI
 
 ![FI](images/FI.jpg)
+
+(4) BSX - BSX
+
+![BSX](images/BSX.jpg)
 
 (5) FICO - FICO
 
@@ -237,10 +230,6 @@ Inverse Head and Shoulders
 (6) FDX - FDX
 
 ![FDX](images/FDX.jpg)
-
-(7) NVDA - NVDA
-
-![NVDA](images/NVDA.jpg)
 
 ---
 **Rising Wedge Pattern**
@@ -261,17 +250,6 @@ Inverse Head and Shoulders
 
 ![PCG](images/PCG.jpg)
 
-(5) AAPL - AAPL
-
-![AAPL](images/AAPL.jpg)
-
----
-**Ascending Triangle**
-
-(1) QRVO - QRVO
-
-![QRVO](images/QRVO.jpg)
-
 ---
 **Trendline Resistance**
 
@@ -283,17 +261,17 @@ Inverse Head and Shoulders
 
 ![AIZ](images/AIZ.jpg)
 
-(3) AMAT - AMAT
-
-![AMAT](images/AMAT.jpg)
-
-(4) NVR - NVR
+(3) NVR - NVR
 
 ![NVR](images/NVR.jpg)
 
-(5) KLAC - KLAC
+(4) AMAT - AMAT
 
-![KLAC](images/KLAC.jpg)
+![AMAT](images/AMAT.jpg)
+
+(5) CTRA - CTRA
+
+![CTRA](images/CTRA.jpg)
 
 ---
 **Horizontal S/R**. It can be played as bearish if stock loses the support
@@ -306,23 +284,23 @@ Inverse Head and Shoulders
 
 ![FANG](images/FANG.jpg)
 
-(3) DXCM - DXCM
+(3) ICE - ICE
 
-![DXCM](images/DXCM.jpg)
+![ICE](images/ICE.jpg)
 
 ---
 **Overbought Stock**
 
-(1) PKG - PKG
-
-![PKG](images/PKG.jpg)
-
-(2) MPC - MPC
+(1) MPC - MPC
 
 ![MPC](images/MPC.jpg)
 
-(3) AFL - AFL
+(2) CME - CME
 
-![AFL](images/AFL.jpg)
+![CME](images/CME.jpg)
+
+(3) BG - BG
+
+![BG](images/BG.jpg)
 
 ---
