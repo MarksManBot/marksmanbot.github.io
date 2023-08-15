@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: August 14, 2023*
+*Last Updated: August 15, 2023*
 ---
 ## Bullish Stocks
 ---
@@ -35,17 +35,17 @@ Inverse Head and Shoulders
 ---
 **Double Bottom Pattern**
 
-(1) NTRS - NTRS
+(1) BF-B - BF-B
+
+![BF-B](images/BF-B.jpg)
+
+(2) NTRS - NTRS
 
 ![NTRS](images/NTRS.jpg)
 
-(2) SPG - SPG
+(3) SPG - SPG
 
 ![SPG](images/SPG.jpg)
-
-(3) BF-B - BF-B
-
-![BF-B](images/BF-B.jpg)
 
 ---
 **Descending Channel Pattern**
@@ -54,21 +54,25 @@ Inverse Head and Shoulders
 
 ![ETR](images/ETR.jpg)
 
-(2) EXR - EXR
+(2) HSIC - HSIC
 
-![EXR](images/EXR.jpg)
+![HSIC](images/HSIC.jpg)
 
-(3) AES - AES
+(3) D - D
 
-![AES](images/AES.jpg)
+![D](images/D.jpg)
 
 (4) WYNN - WYNN
 
 ![WYNN](images/WYNN.jpg)
 
-(5) D - D
+(5) AES - AES
 
-![D](images/D.jpg)
+![AES](images/AES.jpg)
+
+(6) ES - ES
+
+![ES](images/ES.jpg)
 
 ---
 **Falling Wedge Pattern**
@@ -111,17 +115,17 @@ Inverse Head and Shoulders
 
 ![FANG](images/FANG.jpg)
 
-(2) EG - EG
+(2) LVS - LVS
+
+![LVS](images/LVS.jpg)
+
+(3) EG - EG
 
 ![EG](images/EG.jpg)
 
-(3) ICE - ICE
+(4) ICE - ICE
 
 ![ICE](images/ICE.jpg)
-
-(4) LVS - LVS
-
-![LVS](images/LVS.jpg)
 
 (5) GS - GS
 
@@ -169,13 +173,13 @@ Inverse Head and Shoulders
 
 ![AXON](images/AXON.jpg)
 
-(6) NDSN - NDSN
-
-![NDSN](images/NDSN.jpg)
-
-(7) TXN - TXN
+(6) TXN - TXN
 
 ![TXN](images/TXN.jpg)
+
+(7) NDSN - NDSN
+
+![NDSN](images/NDSN.jpg)
 
 ---
 **Double Top Pattern**
@@ -184,72 +188,60 @@ Inverse Head and Shoulders
 
 ![DD](images/DD.jpg)
 
-(2) QRVO - QRVO
-
-![QRVO](images/QRVO.jpg)
-
-(3) MSI - MSI
+(2) MSI - MSI
 
 ![MSI](images/MSI.jpg)
+
+(3) HWM - HWM
+
+![HWM](images/HWM.jpg)
 
 (4) INTC - INTC
 
 ![INTC](images/INTC.jpg)
 
-(5) HWM - HWM
-
-![HWM](images/HWM.jpg)
-
-(6) CE - CE
+(5) CE - CE
 
 ![CE](images/CE.jpg)
 
-(7) CCL - CCL
-
-![CCL](images/CCL.jpg)
-
-(8) SYK - SYK
+(6) SYK - SYK
 
 ![SYK](images/SYK.jpg)
 
-(9) ZBH - ZBH
+(7) ZBH - ZBH
 
 ![ZBH](images/ZBH.jpg)
 
 ---
 **Ascending Channel Pattern**
 
-(1) PNW - PNW
-
-![PNW](images/PNW.jpg)
-
-(2) FI - FI
+(1) FI - FI
 
 ![FI](images/FI.jpg)
 
-(3) TDG - TDG
-
-![TDG](images/TDG.jpg)
-
-(4) FICO - FICO
+(2) FICO - FICO
 
 ![FICO](images/FICO.jpg)
 
-(5) PHM - PHM
+(3) PHM - PHM
 
 ![PHM](images/PHM.jpg)
 
-(6) GE - GE
+(4) GE - GE
 
 ![GE](images/GE.jpg)
 
-(7) FDX - FDX
+(5) FDX - FDX
 
 ![FDX](images/FDX.jpg)
 
-(8) NVDA - NVDA
+(6) NVDA - NVDA
 
 ![NVDA](images/NVDA.jpg)
+
+(7) PPG - PPG
+
+![PPG](images/PPG.jpg)
 
 ---
 **Rising Wedge Pattern**
@@ -262,6 +254,10 @@ Inverse Head and Shoulders
 
 ![WELL](images/WELL.jpg)
 
+(3) AIG - AIG
+
+![AIG](images/AIG.jpg)
+
 ---
 **Ascending Triangle**
 
@@ -272,29 +268,41 @@ Inverse Head and Shoulders
 ---
 **Trendline Resistance**
 
-(1) LIN - LIN
+(1) AMAT - AMAT
 
-![LIN](images/LIN.jpg)
+![AMAT](images/AMAT.jpg)
 
 (2) RCL - RCL
 
 ![RCL](images/RCL.jpg)
 
-(3) CTRA - CTRA
+(3) LIN - LIN
+
+![LIN](images/LIN.jpg)
+
+(4) DVA - DVA
+
+![DVA](images/DVA.jpg)
+
+(5) CTRA - CTRA
 
 ![CTRA](images/CTRA.jpg)
 
-(4) FANG - FANG
+(6) FANG - FANG
 
 ![FANG](images/FANG.jpg)
 
-(5) WBA - WBA
+(7) WBA - WBA
 
 ![WBA](images/WBA.jpg)
 
-(6) DVA - DVA
+(8) CARR - CARR
 
-![DVA](images/DVA.jpg)
+![CARR](images/CARR.jpg)
+
+(9) FICO - FICO
+
+![FICO](images/FICO.jpg)
 
 ---
 **Horizontal S/R**. It can be played as bearish if stock loses the support
@@ -303,17 +311,17 @@ Inverse Head and Shoulders
 
 ![FANG](images/FANG.jpg)
 
-(2) EG - EG
+(2) LVS - LVS
+
+![LVS](images/LVS.jpg)
+
+(3) EG - EG
 
 ![EG](images/EG.jpg)
 
-(3) ICE - ICE
+(4) ICE - ICE
 
 ![ICE](images/ICE.jpg)
-
-(4) LVS - LVS
-
-![LVS](images/LVS.jpg)
 
 (5) GS - GS
 
@@ -330,12 +338,8 @@ Inverse Head and Shoulders
 
 ![J](images/J.jpg)
 
-(3) AKAM - AKAM
+(3) BR - BR
 
-![AKAM](images/AKAM.jpg)
-
-(4) AMGN - AMGN
-
-![AMGN](images/AMGN.jpg)
+![BR](images/BR.jpg)
 
 ---
