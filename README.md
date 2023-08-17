@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: August 16, 2023*
+*Last Updated: August 17, 2023*
 ---
 ## Bullish Stocks
 ---
@@ -35,25 +35,21 @@ Inverse Head and Shoulders
 ---
 **Double Bottom Pattern**
 
-(1) KMI - KMI
-
-![KMI](images/KMI.jpg)
-
-(2) BF-B - BF-B
+(1) BF-B - BF-B
 
 ![BF-B](images/BF-B.jpg)
 
-(3) NTRS - NTRS
+(2) NTRS - NTRS
 
 ![NTRS](images/NTRS.jpg)
+
+(3) KMI - KMI
+
+![KMI](images/KMI.jpg)
 
 (4) SPG - SPG
 
 ![SPG](images/SPG.jpg)
-
-(5) DFS - DFS
-
-![DFS](images/DFS.jpg)
 
 ---
 **Descending Channel Pattern**
@@ -62,25 +58,29 @@ Inverse Head and Shoulders
 
 ![ETR](images/ETR.jpg)
 
-(2) AES - AES
-
-![AES](images/AES.jpg)
-
-(3) D - D
-
-![D](images/D.jpg)
-
-(4) ES - ES
+(2) ES - ES
 
 ![ES](images/ES.jpg)
 
-(5) WYNN - WYNN
+(3) WYNN - WYNN
 
 ![WYNN](images/WYNN.jpg)
 
-(6) GD - GD
+(4) AES - AES
 
-![GD](images/GD.jpg)
+![AES](images/AES.jpg)
+
+(5) MNST - MNST
+
+![MNST](images/MNST.jpg)
+
+(6) D - D
+
+![D](images/D.jpg)
+
+(7) INCY - INCY
+
+![INCY](images/INCY.jpg)
 
 ---
 **Falling Wedge Pattern**
@@ -93,20 +93,9 @@ Inverse Head and Shoulders
 
 ![PFE](images/PFE.jpg)
 
-(3) BMY - BMY
-
-![BMY](images/BMY.jpg)
-
-(4) T - T
+(3) T - T
 
 ![T](images/T.jpg)
-
----
-**Descending Triangle Pattern**
-
-(1) DOW - DOW
-
-![DOW](images/DOW.jpg)
 
 ---
 **Trendline Support**
@@ -123,6 +112,10 @@ Inverse Head and Shoulders
 
 ![WBA](images/WBA.jpg)
 
+(4) DHI - DHI
+
+![DHI](images/DHI.jpg)
+
 ---
 **Horizontal S/R**
 
@@ -130,19 +123,15 @@ Inverse Head and Shoulders
 
 ![FANG](images/FANG.jpg)
 
-(2) LVS - LVS
-
-![LVS](images/LVS.jpg)
-
-(3) ICE - ICE
+(2) ICE - ICE
 
 ![ICE](images/ICE.jpg)
 
-(4) EG - EG
+(3) LVS - LVS
 
-![EG](images/EG.jpg)
+![LVS](images/LVS.jpg)
 
-(5) GS - GS
+(4) GS - GS
 
 ![GS](images/GS.jpg)
 
@@ -160,6 +149,10 @@ Inverse Head and Shoulders
 (3) ZBH - ZBH
 
 ![ZBH](images/ZBH.jpg)
+
+(4) SEE - SEE
+
+![SEE](images/SEE.jpg)
 
 ---
 
@@ -191,9 +184,9 @@ Inverse Head and Shoulders
 ---
 **Double Top Pattern**
 
-(1) HWM - HWM
+(1) LYB - LYB
 
-![HWM](images/HWM.jpg)
+![LYB](images/LYB.jpg)
 
 (2) DD - DD
 
@@ -246,13 +239,13 @@ Inverse Head and Shoulders
 
 ![FDX](images/FDX.jpg)
 
-(7) INTU - INTU
-
-![INTU](images/INTU.jpg)
-
-(8) ECL - ECL
+(7) ECL - ECL
 
 ![ECL](images/ECL.jpg)
+
+(8) INTU - INTU
+
+![INTU](images/INTU.jpg)
 
 ---
 **Rising Wedge Pattern**
@@ -272,31 +265,23 @@ Inverse Head and Shoulders
 ---
 **Trendline Resistance**
 
-(1) RCL - RCL
-
-![RCL](images/RCL.jpg)
-
-(2) DVA - DVA
-
-![DVA](images/DVA.jpg)
-
-(3) LIN - LIN
+(1) LIN - LIN
 
 ![LIN](images/LIN.jpg)
+
+(2) WBA - WBA
+
+![WBA](images/WBA.jpg)
+
+(3) RCL - RCL
+
+![RCL](images/RCL.jpg)
 
 (4) FICO - FICO
 
 ![FICO](images/FICO.jpg)
 
-(5) WBA - WBA
-
-![WBA](images/WBA.jpg)
-
-(6) CTRA - CTRA
-
-![CTRA](images/CTRA.jpg)
-
-(7) ADBE - ADBE
+(5) ADBE - ADBE
 
 ![ADBE](images/ADBE.jpg)
 
@@ -307,19 +292,15 @@ Inverse Head and Shoulders
 
 ![FANG](images/FANG.jpg)
 
-(2) LVS - LVS
-
-![LVS](images/LVS.jpg)
-
-(3) ICE - ICE
+(2) ICE - ICE
 
 ![ICE](images/ICE.jpg)
 
-(4) EG - EG
+(3) LVS - LVS
 
-![EG](images/EG.jpg)
+![LVS](images/LVS.jpg)
 
-(5) GS - GS
+(4) GS - GS
 
 ![GS](images/GS.jpg)
 
