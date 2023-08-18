@@ -3,7 +3,7 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: August 17, 2023*
+*Last Updated: August 18, 2023*
 ---
 ## Bullish Stocks
 ---
@@ -58,29 +58,25 @@ Inverse Head and Shoulders
 
 ![ETR](images/ETR.jpg)
 
-(2) ES - ES
-
-![ES](images/ES.jpg)
-
-(3) WYNN - WYNN
-
-![WYNN](images/WYNN.jpg)
-
-(4) AES - AES
+(2) AES - AES
 
 ![AES](images/AES.jpg)
 
-(5) MNST - MNST
+(3) ES - ES
 
-![MNST](images/MNST.jpg)
+![ES](images/ES.jpg)
 
-(6) D - D
+(4) D - D
 
 ![D](images/D.jpg)
 
-(7) INCY - INCY
+(5) WYNN - WYNN
 
-![INCY](images/INCY.jpg)
+![WYNN](images/WYNN.jpg)
+
+(6) MNST - MNST
+
+![MNST](images/MNST.jpg)
 
 ---
 **Falling Wedge Pattern**
@@ -93,7 +89,11 @@ Inverse Head and Shoulders
 
 ![PFE](images/PFE.jpg)
 
-(3) T - T
+(3) BMY - BMY
+
+![BMY](images/BMY.jpg)
+
+(4) T - T
 
 ![T](images/T.jpg)
 
@@ -112,10 +112,6 @@ Inverse Head and Shoulders
 
 ![WBA](images/WBA.jpg)
 
-(4) DHI - DHI
-
-![DHI](images/DHI.jpg)
-
 ---
 **Horizontal S/R**
 
@@ -127,9 +123,9 @@ Inverse Head and Shoulders
 
 ![ICE](images/ICE.jpg)
 
-(3) LVS - LVS
+(3) AME - AME
 
-![LVS](images/LVS.jpg)
+![AME](images/AME.jpg)
 
 (4) GS - GS
 
@@ -142,15 +138,23 @@ Inverse Head and Shoulders
 
 ![PODD](images/PODD.jpg)
 
-(2) SEDG - SEDG
-
-![SEDG](images/SEDG.jpg)
-
-(3) ZBH - ZBH
+(2) ZBH - ZBH
 
 ![ZBH](images/ZBH.jpg)
 
-(4) SEE - SEE
+(3) SEDG - SEDG
+
+![SEDG](images/SEDG.jpg)
+
+(4) LW - LW
+
+![LW](images/LW.jpg)
+
+(5) GEHC - GEHC
+
+![GEHC](images/GEHC.jpg)
+
+(6) SEE - SEE
 
 ![SEE](images/SEE.jpg)
 
@@ -169,28 +173,24 @@ Inverse Head and Shoulders
 ---
 **Multiple Top**
 
-(1) MCD - MCD
-
-![MCD](images/MCD.jpg)
-
-(2) ADI - ADI
+(1) ADI - ADI
 
 ![ADI](images/ADI.jpg)
 
-(3) AXON - AXON
+(2) MCD - MCD
 
-![AXON](images/AXON.jpg)
+![MCD](images/MCD.jpg)
 
 ---
 **Double Top Pattern**
 
-(1) LYB - LYB
+(1) URI - URI
+
+![URI](images/URI.jpg)
+
+(2) LYB - LYB
 
 ![LYB](images/LYB.jpg)
-
-(2) DD - DD
-
-![DD](images/DD.jpg)
 
 (3) MSI - MSI
 
@@ -200,52 +200,52 @@ Inverse Head and Shoulders
 
 ![ZBH](images/ZBH.jpg)
 
-(5) SYK - SYK
+(5) DD - DD
+
+![DD](images/DD.jpg)
+
+(6) SYK - SYK
 
 ![SYK](images/SYK.jpg)
 
-(6) SNPS - SNPS
+(7) SNPS - SNPS
 
 ![SNPS](images/SNPS.jpg)
 
-(7) INTC - INTC
+(8) INTC - INTC
 
 ![INTC](images/INTC.jpg)
 
 ---
 **Ascending Channel Pattern**
 
-(1) FI - FI
-
-![FI](images/FI.jpg)
-
-(2) FICO - FICO
+(1) FICO - FICO
 
 ![FICO](images/FICO.jpg)
+
+(2) FI - FI
+
+![FI](images/FI.jpg)
 
 (3) PHM - PHM
 
 ![PHM](images/PHM.jpg)
 
-(4) GE - GE
-
-![GE](images/GE.jpg)
-
-(5) PPG - PPG
+(4) PPG - PPG
 
 ![PPG](images/PPG.jpg)
 
-(6) FDX - FDX
+(5) FDX - FDX
 
 ![FDX](images/FDX.jpg)
+
+(6) GE - GE
+
+![GE](images/GE.jpg)
 
 (7) ECL - ECL
 
 ![ECL](images/ECL.jpg)
-
-(8) INTU - INTU
-
-![INTU](images/INTU.jpg)
 
 ---
 **Rising Wedge Pattern**
@@ -265,23 +265,19 @@ Inverse Head and Shoulders
 ---
 **Trendline Resistance**
 
-(1) LIN - LIN
-
-![LIN](images/LIN.jpg)
-
-(2) WBA - WBA
-
-![WBA](images/WBA.jpg)
-
-(3) RCL - RCL
-
-![RCL](images/RCL.jpg)
-
-(4) FICO - FICO
+(1) FICO - FICO
 
 ![FICO](images/FICO.jpg)
 
-(5) ADBE - ADBE
+(2) LIN - LIN
+
+![LIN](images/LIN.jpg)
+
+(3) WBA - WBA
+
+![WBA](images/WBA.jpg)
+
+(4) ADBE - ADBE
 
 ![ADBE](images/ADBE.jpg)
 
@@ -296,19 +292,12 @@ Inverse Head and Shoulders
 
 ![ICE](images/ICE.jpg)
 
-(3) LVS - LVS
+(3) AME - AME
 
-![LVS](images/LVS.jpg)
+![AME](images/AME.jpg)
 
 (4) GS - GS
 
 ![GS](images/GS.jpg)
-
----
-**Overbought Stock**
-
-(1) LLY - LLY
-
-![LLY](images/LLY.jpg)
 
 ---
