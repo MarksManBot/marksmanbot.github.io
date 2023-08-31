@@ -3,17 +3,21 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: August 30, 2023*
+*Last Updated: August 31, 2023*
 ---
 ## Bullish Stocks
 ---
 Inverse Head and Shoulders
 
-(1) LUV - LUV
+(1) IT - IT
+
+![IT](images/IT.jpg)
+
+(2) LUV - LUV
 
 ![LUV](images/LUV.jpg)
 
-(2) IQV - IQV
+(3) IQV - IQV
 
 ![IQV](images/IQV.jpg)
 
@@ -51,13 +55,25 @@ Inverse Head and Shoulders
 ---
 **Double Bottom Pattern**
 
-(1) SPG - SPG
+(1) HON - HON
+
+![HON](images/HON.jpg)
+
+(2) KMI - KMI
+
+![KMI](images/KMI.jpg)
+
+(3) BF-B - BF-B
+
+![BF-B](images/BF-B.jpg)
+
+(4) SPG - SPG
 
 ![SPG](images/SPG.jpg)
 
-(2) PM - PM
+(5) RVTY - RVTY
 
-![PM](images/PM.jpg)
+![RVTY](images/RVTY.jpg)
 
 ---
 **Descending Channel Pattern**
@@ -66,13 +82,13 @@ Inverse Head and Shoulders
 
 ![WBA](images/WBA.jpg)
 
-(2) HSIC - HSIC
-
-![HSIC](images/HSIC.jpg)
-
-(3) ES - ES
+(2) ES - ES
 
 ![ES](images/ES.jpg)
+
+(3) HSIC - HSIC
+
+![HSIC](images/HSIC.jpg)
 
 (4) AMCR - AMCR
 
@@ -111,17 +127,9 @@ Inverse Head and Shoulders
 
 ![ETR](images/ETR.jpg)
 
-(4) GRMN - GRMN
+(4) MU - MU
 
-![GRMN](images/GRMN.jpg)
-
-(5) WBD - WBD
-
-![WBD](images/WBD.jpg)
-
-(6) DHI - DHI
-
-![DHI](images/DHI.jpg)
+![MU](images/MU.jpg)
 
 ---
 **Horizontal S/R**
@@ -130,24 +138,25 @@ Inverse Head and Shoulders
 
 ![FANG](images/FANG.jpg)
 
-(2) EVRG - EVRG
+(2) LVS - LVS
 
-![EVRG](images/EVRG.jpg)
+![LVS](images/LVS.jpg)
 
 (3) GS - GS
 
 ![GS](images/GS.jpg)
 
-(4) HRL - HRL
+(4) OXY - OXY
+
+![OXY](images/OXY.jpg)
+
+(5) HRL - HRL
 
 ![HRL](images/HRL.jpg)
 
----
-**Oversold Stock**
+(6) BA - BA
 
-(1) DLTR - DLTR
-
-![DLTR](images/DLTR.jpg)
+![BA](images/BA.jpg)
 
 ---
 
@@ -164,42 +173,46 @@ Inverse Head and Shoulders
 ---
 **Multiple Top**
 
-(1) AXON - AXON
+(1) MCD - MCD
+
+![MCD](images/MCD.jpg)
+
+(2) AXON - AXON
 
 ![AXON](images/AXON.jpg)
 
-(2) MLM - MLM
+(3) MLM - MLM
 
 ![MLM](images/MLM.jpg)
-
-(3) MCD - MCD
-
-![MCD](images/MCD.jpg)
 
 ---
 **Double Top Pattern**
 
-(1) CAH - CAH
+(1) GE - GE
+
+![GE](images/GE.jpg)
+
+(2) CAH - CAH
 
 ![CAH](images/CAH.jpg)
 
-(2) ZBH - ZBH
+(3) ZBH - ZBH
 
 ![ZBH](images/ZBH.jpg)
-
-(3) SYK - SYK
-
-![SYK](images/SYK.jpg)
 
 (4) INTC - INTC
 
 ![INTC](images/INTC.jpg)
 
-(5) MSI - MSI
+(5) SYK - SYK
+
+![SYK](images/SYK.jpg)
+
+(6) MSI - MSI
 
 ![MSI](images/MSI.jpg)
 
-(6) SNPS - SNPS
+(7) SNPS - SNPS
 
 ![SNPS](images/SNPS.jpg)
 
@@ -210,17 +223,25 @@ Inverse Head and Shoulders
 
 ![FICO](images/FICO.jpg)
 
-(2) FI - FI
-
-![FI](images/FI.jpg)
-
-(3) NVR - NVR
+(2) NVR - NVR
 
 ![NVR](images/NVR.jpg)
 
-(4) AMAT - AMAT
+(3) FI - FI
+
+![FI](images/FI.jpg)
+
+(4) ECL - ECL
+
+![ECL](images/ECL.jpg)
+
+(5) AMAT - AMAT
 
 ![AMAT](images/AMAT.jpg)
+
+(6) PWR - PWR
+
+![PWR](images/PWR.jpg)
 
 ---
 **Rising Wedge Pattern**
@@ -229,21 +250,28 @@ Inverse Head and Shoulders
 
 ![LIN](images/LIN.jpg)
 
-(2) WELL - WELL
-
-![WELL](images/WELL.jpg)
-
-(3) WMT - WMT
+(2) WMT - WMT
 
 ![WMT](images/WMT.jpg)
 
-(4) AIG - AIG
+(3) AIG - AIG
 
 ![AIG](images/AIG.jpg)
+
+(4) WELL - WELL
+
+![WELL](images/WELL.jpg)
 
 (5) IBM - IBM
 
 ![IBM](images/IBM.jpg)
+
+---
+**Ascending Triangle**
+
+(1) BALL - BALL
+
+![BALL](images/BALL.jpg)
 
 ---
 **Trendline Resistance**
@@ -252,29 +280,29 @@ Inverse Head and Shoulders
 
 ![FICO](images/FICO.jpg)
 
-(2) HRL - HRL
+(2) NVR - NVR
+
+![NVR](images/NVR.jpg)
+
+(3) HRL - HRL
 
 ![HRL](images/HRL.jpg)
 
-(3) VZ - VZ
+(4) ALL - ALL
+
+![ALL](images/ALL.jpg)
+
+(5) VZ - VZ
 
 ![VZ](images/VZ.jpg)
-
-(4) AMAT - AMAT
-
-![AMAT](images/AMAT.jpg)
-
-(5) LIN - LIN
-
-![LIN](images/LIN.jpg)
 
 (6) PHM - PHM
 
 ![PHM](images/PHM.jpg)
 
-(7) ALL - ALL
+(7) LIN - LIN
 
-![ALL](images/ALL.jpg)
+![LIN](images/LIN.jpg)
 
 ---
 **Horizontal S/R**. It can be played as bearish if stock loses the support
@@ -283,16 +311,24 @@ Inverse Head and Shoulders
 
 ![FANG](images/FANG.jpg)
 
-(2) EVRG - EVRG
+(2) LVS - LVS
 
-![EVRG](images/EVRG.jpg)
+![LVS](images/LVS.jpg)
 
 (3) GS - GS
 
 ![GS](images/GS.jpg)
 
-(4) HRL - HRL
+(4) OXY - OXY
+
+![OXY](images/OXY.jpg)
+
+(5) HRL - HRL
 
 ![HRL](images/HRL.jpg)
+
+(6) BA - BA
+
+![BA](images/BA.jpg)
 
 ---
