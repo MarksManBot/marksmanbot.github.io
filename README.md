@@ -3,19 +3,19 @@
 MarksMan is an automated bot for the U.S. Stock Market that can trade options using a custom quant algorithm. The bot is capable of reading and detecting alerts in real time, scan for unusual volumes, play options based on unusual options flow and take profits at its liking. Additionally, the bot is capable to detect several chart patterns across S&P500 and NASDAQ100 Markets, generate charts and labels, get OI/Volume for each stock and get real time options ask/bid.
 
 # Daily Newsletter
-*Last Updated: August 31, 2023*
+*Last Updated: September 01, 2023*
 ---
 ## Bullish Stocks
 ---
 Inverse Head and Shoulders
 
-(1) IT - IT
-
-![IT](images/IT.jpg)
-
-(2) LUV - LUV
+(1) LUV - LUV
 
 ![LUV](images/LUV.jpg)
+
+(2) IT - IT
+
+![IT](images/IT.jpg)
 
 (3) IQV - IQV
 
@@ -44,32 +44,28 @@ Inverse Head and Shoulders
 
 ![WRK](images/WRK.jpg)
 
-(6) CB - CB
-
-![CB](images/CB.jpg)
-
-(7) INCY - INCY
+(6) INCY - INCY
 
 ![INCY](images/INCY.jpg)
 
 ---
 **Double Bottom Pattern**
 
-(1) HON - HON
-
-![HON](images/HON.jpg)
-
-(2) KMI - KMI
+(1) KMI - KMI
 
 ![KMI](images/KMI.jpg)
 
-(3) BF-B - BF-B
+(2) BF-B - BF-B
 
 ![BF-B](images/BF-B.jpg)
 
-(4) SPG - SPG
+(3) SPG - SPG
 
 ![SPG](images/SPG.jpg)
+
+(4) HON - HON
+
+![HON](images/HON.jpg)
 
 (5) RVTY - RVTY
 
@@ -86,11 +82,7 @@ Inverse Head and Shoulders
 
 ![ES](images/ES.jpg)
 
-(3) HSIC - HSIC
-
-![HSIC](images/HSIC.jpg)
-
-(4) AMCR - AMCR
+(3) AMCR - AMCR
 
 ![AMCR](images/AMCR.jpg)
 
@@ -119,17 +111,25 @@ Inverse Head and Shoulders
 
 ![TTWO](images/TTWO.jpg)
 
-(2) LIN - LIN
-
-![LIN](images/LIN.jpg)
-
-(3) ETR - ETR
+(2) ETR - ETR
 
 ![ETR](images/ETR.jpg)
 
-(4) MU - MU
+(3) LIN - LIN
 
-![MU](images/MU.jpg)
+![LIN](images/LIN.jpg)
+
+(4) FI - FI
+
+![FI](images/FI.jpg)
+
+(5) PLD - PLD
+
+![PLD](images/PLD.jpg)
+
+(6) TDG - TDG
+
+![TDG](images/TDG.jpg)
 
 ---
 **Horizontal S/R**
@@ -138,23 +138,15 @@ Inverse Head and Shoulders
 
 ![FANG](images/FANG.jpg)
 
-(2) LVS - LVS
-
-![LVS](images/LVS.jpg)
-
-(3) GS - GS
+(2) GS - GS
 
 ![GS](images/GS.jpg)
 
-(4) OXY - OXY
+(3) OXY - OXY
 
 ![OXY](images/OXY.jpg)
 
-(5) HRL - HRL
-
-![HRL](images/HRL.jpg)
-
-(6) BA - BA
+(4) BA - BA
 
 ![BA](images/BA.jpg)
 
@@ -188,33 +180,33 @@ Inverse Head and Shoulders
 ---
 **Double Top Pattern**
 
-(1) GE - GE
+(1) SNPS - SNPS
+
+![SNPS](images/SNPS.jpg)
+
+(2) GE - GE
 
 ![GE](images/GE.jpg)
 
-(2) CAH - CAH
+(3) CAH - CAH
 
 ![CAH](images/CAH.jpg)
 
-(3) ZBH - ZBH
+(4) ZBH - ZBH
 
 ![ZBH](images/ZBH.jpg)
 
-(4) INTC - INTC
+(5) INTC - INTC
 
 ![INTC](images/INTC.jpg)
-
-(5) SYK - SYK
-
-![SYK](images/SYK.jpg)
 
 (6) MSI - MSI
 
 ![MSI](images/MSI.jpg)
 
-(7) SNPS - SNPS
+(7) SYK - SYK
 
-![SNPS](images/SNPS.jpg)
+![SYK](images/SYK.jpg)
 
 ---
 **Ascending Channel Pattern**
@@ -223,13 +215,13 @@ Inverse Head and Shoulders
 
 ![FICO](images/FICO.jpg)
 
-(2) NVR - NVR
-
-![NVR](images/NVR.jpg)
-
-(3) FI - FI
+(2) FI - FI
 
 ![FI](images/FI.jpg)
+
+(3) NVR - NVR
+
+![NVR](images/NVR.jpg)
 
 (4) ECL - ECL
 
@@ -242,6 +234,10 @@ Inverse Head and Shoulders
 (6) PWR - PWR
 
 ![PWR](images/PWR.jpg)
+
+(7) GWW - GWW
+
+![GWW](images/GWW.jpg)
 
 ---
 **Rising Wedge Pattern**
@@ -284,23 +280,19 @@ Inverse Head and Shoulders
 
 ![NVR](images/NVR.jpg)
 
-(3) HRL - HRL
-
-![HRL](images/HRL.jpg)
-
-(4) ALL - ALL
+(3) ALL - ALL
 
 ![ALL](images/ALL.jpg)
 
-(5) VZ - VZ
+(4) VZ - VZ
 
 ![VZ](images/VZ.jpg)
 
-(6) PHM - PHM
+(5) PHM - PHM
 
 ![PHM](images/PHM.jpg)
 
-(7) LIN - LIN
+(6) LIN - LIN
 
 ![LIN](images/LIN.jpg)
 
@@ -311,23 +303,15 @@ Inverse Head and Shoulders
 
 ![FANG](images/FANG.jpg)
 
-(2) LVS - LVS
-
-![LVS](images/LVS.jpg)
-
-(3) GS - GS
+(2) GS - GS
 
 ![GS](images/GS.jpg)
 
-(4) OXY - OXY
+(3) OXY - OXY
 
 ![OXY](images/OXY.jpg)
 
-(5) HRL - HRL
-
-![HRL](images/HRL.jpg)
-
-(6) BA - BA
+(4) BA - BA
 
 ![BA](images/BA.jpg)
 
